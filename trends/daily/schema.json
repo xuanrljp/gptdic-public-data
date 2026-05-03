@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://xuanrljp.github.io/gptdic-public-data/trends/daily/schema.json",
+  "$id": "https://tiantianjizhang-tw.swalloworkstudio.com/gptdic-public-data/trends/daily/schema.json",
   "title": "GPTDic Trend Recommendations",
   "type": "object",
   "required": [

@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-03T10:46:47.477Z",
+  "generated_at": "2026-05-03T12:19:41.820Z",
   "date": "2026-05-02",
-  "expires_at": "2026-05-04T10:46:47.477Z",
+  "expires_at": "2026-05-04T12:19:41.820Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -26,16 +26,6 @@
     },
     {
       "rank": 2,
-      "slug": "do",
-      "word": "Do",
-      "score": 91,
-      "reason": "top_search",
-      "matched_terms": [
-        "why did spirit airlines shut down"
-      ]
-    },
-    {
-      "rank": 3,
       "slug": "down",
       "word": "down",
       "score": 91,
@@ -45,7 +35,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "slug": "food",
       "word": "food",
       "score": 90,
@@ -55,7 +45,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "slug": "new",
       "word": "new",
       "score": 86,
@@ -65,7 +55,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "slug": "access",
       "word": "access",
       "score": 77,
@@ -75,7 +65,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "slug": "expand",
       "word": "expand",
       "score": 77,
@@ -85,7 +75,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "slug": "airline",
       "word": "airline",
       "score": 73,
@@ -94,6 +84,16 @@
         "southwest airlines",
         "why did spirit airlines shut down",
         "spirit airlines"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "club",
+      "word": "club",
+      "score": 70,
+      "reason": "top_search",
+      "matched_terms": [
+        "multnomah athletic club"
       ]
     }
   ],
