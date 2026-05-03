@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "latest": "latest.json",
+  "generated_at": "2026-05-03T07:46:14.499Z",
+  "items_count": 8,
+  "history": [
+    {
+      "date": "2026-05-02",
+      "file": "2026-05-02.json",
+      "generated_at": "2026-05-03T07:46:14.499Z"
+    },
+    {
+      "date": "2026-05-03",
+      "file": "2026-05-03.json",
+      "generated_at": "2026-05-03T00:00:00.000Z"
+    }
+  ]
+}

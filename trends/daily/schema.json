@@ -1,0 +1,118 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://xuanrljp.github.io/gptdic-public-data/trends/daily/schema.json",
+  "title": "GPTDic Trend Recommendations",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "generated_at",
+    "date",
+    "expires_at",
+    "source",
+    "items",
+    "fallback_used"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "generated_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "date": {
+      "type": "string",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "expires_at": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "provider",
+        "dataset",
+        "region",
+        "tables",
+        "attribution"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "provider": {
+          "const": "google_trends"
+        },
+        "dataset": {
+          "type": "string"
+        },
+        "region": {
+          "type": "string"
+        },
+        "tables": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "minItems": 1
+        },
+        "attribution": {
+          "type": "string"
+        }
+      }
+    },
+    "items": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "rank",
+          "slug",
+          "word",
+          "score",
+          "reason",
+          "matched_terms"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "rank": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "slug": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "word": {
+            "type": "string",
+            "minLength": 1
+          },
+          "score": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 100
+          },
+          "reason": {
+            "type": "string",
+            "enum": [
+              "rising_search",
+              "top_search",
+              "mixed_signal",
+              "fallback"
+            ]
+          },
+          "matched_terms": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    },
+    "fallback_used": {
+      "type": "boolean"
+    }
+  }
+}

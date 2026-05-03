@@ -1,0 +1,101 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-05-03T07:46:14.499Z",
+  "date": "2026-05-02",
+  "expires_at": "2026-05-04T07:46:14.499Z",
+  "source": {
+    "provider": "google_trends",
+    "dataset": "bigquery-public-data.google_trends",
+    "region": "US",
+    "tables": [
+      "top_terms",
+      "top_rising_terms"
+    ],
+    "attribution": "Data source: Google Trends"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "slug": "mean",
+      "word": "mean",
+      "score": 93,
+      "reason": "rising_search",
+      "matched_terms": [
+        "hur meaning"
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "do",
+      "word": "Do",
+      "score": 91,
+      "reason": "top_search",
+      "matched_terms": [
+        "why did spirit airlines shut down"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "down",
+      "word": "down",
+      "score": 91,
+      "reason": "top_search",
+      "matched_terms": [
+        "why did spirit airlines shut down"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "food",
+      "word": "food",
+      "score": 90,
+      "reason": "top_search",
+      "matched_terms": [
+        "fast-food restaurant"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "new",
+      "word": "new",
+      "score": 86,
+      "reason": "top_search",
+      "matched_terms": [
+        "princess charlotte celebrated her eleventh birthday with a new photograph"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "access",
+      "word": "access",
+      "score": 77,
+      "reason": "rising_search",
+      "matched_terms": [
+        "trump signs executive order expanding workers access to retirement plans"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "expand",
+      "word": "expand",
+      "score": 77,
+      "reason": "rising_search",
+      "matched_terms": [
+        "trump signs executive order expanding workers access to retirement plans"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "airline",
+      "word": "airline",
+      "score": 73,
+      "reason": "mixed_signal",
+      "matched_terms": [
+        "southwest airlines",
+        "why did spirit airlines shut down",
+        "spirit airlines"
+      ]
+    }
+  ],
+  "fallback_used": false
+}

@@ -1,0 +1,99 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-05-03T00:00:00.000Z",
+  "date": "2026-05-03",
+  "expires_at": "2026-05-04T00:00:00.000Z",
+  "source": {
+    "provider": "google_trends",
+    "dataset": "bigquery-public-data.google_trends",
+    "region": "US",
+    "tables": [
+      "top_terms",
+      "top_rising_terms"
+    ],
+    "attribution": "Data source: Google Trends"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "slug": "family",
+      "word": "family",
+      "score": 100,
+      "reason": "top_search",
+      "matched_terms": [
+        "family activities"
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "learn",
+      "word": "learn",
+      "score": 100,
+      "reason": "rising_search",
+      "matched_terms": [
+        "learn english"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "food",
+      "word": "food",
+      "score": 98,
+      "reason": "top_search",
+      "matched_terms": [
+        "food festival"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "home",
+      "word": "home",
+      "score": 96,
+      "reason": "top_search",
+      "matched_terms": [
+        "home design"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "help",
+      "word": "help",
+      "score": 94,
+      "reason": "rising_search",
+      "matched_terms": [
+        "help desk"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "business",
+      "word": "business",
+      "score": 92,
+      "reason": "top_search",
+      "matched_terms": [
+        "business news"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "people",
+      "word": "people",
+      "score": 92,
+      "reason": "top_search",
+      "matched_terms": [
+        "people search"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "climate",
+      "word": "climate",
+      "score": 91,
+      "reason": "rising_search",
+      "matched_terms": [
+        "climate change"
+      ]
+    }
+  ],
+  "fallback_used": false
+}
