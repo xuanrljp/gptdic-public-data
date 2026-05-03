@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-03T12:19:41.820Z",
+  "generated_at": "2026-05-03T12:42:22.927Z",
   "date": "2026-05-02",
-  "expires_at": "2026-05-04T12:19:41.820Z",
+  "expires_at": "2026-05-04T12:42:22.927Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -46,16 +46,6 @@
     },
     {
       "rank": 4,
-      "slug": "new",
-      "word": "new",
-      "score": 86,
-      "reason": "top_search",
-      "matched_terms": [
-        "princess charlotte celebrated her eleventh birthday with a new photograph"
-      ]
-    },
-    {
-      "rank": 5,
       "slug": "access",
       "word": "access",
       "score": 77,
@@ -65,7 +55,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "slug": "expand",
       "word": "expand",
       "score": 77,
@@ -75,7 +65,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "slug": "airline",
       "word": "airline",
       "score": 73,
@@ -87,7 +77,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "slug": "club",
       "word": "club",
       "score": 70,
@@ -95,7 +85,15 @@
       "matched_terms": [
         "multnomah athletic club"
       ]
+    },
+    {
+      "rank": 8,
+      "slug": "family",
+      "word": "family",
+      "score": 0,
+      "reason": "fallback",
+      "matched_terms": []
     }
   ],
-  "fallback_used": false
+  "fallback_used": true
 }
