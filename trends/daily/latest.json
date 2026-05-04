@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-03T12:42:22.927Z",
-  "date": "2026-05-02",
-  "expires_at": "2026-05-04T12:42:22.927Z",
+  "generated_at": "2026-05-04T11:12:18.115Z",
+  "date": "2026-05-03",
+  "expires_at": "2026-05-05T11:12:18.115Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -18,82 +18,92 @@
       "rank": 1,
       "slug": "mean",
       "word": "mean",
-      "score": 93,
+      "score": 90,
       "reason": "rising_search",
       "matched_terms": [
-        "hur meaning"
+        "wattle meaning"
       ]
     },
     {
       "rank": 2,
       "slug": "down",
       "word": "down",
-      "score": 91,
-      "reason": "top_search",
+      "score": 89,
+      "reason": "rising_search",
       "matched_terms": [
-        "why did spirit airlines shut down"
+        "spirit airlines shutting down"
       ]
     },
     {
       "rank": 3,
-      "slug": "food",
-      "word": "food",
-      "score": 90,
+      "slug": "meet",
+      "word": "meet",
+      "score": 89,
       "reason": "top_search",
       "matched_terms": [
-        "fast-food restaurant"
+        "david kendall boy meets world"
       ]
     },
     {
       "rank": 4,
-      "slug": "access",
-      "word": "access",
-      "score": 77,
-      "reason": "rising_search",
+      "slug": "call",
+      "word": "Call",
+      "score": 87,
+      "reason": "top_search",
       "matched_terms": [
-        "trump signs executive order expanding workers access to retirement plans"
+        "delta flight 1323 was delayed after a passenger refused to end a phone call"
       ]
     },
     {
       "rank": 5,
-      "slug": "expand",
-      "word": "expand",
-      "score": 77,
-      "reason": "rising_search",
+      "slug": "cruise",
+      "word": "cruise",
+      "score": 86,
+      "reason": "top_search",
       "matched_terms": [
-        "trump signs executive order expanding workers access to retirement plans"
+        "new msc cruises theme park"
       ]
     },
     {
       "rank": 6,
-      "slug": "airline",
-      "word": "airline",
-      "score": 73,
-      "reason": "mixed_signal",
+      "slug": "after",
+      "word": "after",
+      "score": 81,
+      "reason": "top_search",
       "matched_terms": [
-        "southwest airlines",
-        "why did spirit airlines shut down",
-        "spirit airlines"
+        "delta flight 1323 was delayed after a passenger refused to end a phone call"
       ]
     },
     {
       "rank": 7,
-      "slug": "club",
-      "word": "club",
-      "score": 70,
+      "slug": "flight",
+      "word": "flight",
+      "score": 81,
       "reason": "top_search",
       "matched_terms": [
-        "multnomah athletic club"
+        "delta flight 1323 was delayed after a passenger refused to end a phone call"
       ]
     },
     {
       "rank": 8,
-      "slug": "family",
-      "word": "family",
-      "score": 0,
-      "reason": "fallback",
-      "matched_terms": []
+      "slug": "look",
+      "word": "look",
+      "score": 80,
+      "reason": "top_search",
+      "matched_terms": [
+        "dannielynn birkhead debuted a gothic rock look at kentucky derby"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "access",
+      "word": "access",
+      "score": 80,
+      "reason": "rising_search",
+      "matched_terms": [
+        "trump signs executive order expanding workers access to retirement plans"
+      ]
     }
   ],
-  "fallback_used": true
+  "fallback_used": false
 }

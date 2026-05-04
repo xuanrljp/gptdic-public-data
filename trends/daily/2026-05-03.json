@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-03T00:00:00.000Z",
+  "generated_at": "2026-05-04T11:12:18.115Z",
   "date": "2026-05-03",
-  "expires_at": "2026-05-04T00:00:00.000Z",
+  "expires_at": "2026-05-05T11:12:18.115Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,82 +16,92 @@
   "items": [
     {
       "rank": 1,
-      "slug": "family",
-      "word": "family",
-      "score": 100,
-      "reason": "top_search",
+      "slug": "mean",
+      "word": "mean",
+      "score": 90,
+      "reason": "rising_search",
       "matched_terms": [
-        "family activities"
+        "wattle meaning"
       ]
     },
     {
       "rank": 2,
-      "slug": "learn",
-      "word": "learn",
-      "score": 100,
+      "slug": "down",
+      "word": "down",
+      "score": 89,
       "reason": "rising_search",
       "matched_terms": [
-        "learn english"
+        "spirit airlines shutting down"
       ]
     },
     {
       "rank": 3,
-      "slug": "food",
-      "word": "food",
-      "score": 98,
+      "slug": "meet",
+      "word": "meet",
+      "score": 89,
       "reason": "top_search",
       "matched_terms": [
-        "food festival"
+        "david kendall boy meets world"
       ]
     },
     {
       "rank": 4,
-      "slug": "home",
-      "word": "home",
-      "score": 96,
+      "slug": "call",
+      "word": "Call",
+      "score": 87,
       "reason": "top_search",
       "matched_terms": [
-        "home design"
+        "delta flight 1323 was delayed after a passenger refused to end a phone call"
       ]
     },
     {
       "rank": 5,
-      "slug": "help",
-      "word": "help",
-      "score": 94,
-      "reason": "rising_search",
+      "slug": "cruise",
+      "word": "cruise",
+      "score": 86,
+      "reason": "top_search",
       "matched_terms": [
-        "help desk"
+        "new msc cruises theme park"
       ]
     },
     {
       "rank": 6,
-      "slug": "business",
-      "word": "business",
-      "score": 92,
+      "slug": "after",
+      "word": "after",
+      "score": 81,
       "reason": "top_search",
       "matched_terms": [
-        "business news"
+        "delta flight 1323 was delayed after a passenger refused to end a phone call"
       ]
     },
     {
       "rank": 7,
-      "slug": "people",
-      "word": "people",
-      "score": 92,
+      "slug": "flight",
+      "word": "flight",
+      "score": 81,
       "reason": "top_search",
       "matched_terms": [
-        "people search"
+        "delta flight 1323 was delayed after a passenger refused to end a phone call"
       ]
     },
     {
       "rank": 8,
-      "slug": "climate",
-      "word": "climate",
-      "score": 91,
+      "slug": "look",
+      "word": "look",
+      "score": 80,
+      "reason": "top_search",
+      "matched_terms": [
+        "dannielynn birkhead debuted a gothic rock look at kentucky derby"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "access",
+      "word": "access",
+      "score": 80,
       "reason": "rising_search",
       "matched_terms": [
-        "climate change"
+        "trump signs executive order expanding workers access to retirement plans"
       ]
     }
   ],
