@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-08T10:56:26.624Z",
-  "date": "2026-05-07",
-  "expires_at": "2026-05-09T10:56:26.624Z",
+  "generated_at": "2026-05-09T10:47:04.003Z",
+  "date": "2026-05-08",
+  "expires_at": "2026-05-10T10:47:04.003Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,93 +16,93 @@
   "items": [
     {
       "rank": 1,
-      "slug": "baby",
-      "word": "baby",
-      "score": 89,
+      "slug": "down",
+      "word": "down",
+      "score": 93,
       "reason": "top_search",
       "matched_terms": [
-        "karoline leavitt baby announcement"
+        "is discord down"
       ]
     },
     {
       "rank": 2,
-      "slug": "show",
-      "word": "show",
-      "score": 88,
+      "slug": "file",
+      "word": "file",
+      "score": 91,
       "reason": "top_search",
       "matched_terms": [
-        "the late show with stephen colbert"
+        "ufo files"
       ]
     },
     {
       "rank": 3,
-      "slug": "brave",
-      "word": "brave",
-      "score": 87,
+      "slug": "canvas",
+      "word": "canvas",
+      "score": 90,
       "reason": "rising_search",
       "matched_terms": [
-        "braves vs mariners"
+        "canvas hacked",
+        "canvas"
       ]
     },
     {
       "rank": 4,
-      "slug": "middle",
-      "word": "middle",
-      "score": 87,
-      "reason": "top_search",
+      "slug": "hack",
+      "word": "hack",
+      "score": 90,
+      "reason": "rising_search",
       "matched_terms": [
-        "owen goodnight middle school"
+        "canvas hacked"
       ]
     },
     {
       "rank": 5,
-      "slug": "forecast",
-      "word": "forecast",
+      "slug": "vitamin",
+      "word": "vitamin",
       "score": 87,
       "reason": "top_search",
       "matched_terms": [
-        "2026 el niño intensity forecast"
+        "vitamin k deficiency"
       ]
     },
     {
       "rank": 6,
-      "slug": "villa",
-      "word": "villa",
-      "score": 86,
-      "reason": "top_search",
+      "slug": "pirate",
+      "word": "pirate",
+      "score": 87,
+      "reason": "rising_search",
       "matched_terms": [
-        "aston villa vs nottm forest"
+        "pirates vs diamondbacks"
       ]
     },
     {
       "rank": 7,
-      "slug": "knot",
-      "word": "knot",
+      "slug": "thunder",
+      "word": "thunder",
       "score": 86,
       "reason": "rising_search",
       "matched_terms": [
-        "gamelan knot",
-        "matchstick knot"
+        "lakers vs thunder"
       ]
     },
     {
       "rank": 8,
-      "slug": "palace",
-      "word": "palace",
+      "slug": "right",
+      "word": "right",
       "score": 86,
       "reason": "top_search",
       "matched_terms": [
-        "palace vs shakhtar donetsk"
+        "largest the price is right prize"
       ]
     },
     {
       "rank": 9,
-      "slug": "canvas",
-      "word": "canvas",
+      "slug": "court",
+      "word": "court",
       "score": 85,
       "reason": "top_search",
       "matched_terms": [
-        "canvas"
+        "virginia supreme court ruling on redistricting"
       ]
     }
   ],
