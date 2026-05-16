@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-15T11:16:55.891Z",
-  "date": "2026-05-14",
-  "expires_at": "2026-05-16T11:16:55.891Z",
+  "generated_at": "2026-05-16T10:49:38.665Z",
+  "date": "2026-05-15",
+  "expires_at": "2026-05-17T10:49:38.665Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,29 +16,29 @@
   "items": [
     {
       "rank": 1,
-      "slug": "giant",
-      "word": "giant",
-      "score": 94,
-      "reason": "rising_search",
+      "slug": "force",
+      "word": "force",
+      "score": 100,
+      "reason": "top_search",
       "matched_terms": [
-        "giants vs dodgers"
+        "air force monica witt"
       ]
     },
     {
       "rank": 2,
-      "slug": "cancel",
-      "word": "cancel",
+      "slug": "villa",
+      "word": "villa",
       "score": 91,
       "reason": "top_search",
       "matched_terms": [
-        "mississippi redistricting special session cancelled"
+        "aston villa vs liverpool"
       ]
     },
     {
       "rank": 3,
       "slug": "brave",
       "word": "brave",
-      "score": 87,
+      "score": 86,
       "reason": "rising_search",
       "matched_terms": [
         "cubs vs braves"
@@ -46,62 +46,62 @@
     },
     {
       "rank": 4,
-      "slug": "champion",
-      "word": "champion",
-      "score": 87,
+      "slug": "circuit",
+      "word": "circuit",
+      "score": 86,
       "reason": "top_search",
       "matched_terms": [
-        "pga championship leaderboard"
+        "clarence thomas circuit justice security"
       ]
     },
     {
       "rank": 5,
-      "slug": "cart",
-      "word": "cart",
+      "slug": "campus",
+      "word": "campus",
       "score": 85,
-      "reason": "top_search",
+      "reason": "rising_search",
       "matched_terms": [
-        "clarence carter"
+        "off campus"
       ]
     },
     {
       "rank": 6,
-      "slug": "session",
-      "word": "session",
-      "score": 85,
+      "slug": "flag",
+      "word": "flag",
+      "score": 82,
       "reason": "top_search",
       "matched_terms": [
-        "mississippi redistricting special session cancelled"
+        "why are flags at half mast today"
       ]
     },
     {
       "rank": 7,
-      "slug": "cause",
-      "word": "cause",
-      "score": 84,
+      "slug": "tiger",
+      "word": "tiger",
+      "score": 82,
       "reason": "rising_search",
       "matched_terms": [
-        "brandon clarke cause of death"
+        "tigers vs mets"
       ]
     },
     {
       "rank": 8,
-      "slug": "watch",
-      "word": "watch",
-      "score": 81,
-      "reason": "rising_search",
+      "slug": "delay",
+      "word": "delay",
+      "score": 80,
+      "reason": "top_search",
       "matched_terms": [
-        "ap watch"
+        "senate housing bill house delay"
       ]
     },
     {
       "rank": 9,
-      "slug": "release",
-      "word": "release",
-      "score": 81,
-      "reason": "top_search",
+      "slug": "twin",
+      "word": "twin",
+      "score": 79,
+      "reason": "rising_search",
       "matched_terms": [
-        "nfl schedule release"
+        "marlins vs twins"
       ]
     }
   ],
