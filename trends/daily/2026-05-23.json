@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-23T15:27:09.225Z",
-  "date": "2026-05-22",
-  "expires_at": "2026-05-24T15:27:09.225Z",
+  "generated_at": "2026-05-24T15:27:37.767Z",
+  "date": "2026-05-23",
+  "expires_at": "2026-05-25T15:27:37.767Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -26,29 +26,29 @@
     },
     {
       "rank": 2,
-      "slug": "close",
-      "word": "close",
-      "score": 89,
+      "slug": "state",
+      "word": "state",
+      "score": 90,
       "reason": "top_search",
       "matched_terms": [
-        "the capital grille closing illinois"
+        "united states department of justice"
       ]
     },
     {
       "rank": 3,
-      "slug": "game",
-      "word": "game",
-      "score": 87,
-      "reason": "rising_search",
+      "slug": "club",
+      "word": "club",
+      "score": 86,
+      "reason": "top_search",
       "matched_terms": [
-        "knicks game"
+        "real madrid vs athletic club"
       ]
     },
     {
       "rank": 4,
       "slug": "chess",
       "word": "chess",
-      "score": 86,
+      "score": 85,
       "reason": "rising_search",
       "matched_terms": [
         "chess pie"
@@ -56,52 +56,56 @@
     },
     {
       "rank": 5,
-      "slug": "field",
-      "word": "field",
-      "score": 85,
-      "reason": "top_search",
-      "matched_terms": [
-        "field trip"
-      ]
-    },
-    {
-      "rank": 6,
-      "slug": "villa",
-      "word": "villa",
-      "score": 85,
-      "reason": "rising_search",
-      "matched_terms": [
-        "freiburg vs aston villa"
-      ]
-    },
-    {
-      "rank": 7,
-      "slug": "disregard",
-      "word": "disregard",
-      "score": 83,
-      "reason": "top_search",
-      "matched_terms": [
-        "disregard"
-      ]
-    },
-    {
-      "rank": 8,
       "slug": "cause",
       "word": "cause",
-      "score": 83,
+      "score": 82,
       "reason": "rising_search",
       "matched_terms": [
         "kyle busch cause of death"
       ]
     },
     {
-      "rank": 9,
-      "slug": "disrupt",
-      "word": "disrupt",
-      "score": 81,
+      "rank": 6,
+      "slug": "spur",
+      "word": "spur",
+      "score": 82,
+      "reason": "rising_search",
+      "matched_terms": [
+        "san antonio spurs",
+        "thunder vs spurs",
+        "spurs",
+        "okc vs spurs"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "thunder",
+      "word": "thunder",
+      "score": 82,
+      "reason": "rising_search",
+      "matched_terms": [
+        "thunder vs spurs",
+        "okc thunder"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "department",
+      "word": "department",
+      "score": 82,
       "reason": "top_search",
       "matched_terms": [
-        "passenger disrupts united newark flight"
+        "united states department of justice"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "league",
+      "word": "league",
+      "score": 79,
+      "reason": "rising_search",
+      "matched_terms": [
+        "saudi pro league"
       ]
     }
   ],
