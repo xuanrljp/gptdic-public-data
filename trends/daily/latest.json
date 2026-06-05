@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-04T16:10:04.387Z",
-  "date": "2026-06-03",
-  "expires_at": "2026-06-05T16:10:04.387Z",
+  "generated_at": "2026-06-05T16:05:20.697Z",
+  "date": "2026-06-04",
+  "expires_at": "2026-06-06T16:05:20.697Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,16 +16,36 @@
   "items": [
     {
       "rank": 1,
-      "slug": "polish",
-      "word": "Polish",
-      "score": 89,
-      "reason": "top_search",
+      "slug": "result",
+      "word": "result",
+      "score": 96,
+      "reason": "rising_search",
       "matched_terms": [
-        "poland vs nigeria"
+        "california election results"
       ]
     },
     {
       "rank": 2,
+      "slug": "ivory",
+      "word": "ivory",
+      "score": 93,
+      "reason": "top_search",
+      "matched_terms": [
+        "france vs ivory coast"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "iraq",
+      "word": "Iraq",
+      "score": 92,
+      "reason": "top_search",
+      "matched_terms": [
+        "spain vs iraq"
+      ]
+    },
+    {
+      "rank": 4,
       "slug": "grape",
       "word": "grape",
       "score": 89,
@@ -35,7 +55,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 5,
       "slug": "must",
       "word": "must",
       "score": 89,
@@ -45,30 +65,10 @@
       ]
     },
     {
-      "rank": 4,
-      "slug": "verse",
-      "word": "verse",
-      "score": 88,
-      "reason": "rising_search",
-      "matched_terms": [
-        "jared verse"
-      ]
-    },
-    {
-      "rank": 5,
-      "slug": "update",
-      "word": "update",
-      "score": 88,
-      "reason": "top_search",
-      "matched_terms": [
-        "thune vs trump updates"
-      ]
-    },
-    {
       "rank": 6,
       "slug": "jacket",
       "word": "jacket",
-      "score": 87,
+      "score": 86,
       "reason": "rising_search",
       "matched_terms": [
         "jacket potato"
@@ -78,7 +78,7 @@
       "rank": 7,
       "slug": "potato",
       "word": "potato",
-      "score": 87,
+      "score": 86,
       "reason": "rising_search",
       "matched_terms": [
         "jacket potato"
@@ -86,24 +86,22 @@
     },
     {
       "rank": 8,
-      "slug": "message",
-      "word": "message",
-      "score": 87,
-      "reason": "rising_search",
+      "slug": "change",
+      "word": "change",
+      "score": 85,
+      "reason": "top_search",
       "matched_terms": [
-        "samsung messages end of life"
+        "ncis season 24 cast changes"
       ]
     },
     {
       "rank": 9,
-      "slug": "game",
-      "word": "game",
-      "score": 87,
-      "reason": "mixed_signal",
+      "slug": "season",
+      "word": "season",
+      "score": 85,
+      "reason": "top_search",
       "matched_terms": [
-        "snake game",
-        "herbstreit leaves ea sports game",
-        "cool math games"
+        "ncis season 24 cast changes"
       ]
     }
   ],
