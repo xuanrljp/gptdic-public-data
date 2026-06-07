@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-06T15:30:08.813Z",
-  "date": "2026-06-05",
-  "expires_at": "2026-06-07T15:30:08.813Z",
+  "generated_at": "2026-06-07T15:32:55.082Z",
+  "date": "2026-06-06",
+  "expires_at": "2026-06-08T15:32:55.082Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,92 +16,94 @@
   "items": [
     {
       "rank": 1,
-      "slug": "giant",
-      "word": "giant",
-      "score": 97,
+      "slug": "chile",
+      "word": "Chile",
+      "score": 91,
       "reason": "top_search",
       "matched_terms": [
-        "giants vs cubs"
+        "portugal - chile",
+        "portugal vs chile"
       ]
     },
     {
       "rank": 2,
-      "slug": "bear",
-      "word": "bear",
-      "score": 86,
+      "slug": "portugal",
+      "word": "Portugal",
+      "score": 91,
       "reason": "top_search",
       "matched_terms": [
-        "chicago bears"
+        "portugal - chile",
+        "portugal vs chile"
       ]
     },
     {
       "rank": 3,
-      "slug": "result",
-      "word": "result",
-      "score": 85,
-      "reason": "rising_search",
+      "slug": "billion",
+      "word": "billion",
+      "score": 84,
+      "reason": "top_search",
       "matched_terms": [
-        "california election results"
+        "billionaire real estate financing"
       ]
     },
     {
       "rank": 4,
-      "slug": "evil",
-      "word": "evil",
-      "score": 85,
+      "slug": "estate",
+      "word": "estate",
+      "score": 84,
       "reason": "top_search",
       "matched_terms": [
-        "resident evil veronica"
+        "billionaire real estate financing"
       ]
     },
     {
       "rank": 5,
-      "slug": "upgrade",
-      "word": "upgrade",
+      "slug": "finance",
+      "word": "finance",
       "score": 84,
       "reason": "top_search",
       "matched_terms": [
-        "mcdonald's drive-thru ai upgrade"
+        "billionaire real estate financing"
       ]
     },
     {
       "rank": 6,
-      "slug": "airline",
-      "word": "airline",
-      "score": 79,
+      "slug": "snap",
+      "word": "snap",
+      "score": 83,
       "reason": "top_search",
       "matched_terms": [
-        "southwest airlines new routes"
+        "judge halts trump snap restrictions"
       ]
     },
     {
       "rank": 7,
-      "slug": "route",
-      "word": "route",
+      "slug": "ocean",
+      "word": "ocean",
       "score": 79,
       "reason": "top_search",
       "matched_terms": [
-        "southwest airlines new routes"
+        "ocean observatories initiative"
       ]
     },
     {
       "rank": 8,
-      "slug": "embassy",
-      "word": "embassy",
+      "slug": "zealand",
+      "word": "Zealand",
       "score": 78,
       "reason": "top_search",
       "matched_terms": [
-        "u.s. embassy mexico travel warning"
+        "england vs new zealand"
       ]
     },
     {
       "rank": 9,
-      "slug": "market",
-      "word": "market",
+      "slug": "ivory",
+      "word": "ivory",
       "score": 77,
-      "reason": "top_search",
+      "reason": "rising_search",
       "matched_terms": [
-        "stock market today"
+        "france vs ivory coast"
       ]
     }
   ],
