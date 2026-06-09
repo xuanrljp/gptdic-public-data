@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-08T16:25:30.189Z",
-  "date": "2026-06-07",
-  "expires_at": "2026-06-09T16:25:30.189Z",
+  "generated_at": "2026-06-09T16:02:24.812Z",
+  "date": "2026-06-08",
+  "expires_at": "2026-06-10T16:02:24.812Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,19 +16,20 @@
   "items": [
     {
       "rank": 1,
-      "slug": "colombia",
-      "word": "Colombia",
-      "score": 88,
-      "reason": "top_search",
+      "slug": "chile",
+      "word": "Chile",
+      "score": 90,
+      "reason": "rising_search",
       "matched_terms": [
-        "colombia vs jordan"
+        "portugal chile",
+        "portugal vs chile"
       ]
     },
     {
       "rank": 2,
-      "slug": "chile",
-      "word": "Chile",
-      "score": 86,
+      "slug": "portugal",
+      "word": "Portugal",
+      "score": 90,
       "reason": "rising_search",
       "matched_terms": [
         "portugal chile",
@@ -37,73 +38,72 @@
     },
     {
       "rank": 3,
-      "slug": "portugal",
-      "word": "Portugal",
-      "score": 86,
-      "reason": "rising_search",
+      "slug": "cancel",
+      "word": "cancel",
+      "score": 90,
+      "reason": "top_search",
       "matched_terms": [
-        "portugal chile",
-        "portugal vs chile"
+        "nbc cancels 9 tv shows"
       ]
     },
     {
       "rank": 4,
-      "slug": "giant",
-      "word": "giant",
-      "score": 85,
-      "reason": "rising_search",
+      "slug": "valley",
+      "word": "valley",
+      "score": 87,
+      "reason": "top_search",
       "matched_terms": [
-        "giants vs cubs"
+        "sorrento valley fire"
       ]
     },
     {
       "rank": 5,
-      "slug": "tiger",
-      "word": "tiger",
-      "score": 76,
-      "reason": "rising_search",
+      "slug": "netherlands",
+      "word": "Netherlands",
+      "score": 84,
+      "reason": "top_search",
       "matched_terms": [
-        "mariners vs tigers"
+        "netherlands vs uzbekistan"
       ]
     },
     {
       "rank": 6,
-      "slug": "white",
-      "word": "white",
-      "score": 75,
-      "reason": "rising_search",
+      "slug": "sale",
+      "word": "sale",
+      "score": 83,
+      "reason": "top_search",
       "matched_terms": [
-        "white sox vs phillies"
+        "us date fruit sales growth"
       ]
     },
     {
       "rank": 7,
-      "slug": "last",
-      "word": "last",
-      "score": 74,
+      "slug": "visa",
+      "word": "visa",
+      "score": 82,
       "reason": "top_search",
       "matched_terms": [
-        "last of us season 3"
+        "federal judge voids trump's $100000 fee requirement for h 1b visas"
       ]
     },
     {
       "rank": 8,
-      "slug": "season",
-      "word": "season",
-      "score": 74,
+      "slug": "void",
+      "word": "void",
+      "score": 82,
       "reason": "top_search",
       "matched_terms": [
-        "last of us season 3"
+        "federal judge voids trump's $100000 fee requirement for h 1b visas"
       ]
     },
     {
       "rank": 9,
-      "slug": "upgrade",
-      "word": "upgrade",
-      "score": 73,
+      "slug": "fever",
+      "word": "fever",
+      "score": 80,
       "reason": "rising_search",
       "matched_terms": [
-        "mcdonald's drive-thru ai upgrade"
+        "fever vs liberty"
       ]
     }
   ],
