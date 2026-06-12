@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-11T16:25:15.858Z",
-  "date": "2026-06-10",
-  "expires_at": "2026-06-12T16:25:15.858Z",
+  "generated_at": "2026-06-12T16:05:43.248Z",
+  "date": "2026-06-11",
+  "expires_at": "2026-06-13T16:05:43.248Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,40 +16,39 @@
   "items": [
     {
       "rank": 1,
-      "slug": "portugal",
-      "word": "Portugal",
-      "score": 91,
+      "slug": "cancel",
+      "word": "cancel",
+      "score": 96,
       "reason": "top_search",
       "matched_terms": [
-        "portugal fc",
-        "portugal vs nigeria"
+        "cbs watson show cancellation"
       ]
     },
     {
       "rank": 2,
-      "slug": "peru",
-      "word": "Peru",
-      "score": 88,
+      "slug": "pirate",
+      "word": "pirate",
+      "score": 92,
       "reason": "rising_search",
       "matched_terms": [
-        "spain vs peru"
+        "dodgers vs pirates"
       ]
     },
     {
       "rank": 3,
-      "slug": "vote",
-      "word": "vote",
-      "score": 87,
-      "reason": "top_search",
+      "slug": "iceland",
+      "word": "Iceland",
+      "score": 91,
+      "reason": "rising_search",
       "matched_terms": [
-        "postal voting"
+        "argentina vs iceland"
       ]
     },
     {
       "rank": 4,
       "slug": "verdict",
       "word": "verdict",
-      "score": 87,
+      "score": 90,
       "reason": "rising_search",
       "matched_terms": [
         "karmelo anthony verdict"
@@ -57,52 +56,54 @@
     },
     {
       "rank": 5,
-      "slug": "fever",
-      "word": "fever",
-      "score": 86,
+      "slug": "time",
+      "word": "time",
+      "score": 88,
       "reason": "rising_search",
       "matched_terms": [
-        "fever vs mystics"
+        "ocarina of time"
       ]
     },
     {
       "rank": 6,
-      "slug": "reckon",
-      "word": "reckon",
-      "score": 86,
+      "slug": "group",
+      "word": "group",
+      "score": 85,
       "reason": "top_search",
       "matched_terms": [
-        "the social reckoning"
+        "world cup groups"
       ]
     },
     {
       "rank": 7,
-      "slug": "alert",
-      "word": "alert",
-      "score": 81,
+      "slug": "peru",
+      "word": "Peru",
+      "score": 84,
       "reason": "rising_search",
       "matched_terms": [
-        "blue alert"
+        "spain vs peru"
       ]
     },
     {
       "rank": 8,
-      "slug": "blue",
-      "word": "blue",
-      "score": 81,
-      "reason": "rising_search",
+      "slug": "game",
+      "word": "game",
+      "score": 84,
+      "reason": "mixed_signal",
       "matched_terms": [
-        "blue alert"
+        "how long is a soccer game",
+        "knicks game",
+        "knicks vs spurs game 4"
       ]
     },
     {
       "rank": 9,
-      "slug": "join",
-      "word": "join",
-      "score": 79,
+      "slug": "every",
+      "word": "every",
+      "score": 82,
       "reason": "rising_search",
       "matched_terms": [
-        "blooket join"
+        "every year after"
       ]
     }
   ],
