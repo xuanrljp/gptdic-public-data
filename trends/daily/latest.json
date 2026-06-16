@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-15T16:39:12.719Z",
-  "date": "2026-06-14",
-  "expires_at": "2026-06-16T16:39:12.719Z",
+  "generated_at": "2026-06-16T16:34:45.690Z",
+  "date": "2026-06-15",
+  "expires_at": "2026-06-17T16:34:45.690Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,40 +16,41 @@
   "items": [
     {
       "rank": 1,
-      "slug": "down",
-      "word": "down",
+      "slug": "tree",
+      "word": "tree",
       "score": 92,
       "reason": "rising_search",
       "matched_terms": [
-        "is facebook down"
-      ]
-    },
-    {
-      "rank": 2,
-      "slug": "tree",
-      "word": "tree",
-      "score": 91,
-      "reason": "top_search",
-      "matched_terms": [
+        "did oliver tree die",
+        "oliver tree",
         "oliver tree death"
       ]
     },
     {
-      "rank": 3,
-      "slug": "recall",
-      "word": "recall",
-      "score": 86,
+      "rank": 2,
+      "slug": "belgium",
+      "word": "Belgium",
+      "score": 91,
       "reason": "top_search",
       "matched_terms": [
-        "fda bef foods recall",
-        "alfredo sauce recall"
+        "egypt vs belgium"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "blacksmith",
+      "word": "blacksmith",
+      "score": 91,
+      "reason": "rising_search",
+      "matched_terms": [
+        "aldon smith"
       ]
     },
     {
       "rank": 4,
       "slug": "issue",
       "word": "issue",
-      "score": 85,
+      "score": 90,
       "reason": "rising_search",
       "matched_terms": [
         "hoosier lottery technical issue"
@@ -57,53 +58,52 @@
     },
     {
       "rank": 5,
-      "slug": "world",
-      "word": "world",
-      "score": 84,
+      "slug": "cape",
+      "word": "cape",
+      "score": 89,
       "reason": "top_search",
       "matched_terms": [
-        "fifa world cup matches",
-        "japan world cup"
+        "where is cape verde"
       ]
     },
     {
       "rank": 6,
-      "slug": "concern",
-      "word": "concern",
-      "score": 84,
+      "slug": "blind",
+      "word": "blind",
+      "score": 88,
       "reason": "top_search",
       "matched_terms": [
-        "trump age concerns"
+        "aldi blind box"
       ]
     },
     {
       "rank": 7,
-      "slug": "persian",
-      "word": "Persian",
-      "score": 82,
-      "reason": "top_search",
+      "slug": "netherlands",
+      "word": "Netherlands",
+      "score": 88,
+      "reason": "rising_search",
       "matched_terms": [
-        "iran deal news"
+        "netherlands vs japan"
       ]
     },
     {
       "rank": 8,
-      "slug": "match",
-      "word": "match",
-      "score": 81,
-      "reason": "top_search",
+      "slug": "haiti",
+      "word": "Haiti",
+      "score": 85,
+      "reason": "rising_search",
       "matched_terms": [
-        "fifa world cup matches"
+        "haiti vs scotland"
       ]
     },
     {
       "rank": 9,
-      "slug": "food",
-      "word": "food",
-      "score": 80,
-      "reason": "top_search",
+      "slug": "giant",
+      "word": "giant",
+      "score": 85,
+      "reason": "rising_search",
       "matched_terms": [
-        "fda bef foods recall"
+        "cubs vs giants"
       ]
     }
   ],
