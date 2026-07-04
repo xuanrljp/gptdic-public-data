@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-03T15:40:58.911Z",
-  "date": "2026-07-02",
-  "expires_at": "2026-07-04T15:40:58.911Z",
+  "generated_at": "2026-07-04T15:26:17.136Z",
+  "date": "2026-07-03",
+  "expires_at": "2026-07-05T15:26:17.136Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,96 +16,94 @@
   "items": [
     {
       "rank": 1,
-      "slug": "austrian",
-      "word": "Austrian",
+      "slug": "game",
+      "word": "game",
       "score": 93,
       "reason": "top_search",
       "matched_terms": [
-        "españa vs. austria",
-        "españa - austria",
-        "spain austria"
+        "mexico game sunday"
       ]
     },
     {
       "rank": 2,
       "slug": "belgium",
       "word": "Belgium",
-      "score": 92,
+      "score": 91,
       "reason": "rising_search",
       "matched_terms": [
+        "belgium",
         "belgium vs senegal"
       ]
     },
     {
       "rank": 3,
-      "slug": "ranch",
-      "word": "ranch",
-      "score": 89,
+      "slug": "world",
+      "word": "world",
+      "score": 91,
       "reason": "top_search",
       "matched_terms": [
-        "dutton ranch finale"
+        "egypt world cup"
       ]
     },
     {
       "rank": 4,
-      "slug": "game",
-      "word": "game",
-      "score": 86,
-      "reason": "mixed_signal",
+      "slug": "austrian",
+      "word": "Austrian",
+      "score": 90,
+      "reason": "rising_search",
       "matched_terms": [
-        "mexico game today",
-        "spain game",
-        "mexico game"
+        "españa austria",
+        "spain vs austria"
       ]
     },
     {
       "rank": 5,
-      "slug": "block",
-      "word": "block",
-      "score": 85,
+      "slug": "brown",
+      "word": "brown",
+      "score": 87,
       "reason": "top_search",
       "matched_terms": [
-        "usps nationwide ballot order block"
+        "charles q brown jr"
       ]
     },
     {
       "rank": 6,
-      "slug": "exit",
-      "word": "exit",
-      "score": 84,
+      "slug": "sunday",
+      "word": "Sunday",
+      "score": 87,
       "reason": "top_search",
       "matched_terms": [
-        "laroyce hawkins chicago pd exit"
+        "mexico game sunday"
       ]
     },
     {
       "rank": 7,
-      "slug": "nationwide",
-      "word": "nationwide",
-      "score": 79,
+      "slug": "hardy",
+      "word": "hardy",
+      "score": 87,
       "reason": "top_search",
       "matched_terms": [
-        "usps nationwide ballot order block"
+        "jaden hardy"
       ]
     },
     {
       "rank": 8,
-      "slug": "netherlands",
-      "word": "Netherlands",
-      "score": 77,
-      "reason": "rising_search",
+      "slug": "mount",
+      "word": "mount",
+      "score": 82,
+      "reason": "top_search",
       "matched_terms": [
-        "morocco vs netherlands"
+        "trump mount rushmore"
       ]
     },
     {
       "rank": 9,
-      "slug": "guinea",
-      "word": "Guinea",
-      "score": 76,
+      "slug": "portugal",
+      "word": "Portugal",
+      "score": 81,
       "reason": "rising_search",
       "matched_terms": [
-        "guinea bissau"
+        "portugal vs croatia"
       ]
     }
   ],
