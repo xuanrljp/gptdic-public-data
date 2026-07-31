@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-30T15:39:44.725Z",
+  "generated_at": "2026-07-31T15:44:01.546Z",
   "date": "2026-07-29",
-  "expires_at": "2026-07-31T15:39:44.725Z",
+  "expires_at": "2026-08-01T15:44:01.546Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
