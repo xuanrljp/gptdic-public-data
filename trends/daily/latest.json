@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-04T15:49:02.738Z",
-  "date": "2026-08-03",
-  "expires_at": "2026-08-05T15:49:02.738Z",
+  "generated_at": "2026-08-05T15:45:26.647Z",
+  "date": "2026-08-04",
+  "expires_at": "2026-08-06T15:45:26.647Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -18,7 +18,7 @@
       "rank": 1,
       "slug": "fire",
       "word": "fire",
-      "score": 96,
+      "score": 94,
       "reason": "rising_search",
       "matched_terms": [
         "spokane fires"
@@ -26,84 +26,82 @@
     },
     {
       "rank": 2,
-      "slug": "close",
-      "word": "close",
-      "score": 92,
-      "reason": "mixed_signal",
+      "slug": "change",
+      "word": "change",
+      "score": 89,
+      "reason": "top_search",
       "matched_terms": [
-        "walgreens 2026 store locations closing",
-        "jcpenney anchor store closing"
+        "donald trump helipad changes"
       ]
     },
     {
       "rank": 3,
-      "slug": "recall",
-      "word": "recall",
-      "score": 92,
-      "reason": "rising_search",
-      "matched_terms": [
-        "woodure toddler stool recall"
-      ]
-    },
-    {
-      "rank": 4,
-      "slug": "clay",
-      "word": "clay",
-      "score": 88,
-      "reason": "top_search",
-      "matched_terms": [
-        "clay holmes"
-      ]
-    },
-    {
-      "rank": 5,
       "slug": "fever",
       "word": "fever",
       "score": 87,
       "reason": "rising_search",
       "matched_terms": [
-        "fever vs lynx",
-        "fever vs fire"
+        "fever vs lynx"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "walk",
+      "word": "walk",
+      "score": 85,
+      "reason": "top_search",
+      "matched_terms": [
+        "jalon walker"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "deer",
+      "word": "deer",
+      "score": 84,
+      "reason": "rising_search",
+      "matched_terms": [
+        "python swallowing deer india"
       ]
     },
     {
       "rank": 6,
-      "slug": "field",
-      "word": "field",
-      "score": 87,
-      "reason": "top_search",
+      "slug": "swallow",
+      "word": "swallow",
+      "score": 84,
+      "reason": "rising_search",
       "matched_terms": [
-        "natasha ward track and field"
+        "python swallowing deer india"
       ]
     },
     {
       "rank": 7,
-      "slug": "toddler",
-      "word": "toddler",
-      "score": 86,
+      "slug": "close",
+      "word": "close",
+      "score": 84,
       "reason": "rising_search",
       "matched_terms": [
-        "woodure toddler stool recall"
+        "jcpenney anchor store closing"
       ]
     },
     {
       "rank": 8,
-      "slug": "rating",
-      "word": "rating",
-      "score": 86,
+      "slug": "white",
+      "word": "white",
+      "score": 81,
       "reason": "top_search",
       "matched_terms": [
-        "donald trump state approval ratings"
+        "trump pirro white house meeting evidence"
       ]
     },
     {
       "rank": 9,
-      "slug": "tiger",
-      "word": "tiger",
-      "score": 85,
+      "slug": "september",
+      "word": "September",
+      "score": 81,
       "reason": "rising_search",
       "matched_terms": [
-        "tigers vs athletics"
+        "september l davis"
       ]
     }
   ],
