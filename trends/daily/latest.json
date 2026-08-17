@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-16T15:05:25.767Z",
+  "generated_at": "2026-08-17T15:07:37.535Z",
   "date": "2026-08-15",
-  "expires_at": "2026-08-17T15:05:25.767Z",
+  "expires_at": "2026-08-18T15:07:37.535Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -31,8 +31,8 @@
       "score": 86,
       "reason": "top_search",
       "matched_terms": [
-        "bears score",
-        "bears game"
+        "bears game",
+        "bears score"
       ]
     },
     {
@@ -42,9 +42,9 @@
       "score": 86,
       "reason": "top_search",
       "matched_terms": [
-        "eagles game",
-        "chiefs game",
         "bears game",
+        "chiefs game",
+        "eagles game",
         "nfl games today"
       ]
     },
