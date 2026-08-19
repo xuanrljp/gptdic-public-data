@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-18T15:10:05.872Z",
-  "date": "2026-08-17",
-  "expires_at": "2026-08-19T15:10:05.872Z",
+  "generated_at": "2026-08-19T15:10:03.305Z",
+  "date": "2026-08-18",
+  "expires_at": "2026-08-20T15:10:03.305Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,92 +16,94 @@
   "items": [
     {
       "rank": 1,
-      "slug": "mill",
-      "word": "mill",
-      "score": 91,
+      "slug": "result",
+      "word": "result",
+      "score": 92,
       "reason": "top_search",
       "matched_terms": [
-        "judson mill lofts"
+        "carnival breeze sanitation program results"
       ]
     },
     {
       "rank": 2,
-      "slug": "tonight",
-      "word": "tonight",
-      "score": 87,
-      "reason": "rising_search",
+      "slug": "bar",
+      "word": "bar",
+      "score": 90,
+      "reason": "top_search",
       "matched_terms": [
-        "ufc tonight"
+        "outshine fruit bars recall"
       ]
     },
     {
       "rank": 3,
       "slug": "recall",
       "word": "recall",
-      "score": 85,
-      "reason": "rising_search",
+      "score": 90,
+      "reason": "top_search",
       "matched_terms": [
-        "lunchmeat listeria contamination recall"
+        "outshine fruit bars recall"
       ]
     },
     {
       "rank": 4,
-      "slug": "baby",
-      "word": "baby",
-      "score": 85,
+      "slug": "beard",
+      "word": "beard",
+      "score": 89,
       "reason": "top_search",
       "matched_terms": [
-        "princess eugenie baby adelaide name"
+        "frank beard"
       ]
     },
     {
       "rank": 5,
-      "slug": "dream",
-      "word": "dream",
-      "score": 84,
+      "slug": "cause",
+      "word": "cause",
+      "score": 88,
       "reason": "rising_search",
       "matched_terms": [
-        "fever vs dream"
+        "hayden panettiere death cause",
+        "hayden panettiere cause of death"
       ]
     },
     {
       "rank": 6,
-      "slug": "fever",
-      "word": "fever",
-      "score": 84,
+      "slug": "movie",
+      "word": "movie",
+      "score": 86,
       "reason": "rising_search",
       "matched_terms": [
-        "fever vs dream"
+        "hayden panettiere movies and tv shows",
+        "hayden panettiere movies"
       ]
     },
     {
       "rank": 7,
-      "slug": "catch",
-      "word": "catch",
-      "score": 84,
+      "slug": "sanitation",
+      "word": "sanitation",
+      "score": 86,
       "reason": "top_search",
       "matched_terms": [
-        "pennsylvania lake piranha catch"
+        "carnival breeze sanitation program results"
       ]
     },
     {
       "rank": 8,
-      "slug": "issue",
-      "word": "issue",
+      "slug": "control",
+      "word": "control",
       "score": 84,
       "reason": "top_search",
       "matched_terms": [
-        "best buy laptop ram issue"
+        "iran is losing control of the strait of hormuz"
       ]
     },
     {
       "rank": 9,
-      "slug": "laptop",
-      "word": "laptop",
+      "slug": "persian",
+      "word": "Persian",
       "score": 84,
       "reason": "top_search",
       "matched_terms": [
-        "best buy laptop ram issue"
+        "iran is losing control of the strait of hormuz"
       ]
     }
   ],

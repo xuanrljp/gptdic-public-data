@@ -1,13 +1,13 @@
 {
   "schema_version": 1,
   "latest": "latest.json",
-  "generated_at": "2026-08-18T15:10:05.872Z",
+  "generated_at": "2026-08-19T15:10:03.305Z",
   "items_count": 9,
   "history": [
     {
-      "date": "2026-08-17",
-      "file": "2026-08-17.json",
-      "generated_at": "2026-08-18T15:10:05.872Z"
+      "date": "2026-08-18",
+      "file": "2026-08-18.json",
+      "generated_at": "2026-08-19T15:10:03.305Z"
     },
     {
       "date": "2026-05-03",
