@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-25T15:17:55.191Z",
-  "date": "2026-08-24",
-  "expires_at": "2026-08-26T15:17:55.191Z",
+  "generated_at": "2026-08-26T15:50:42.513Z",
+  "date": "2026-08-25",
+  "expires_at": "2026-08-27T15:50:42.513Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,60 +16,61 @@
   "items": [
     {
       "rank": 1,
-      "slug": "grand",
-      "word": "grand",
-      "score": 92,
-      "reason": "rising_search",
+      "slug": "recall",
+      "word": "recall",
+      "score": 91,
+      "reason": "mixed_signal",
       "matched_terms": [
-        "grand canyon national park"
+        "vitruvias therapeutics thyroid tablet recall",
+        "fromm and oma's pride recalls"
       ]
     },
     {
       "rank": 2,
-      "slug": "pass",
-      "word": "pass",
-      "score": 90,
+      "slug": "contact",
+      "word": "contact",
+      "score": 88,
       "reason": "top_search",
       "matched_terms": [
-        "motown legend janie bradford passes"
+        "walmart contactless payment rollout"
       ]
     },
     {
       "rank": 3,
-      "slug": "reed",
-      "word": "reed",
-      "score": 89,
+      "slug": "tablet",
+      "word": "tablet",
+      "score": 85,
       "reason": "top_search",
       "matched_terms": [
-        "jaylen reed"
+        "vitruvias therapeutics thyroid tablet recall"
       ]
     },
     {
       "rank": 4,
-      "slug": "flight",
-      "word": "flight",
-      "score": 88,
-      "reason": "top_search",
+      "slug": "fever",
+      "word": "fever",
+      "score": 82,
+      "reason": "rising_search",
       "matched_terms": [
-        "southwest flight attendant hawaii"
+        "fever vs sky"
       ]
     },
     {
       "rank": 5,
-      "slug": "pirate",
-      "word": "pirate",
-      "score": 87,
-      "reason": "rising_search",
+      "slug": "season",
+      "word": "season",
+      "score": 81,
+      "reason": "top_search",
       "matched_terms": [
-        "pirates vs dodgers"
+        "michael weatherly ncis season 24"
       ]
     },
     {
       "rank": 6,
       "slug": "desert",
       "word": "desert",
-      "score": 87,
-      "reason": "top_search",
+      "score": 80,
+      "reason": "rising_search",
       "matched_terms": [
         "tucson desert human remains findings"
       ]
@@ -78,8 +79,8 @@
       "rank": 7,
       "slug": "finding",
       "word": "finding",
-      "score": 87,
-      "reason": "top_search",
+      "score": 80,
+      "reason": "rising_search",
       "matched_terms": [
         "tucson desert human remains findings"
       ]
@@ -88,20 +89,20 @@
       "rank": 8,
       "slug": "remain",
       "word": "remain",
-      "score": 87,
-      "reason": "top_search",
+      "score": 80,
+      "reason": "rising_search",
       "matched_terms": [
         "tucson desert human remains findings"
       ]
     },
     {
       "rank": 9,
-      "slug": "change",
-      "word": "change",
-      "score": 86,
-      "reason": "top_search",
+      "slug": "hawk",
+      "word": "hawk",
+      "score": 80,
+      "reason": "rising_search",
       "matched_terms": [
-        "brooklyn democratic party rule changes"
+        "hawk fire"
       ]
     }
   ],
