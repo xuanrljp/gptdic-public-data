@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-26T15:50:42.513Z",
+  "generated_at": "2026-08-27T18:34:37.114Z",
   "date": "2026-08-25",
-  "expires_at": "2026-08-27T15:50:42.513Z",
+  "expires_at": "2026-08-28T18:34:37.114Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -21,8 +21,8 @@
       "score": 91,
       "reason": "mixed_signal",
       "matched_terms": [
-        "vitruvias therapeutics thyroid tablet recall",
-        "fromm and oma's pride recalls"
+        "fromm and oma's pride recalls",
+        "vitruvias therapeutics thyroid tablet recall"
       ]
     },
     {
