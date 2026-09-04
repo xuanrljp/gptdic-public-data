@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-03T15:11:06.592Z",
-  "date": "2026-09-02",
-  "expires_at": "2026-09-04T15:11:06.592Z",
+  "generated_at": "2026-09-04T15:10:31.871Z",
+  "date": "2026-09-03",
+  "expires_at": "2026-09-05T15:10:31.871Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -18,7 +18,7 @@
       "rank": 1,
       "slug": "spaghetti",
       "word": "spaghetti",
-      "score": 91,
+      "score": 92,
       "reason": "rising_search",
       "matched_terms": [
         "spaghetto"
@@ -26,82 +26,82 @@
     },
     {
       "rank": 2,
-      "slug": "dance",
-      "word": "dance",
-      "score": 88,
-      "reason": "top_search",
-      "matched_terms": [
-        "dancing with the stars 2026 cast"
-      ]
-    },
-    {
-      "rank": 3,
-      "slug": "storm",
-      "word": "storm",
-      "score": 87,
-      "reason": "rising_search",
-      "matched_terms": [
-        "tropical storm edouard"
-      ]
-    },
-    {
-      "rank": 4,
-      "slug": "join",
-      "word": "join",
-      "score": 86,
-      "reason": "rising_search",
-      "matched_terms": [
-        "blooket join"
-      ]
-    },
-    {
-      "rank": 5,
       "slug": "spade",
       "word": "spade",
-      "score": 85,
+      "score": 90,
       "reason": "rising_search",
       "matched_terms": [
         "sam spade"
       ]
     },
     {
+      "rank": 3,
+      "slug": "brave",
+      "word": "brave",
+      "score": 87,
+      "reason": "rising_search",
+      "matched_terms": [
+        "braves vs nationals"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "giant",
+      "word": "giant",
+      "score": 87,
+      "reason": "rising_search",
+      "matched_terms": [
+        "giants vs pirates"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "storm",
+      "word": "storm",
+      "score": 86,
+      "reason": "rising_search",
+      "matched_terms": [
+        "tropical storm edouard"
+      ]
+    },
+    {
       "rank": 6,
-      "slug": "cast",
-      "word": "cast",
-      "score": 82,
+      "slug": "snow",
+      "word": "snow",
+      "score": 86,
       "reason": "top_search",
       "matched_terms": [
-        "dancing with the stars 2026 cast"
+        "winter 2026 2027 snowfall predictions"
       ]
     },
     {
       "rank": 7,
-      "slug": "star",
-      "word": "star",
-      "score": 82,
+      "slug": "limp",
+      "word": "limp",
+      "score": 81,
       "reason": "top_search",
       "matched_terms": [
-        "dancing with the stars 2026 cast"
+        "jim curtis limp"
       ]
     },
     {
       "rank": 8,
-      "slug": "villa",
-      "word": "villa",
-      "score": 82,
+      "slug": "pirate",
+      "word": "pirate",
+      "score": 79,
       "reason": "rising_search",
       "matched_terms": [
-        "aston villa vs arsenal"
+        "giants vs pirates"
       ]
     },
     {
       "rank": 9,
-      "slug": "mill",
-      "word": "mill",
-      "score": 81,
+      "slug": "grand",
+      "word": "grand",
+      "score": 78,
       "reason": "top_search",
       "matched_terms": [
-        "ciara miller"
+        "grand theft auto vi"
       ]
     }
   ],
