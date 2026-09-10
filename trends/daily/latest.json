@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-09T15:10:11.245Z",
-  "date": "2026-09-08",
-  "expires_at": "2026-09-10T15:10:11.245Z",
+  "generated_at": "2026-09-10T15:10:48.647Z",
+  "date": "2026-09-09",
+  "expires_at": "2026-09-11T15:10:48.647Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,52 +16,51 @@
   "items": [
     {
       "rank": 1,
-      "slug": "change",
-      "word": "change",
-      "score": 92,
-      "reason": "top_search",
-      "matched_terms": [
-        "2027 social security benefit changes"
-      ]
-    },
-    {
-      "rank": 2,
       "slug": "mark",
       "word": "mark",
-      "score": 89,
+      "score": 92,
       "reason": "rising_search",
       "matched_terms": [
         "stitch marker"
       ]
     },
     {
-      "rank": 3,
-      "slug": "collapse",
-      "word": "collapse",
-      "score": 87,
-      "reason": "top_search",
+      "rank": 2,
+      "slug": "change",
+      "word": "change",
+      "score": 89,
+      "reason": "rising_search",
       "matched_terms": [
-        "ray lamontagne collapse"
+        "2027 social security benefit changes"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "football",
+      "word": "football",
+      "score": 87,
+      "reason": "rising_search",
+      "matched_terms": [
+        "fsu football",
+        "smu football",
+        "florida state football"
       ]
     },
     {
       "rank": 4,
-      "slug": "football",
-      "word": "football",
-      "score": 84,
+      "slug": "giant",
+      "word": "giant",
+      "score": 87,
       "reason": "rising_search",
       "matched_terms": [
-        "ole miss football",
-        "louisville football",
-        "notre dame football",
-        "wisconsin football"
+        "cardinals vs giants"
       ]
     },
     {
       "rank": 5,
       "slug": "stitch",
       "word": "stitch",
-      "score": 83,
+      "score": 86,
       "reason": "rising_search",
       "matched_terms": [
         "stitch marker"
@@ -69,42 +68,47 @@
     },
     {
       "rank": 6,
-      "slug": "iceland",
-      "word": "Iceland",
-      "score": 81,
-      "reason": "top_search",
+      "slug": "champion",
+      "word": "champion",
+      "score": 83,
+      "reason": "rising_search",
       "matched_terms": [
-        "iceland reaction trump map post"
+        "uefa champions league",
+        "champions league",
+        "champions league schedule"
       ]
     },
     {
       "rank": 7,
-      "slug": "rap",
-      "word": "rap",
-      "score": 80,
+      "slug": "league",
+      "word": "league",
+      "score": 83,
       "reason": "rising_search",
       "matched_terms": [
-        "rapping"
+        "uefa champions league",
+        "champions league",
+        "champions league schedule"
       ]
     },
     {
       "rank": 8,
-      "slug": "panda",
-      "word": "panda",
+      "slug": "inter",
+      "word": "inter",
       "score": 79,
-      "reason": "top_search",
+      "reason": "rising_search",
       "matched_terms": [
-        "panda express taiwanese popcorn chicken"
+        "real madrid inter",
+        "real madrid vs inter"
       ]
     },
     {
       "rank": 9,
-      "slug": "popcorn",
-      "word": "popcorn",
-      "score": 79,
+      "slug": "game",
+      "word": "game",
+      "score": 75,
       "reason": "top_search",
       "matched_terms": [
-        "panda express taiwanese popcorn chicken"
+        "nfl games"
       ]
     }
   ],
