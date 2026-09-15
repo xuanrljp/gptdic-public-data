@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-14T15:11:35.375Z",
-  "date": "2026-09-13",
-  "expires_at": "2026-09-15T15:11:35.375Z",
+  "generated_at": "2026-09-15T15:10:57.383Z",
+  "date": "2026-09-14",
+  "expires_at": "2026-09-16T15:10:57.383Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,36 +16,30 @@
   "items": [
     {
       "rank": 1,
-      "slug": "oklahoma",
-      "word": "Oklahoma",
-      "score": 90,
+      "slug": "bear",
+      "word": "bear",
+      "score": 95,
       "reason": "rising_search",
       "matched_terms": [
-        "oklahoma football",
-        "michigan vs oklahoma",
-        "oregon vs oklahoma st"
+        "bears vs panthers"
       ]
     },
     {
       "rank": 2,
-      "slug": "football",
-      "word": "football",
-      "score": 88,
-      "reason": "rising_search",
+      "slug": "forecast",
+      "word": "forecast",
+      "score": 92,
+      "reason": "top_search",
       "matched_terms": [
-        "ncaa football scores",
-        "oklahoma football",
-        "college football today",
-        "college football scores",
-        "kentucky football"
+        "social security cola 2027 forecast"
       ]
     },
     {
       "rank": 3,
       "slug": "lion",
       "word": "lion",
-      "score": 88,
-      "reason": "top_search",
+      "score": 91,
+      "reason": "rising_search",
       "matched_terms": [
         "saints vs lions"
       ]
@@ -54,62 +48,60 @@
       "rank": 4,
       "slug": "saint",
       "word": "saint",
-      "score": 88,
-      "reason": "top_search",
+      "score": 91,
+      "reason": "rising_search",
       "matched_terms": [
         "saints vs lions"
       ]
     },
     {
       "rank": 5,
-      "slug": "bear",
-      "word": "bear",
-      "score": 87,
-      "reason": "top_search",
+      "slug": "panther",
+      "word": "panther",
+      "score": 89,
+      "reason": "rising_search",
       "matched_terms": [
-        "bears",
-        "bears game",
         "bears vs panthers"
       ]
     },
     {
       "rank": 6,
-      "slug": "baby",
-      "word": "baby",
-      "score": 85,
-      "reason": "rising_search",
-      "matched_terms": [
-        "lady gaga baby"
-      ]
-    },
-    {
-      "rank": 7,
-      "slug": "pirate",
-      "word": "pirate",
-      "score": 84,
-      "reason": "rising_search",
-      "matched_terms": [
-        "pirates vs cubs"
-      ]
-    },
-    {
-      "rank": 8,
       "slug": "eagle",
       "word": "eagle",
-      "score": 83,
-      "reason": "top_search",
+      "score": 86,
+      "reason": "rising_search",
       "matched_terms": [
         "commanders vs eagles"
       ]
     },
     {
-      "rank": 9,
-      "slug": "bill",
-      "word": "bill",
-      "score": 82,
+      "rank": 7,
+      "slug": "dolphin",
+      "word": "dolphin",
+      "score": 85,
+      "reason": "rising_search",
+      "matched_terms": [
+        "dolphins vs raiders"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "letter",
+      "word": "letter",
+      "score": 85,
       "reason": "top_search",
       "matched_terms": [
-        "bills vs texans"
+        "king charles letter about harry and meghan"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "viking",
+      "word": "Viking",
+      "score": 84,
+      "reason": "rising_search",
+      "matched_terms": [
+        "packers vs vikings"
       ]
     }
   ],
