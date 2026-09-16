@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-15T15:10:57.383Z",
-  "date": "2026-09-14",
-  "expires_at": "2026-09-16T15:10:57.383Z",
+  "generated_at": "2026-09-16T15:10:19.856Z",
+  "date": "2026-09-15",
+  "expires_at": "2026-09-17T15:10:19.856Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,66 +16,76 @@
   "items": [
     {
       "rank": 1,
-      "slug": "bear",
-      "word": "bear",
-      "score": 95,
+      "slug": "giant",
+      "word": "giant",
+      "score": 99,
       "reason": "rising_search",
       "matched_terms": [
-        "bears vs panthers"
+        "giants vs cowboys"
       ]
     },
     {
       "rank": 2,
-      "slug": "forecast",
-      "word": "forecast",
+      "slug": "spur",
+      "word": "spur",
       "score": 92,
       "reason": "top_search",
       "matched_terms": [
-        "social security cola 2027 forecast"
+        "liverpool vs spurs"
       ]
     },
     {
       "rank": 3,
-      "slug": "lion",
-      "word": "lion",
+      "slug": "cowboy",
+      "word": "cowboy",
       "score": 91,
       "reason": "rising_search",
       "matched_terms": [
-        "saints vs lions"
+        "giants vs cowboys"
       ]
     },
     {
       "rank": 4,
-      "slug": "saint",
-      "word": "saint",
-      "score": 91,
-      "reason": "rising_search",
-      "matched_terms": [
-        "saints vs lions"
-      ]
-    },
-    {
-      "rank": 5,
-      "slug": "panther",
-      "word": "panther",
-      "score": 89,
+      "slug": "bear",
+      "word": "bear",
+      "score": 90,
       "reason": "rising_search",
       "matched_terms": [
         "bears vs panthers"
       ]
     },
     {
+      "rank": 5,
+      "slug": "lion",
+      "word": "lion",
+      "score": 88,
+      "reason": "rising_search",
+      "matched_terms": [
+        "saints vs lions"
+      ]
+    },
+    {
       "rank": 6,
+      "slug": "saint",
+      "word": "saint",
+      "score": 88,
+      "reason": "rising_search",
+      "matched_terms": [
+        "saints vs lions"
+      ]
+    },
+    {
+      "rank": 7,
       "slug": "eagle",
       "word": "eagle",
-      "score": 86,
+      "score": 87,
       "reason": "rising_search",
       "matched_terms": [
         "commanders vs eagles"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "slug": "dolphin",
       "word": "dolphin",
       "score": 85,
@@ -85,23 +95,13 @@
       ]
     },
     {
-      "rank": 8,
-      "slug": "letter",
-      "word": "letter",
-      "score": 85,
-      "reason": "top_search",
-      "matched_terms": [
-        "king charles letter about harry and meghan"
-      ]
-    },
-    {
       "rank": 9,
-      "slug": "viking",
-      "word": "Viking",
+      "slug": "panther",
+      "word": "panther",
       "score": 84,
       "reason": "rising_search",
       "matched_terms": [
-        "packers vs vikings"
+        "bears vs panthers"
       ]
     }
   ],
