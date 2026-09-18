@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-17T15:11:13.633Z",
-  "date": "2026-09-16",
-  "expires_at": "2026-09-18T15:11:13.633Z",
+  "generated_at": "2026-09-18T15:10:28.765Z",
+  "date": "2026-09-17",
+  "expires_at": "2026-09-19T15:10:28.765Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -18,90 +18,92 @@
       "rank": 1,
       "slug": "race",
       "word": "race",
-      "score": 98,
-      "reason": "top_search",
+      "score": 96,
+      "reason": "rising_search",
       "matched_terms": [
-        "barcelona vs racing santander"
+        "barcelona racing de santander"
       ]
     },
     {
       "rank": 2,
-      "slug": "join",
-      "word": "join",
+      "slug": "crash",
+      "word": "crash",
       "score": 88,
       "reason": "rising_search",
       "matched_terms": [
-        "blooket join"
+        "helicopter crash"
       ]
     },
     {
       "rank": 3,
-      "slug": "football",
-      "word": "football",
-      "score": 87,
+      "slug": "helicopter",
+      "word": "helicopter",
+      "score": 88,
       "reason": "rising_search",
       "matched_terms": [
-        "monday night football"
+        "helicopter crash"
       ]
     },
     {
       "rank": 4,
-      "slug": "rate",
-      "word": "rate",
-      "score": 87,
+      "slug": "brain",
+      "word": "brain",
+      "score": 85,
       "reason": "top_search",
       "matched_terms": [
-        "fed rates"
+        "brain eating amoeba",
+        "debby ryan brain injury"
       ]
     },
     {
       "rank": 5,
-      "slug": "villa",
-      "word": "villa",
-      "score": 84,
-      "reason": "top_search",
+      "slug": "tiger",
+      "word": "tiger",
+      "score": 85,
+      "reason": "mixed_signal",
       "matched_terms": [
-        "coventry vs aston villa"
+        "tigers vs blue jays",
+        "tiger cat"
       ]
     },
     {
       "rank": 6,
-      "slug": "stir",
-      "word": "stir",
+      "slug": "bill",
+      "word": "bill",
       "score": 84,
-      "reason": "rising_search",
+      "reason": "top_search",
       "matched_terms": [
-        "stirrer"
+        "bills vs lions"
       ]
     },
     {
       "rank": 7,
-      "slug": "forecast",
-      "word": "forecast",
+      "slug": "lion",
+      "word": "lion",
       "score": 84,
-      "reason": "rising_search",
+      "reason": "top_search",
       "matched_terms": [
-        "social security cola 2027 forecast"
+        "bills vs lions"
       ]
     },
     {
       "rank": 8,
-      "slug": "brave",
-      "word": "brave",
-      "score": 84,
+      "slug": "twin",
+      "word": "twin",
+      "score": 82,
       "reason": "rising_search",
       "matched_terms": [
-        "braves vs cubs"
+        "yankees vs twins"
       ]
     },
     {
       "rank": 9,
-      "slug": "pole",
-      "word": "pole",
-      "score": 83,
-      "reason": "top_search",
+      "slug": "dance",
+      "word": "dance",
+      "score": 82,
+      "reason": "rising_search",
       "matched_terms": [
-        "san francisco musician jeanie poling"
+        "dancing with the stars"
       ]
     }
   ],
