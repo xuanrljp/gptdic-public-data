@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-18T15:10:28.765Z",
-  "date": "2026-09-17",
-  "expires_at": "2026-09-19T15:10:28.765Z",
+  "generated_at": "2026-09-19T15:08:47.155Z",
+  "date": "2026-09-18",
+  "expires_at": "2026-09-20T15:08:47.155Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -18,17 +18,18 @@
       "rank": 1,
       "slug": "race",
       "word": "race",
-      "score": 96,
+      "score": 98,
       "reason": "rising_search",
       "matched_terms": [
-        "barcelona racing de santander"
+        "barcelona racing de santander",
+        "barcelona vs racing santander"
       ]
     },
     {
       "rank": 2,
       "slug": "crash",
       "word": "crash",
-      "score": 88,
+      "score": 90,
       "reason": "rising_search",
       "matched_terms": [
         "helicopter crash"
@@ -38,7 +39,7 @@
       "rank": 3,
       "slug": "helicopter",
       "word": "helicopter",
-      "score": 88,
+      "score": 90,
       "reason": "rising_search",
       "matched_terms": [
         "helicopter crash"
@@ -46,64 +47,62 @@
     },
     {
       "rank": 4,
-      "slug": "brain",
-      "word": "brain",
-      "score": 85,
-      "reason": "top_search",
+      "slug": "football",
+      "word": "football",
+      "score": 84,
+      "reason": "rising_search",
       "matched_terms": [
-        "brain eating amoeba",
-        "debby ryan brain injury"
+        "thursday night football"
       ]
     },
     {
       "rank": 5,
-      "slug": "tiger",
-      "word": "tiger",
-      "score": 85,
-      "reason": "mixed_signal",
+      "slug": "hamburger",
+      "word": "hamburger",
+      "score": 82,
+      "reason": "top_search",
       "matched_terms": [
-        "tigers vs blue jays",
-        "tiger cat"
+        "national cheeseburger day 2026"
       ]
     },
     {
       "rank": 6,
       "slug": "bill",
       "word": "bill",
-      "score": 84,
-      "reason": "top_search",
+      "score": 81,
+      "reason": "rising_search",
       "matched_terms": [
-        "bills vs lions"
+        "lions vs bills"
       ]
     },
     {
       "rank": 7,
       "slug": "lion",
       "word": "lion",
-      "score": 84,
-      "reason": "top_search",
+      "score": 81,
+      "reason": "rising_search",
       "matched_terms": [
-        "bills vs lions"
+        "lions vs bills"
       ]
     },
     {
       "rank": 8,
-      "slug": "twin",
-      "word": "twin",
-      "score": 82,
-      "reason": "rising_search",
+      "slug": "lens",
+      "word": "lens",
+      "score": 81,
+      "reason": "top_search",
       "matched_terms": [
-        "yankees vs twins"
+        "monaco vs lens"
       ]
     },
     {
       "rank": 9,
-      "slug": "dance",
-      "word": "dance",
-      "score": 82,
-      "reason": "rising_search",
+      "slug": "interview",
+      "word": "interview",
+      "score": 81,
+      "reason": "top_search",
       "matched_terms": [
-        "dancing with the stars"
+        "prince harry return uk interview"
       ]
     }
   ],
