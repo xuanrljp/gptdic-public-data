@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-21T15:10:34.007Z",
+  "generated_at": "2026-09-22T15:10:50.743Z",
   "date": "2026-09-20",
-  "expires_at": "2026-09-22T15:10:34.007Z",
+  "expires_at": "2026-09-23T15:10:50.743Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -42,11 +42,11 @@
       "score": 89,
       "reason": "rising_search",
       "matched_terms": [
-        "oregon football",
-        "alabama football",
         "college football scores",
+        "alabama football",
+        "clemson football",
         "ncaa football",
-        "miami hurricanes football"
+        "oregon football"
       ]
     },
     {
