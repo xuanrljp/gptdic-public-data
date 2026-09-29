@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-28T15:11:48.953Z",
+  "generated_at": "2026-09-29T15:11:56.711Z",
   "date": "2026-09-26",
-  "expires_at": "2026-09-29T15:11:48.953Z",
+  "expires_at": "2026-09-30T15:11:56.711Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -91,8 +91,8 @@
       "score": 77,
       "reason": "mixed_signal",
       "matched_terms": [
-        "navy football",
-        "thursday night football"
+        "thursday night football",
+        "navy football"
       ]
     },
     {
