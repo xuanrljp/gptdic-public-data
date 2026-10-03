@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-02T15:11:23.793Z",
+  "generated_at": "2026-10-03T16:23:46.551Z",
   "date": "2026-10-01",
-  "expires_at": "2026-10-03T15:11:23.793Z",
+  "expires_at": "2026-10-04T16:23:46.551Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -22,8 +22,8 @@
       "reason": "mixed_signal",
       "matched_terms": [
         "cornell 7 case",
-        "david hearn reflecting pool case",
-        "case keenum"
+        "case keenum",
+        "david hearn reflecting pool case"
       ]
     },
     {
