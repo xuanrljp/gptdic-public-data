@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-06T15:11:14.793Z",
-  "date": "2026-10-04",
-  "expires_at": "2026-10-07T15:11:14.793Z",
+  "generated_at": "2026-10-07T15:22:28.165Z",
+  "date": "2026-10-05",
+  "expires_at": "2026-10-08T15:22:28.165Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,94 +16,92 @@
   "items": [
     {
       "rank": 1,
-      "slug": "bear",
-      "word": "bear",
-      "score": 89,
+      "slug": "recall",
+      "word": "recall",
+      "score": 97,
       "reason": "top_search",
       "matched_terms": [
-        "jets vs bears"
+        "gatorade recall"
       ]
     },
     {
       "rank": 2,
-      "slug": "brave",
-      "word": "brave",
-      "score": 88,
-      "reason": "rising_search",
-      "matched_terms": [
-        "braves vs dodgers"
-      ]
-    },
-    {
-      "rank": 3,
       "slug": "cowboy",
       "word": "cowboy",
-      "score": 87,
-      "reason": "top_search",
+      "score": 91,
+      "reason": "rising_search",
       "matched_terms": [
         "cowboys vs texans"
       ]
     },
     {
+      "rank": 3,
+      "slug": "eagle",
+      "word": "eagle",
+      "score": 88,
+      "reason": "rising_search",
+      "matched_terms": [
+        "rams vs eagles"
+      ]
+    },
+    {
       "rank": 4,
-      "slug": "jet",
-      "word": "jet",
-      "score": 83,
-      "reason": "top_search",
+      "slug": "bear",
+      "word": "bear",
+      "score": 88,
+      "reason": "rising_search",
       "matched_terms": [
         "jets vs bears"
       ]
     },
     {
       "rank": 5,
-      "slug": "giant",
-      "word": "giant",
-      "score": 83,
+      "slug": "football",
+      "word": "football",
+      "score": 87,
       "reason": "top_search",
       "matched_terms": [
-        "cardinals vs giants"
+        "monday night football tonight"
       ]
     },
     {
       "rank": 6,
-      "slug": "gypsy",
-      "word": "Gypsy",
-      "score": 83,
+      "slug": "bill",
+      "word": "bill",
+      "score": 87,
       "reason": "rising_search",
       "matched_terms": [
-        "gypsy rose",
-        "gypsy rose blanchard"
+        "patriots vs bills"
       ]
     },
     {
       "rank": 7,
-      "slug": "dolphin",
-      "word": "dolphin",
-      "score": 83,
+      "slug": "white",
+      "word": "white",
+      "score": 85,
       "reason": "top_search",
       "matched_terms": [
-        "dolphins vs vikings"
+        "white sox vs guardians"
       ]
     },
     {
       "rank": 8,
-      "slug": "viking",
-      "word": "Viking",
-      "score": 83,
+      "slug": "belgium",
+      "word": "Belgium",
+      "score": 84,
       "reason": "top_search",
       "matched_terms": [
-        "dolphins vs vikings"
+        "france vs belgium"
       ]
     },
     {
       "rank": 9,
-      "slug": "northwest",
-      "word": "northwest",
-      "score": 81,
+      "slug": "jet",
+      "word": "jet",
+      "score": 82,
       "reason": "rising_search",
       "matched_terms": [
-        "northwestern football",
-        "penn state vs northwestern"
+        "jets vs bears"
       ]
     }
   ],
