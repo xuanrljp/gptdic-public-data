@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-07T15:22:28.165Z",
-  "date": "2026-10-05",
-  "expires_at": "2026-10-08T15:22:28.165Z",
+  "generated_at": "2026-10-08T15:10:50.977Z",
+  "date": "2026-10-07",
+  "expires_at": "2026-10-09T15:10:50.977Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,92 +16,93 @@
   "items": [
     {
       "rank": 1,
-      "slug": "recall",
-      "word": "recall",
-      "score": 97,
-      "reason": "top_search",
+      "slug": "saint",
+      "word": "saint",
+      "score": 92,
+      "reason": "mixed_signal",
       "matched_terms": [
-        "gatorade recall"
+        "eva marie saint",
+        "saints vs falcons"
       ]
     },
     {
       "rank": 2,
-      "slug": "cowboy",
-      "word": "cowboy",
-      "score": 91,
+      "slug": "world",
+      "word": "world",
+      "score": 90,
       "reason": "rising_search",
       "matched_terms": [
-        "cowboys vs texans"
+        "world space week 2026"
       ]
     },
     {
       "rank": 3,
-      "slug": "eagle",
-      "word": "eagle",
-      "score": 88,
+      "slug": "football",
+      "word": "football",
+      "score": 89,
       "reason": "rising_search",
       "matched_terms": [
-        "rams vs eagles"
+        "monday night football"
       ]
     },
     {
       "rank": 4,
-      "slug": "bear",
-      "word": "bear",
+      "slug": "brave",
+      "word": "brave",
       "score": 88,
-      "reason": "rising_search",
+      "reason": "top_search",
       "matched_terms": [
-        "jets vs bears"
+        "dodgers vs braves"
       ]
     },
     {
       "rank": 5,
-      "slug": "football",
-      "word": "football",
-      "score": 87,
+      "slug": "chile",
+      "word": "Chile",
+      "score": 88,
       "reason": "top_search",
       "matched_terms": [
-        "monday night football tonight"
+        "méxico - chile"
       ]
     },
     {
       "rank": 6,
-      "slug": "bill",
-      "word": "bill",
-      "score": 87,
-      "reason": "rising_search",
-      "matched_terms": [
-        "patriots vs bills"
-      ]
-    },
-    {
-      "rank": 7,
-      "slug": "white",
-      "word": "white",
-      "score": 85,
-      "reason": "top_search",
-      "matched_terms": [
-        "white sox vs guardians"
-      ]
-    },
-    {
-      "rank": 8,
       "slug": "belgium",
       "word": "Belgium",
-      "score": 84,
-      "reason": "top_search",
+      "score": 87,
+      "reason": "rising_search",
       "matched_terms": [
         "france vs belgium"
       ]
     },
     {
-      "rank": 9,
-      "slug": "jet",
-      "word": "jet",
-      "score": 82,
+      "rank": 7,
+      "slug": "piano",
+      "word": "piano",
+      "score": 86,
       "reason": "rising_search",
       "matched_terms": [
-        "jets vs bears"
+        "pianoforte"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "join",
+      "word": "join",
+      "score": 85,
+      "reason": "rising_search",
+      "matched_terms": [
+        "blooket join"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "monday",
+      "word": "Monday",
+      "score": 83,
+      "reason": "rising_search",
+      "matched_terms": [
+        "monday night football"
       ]
     }
   ],
