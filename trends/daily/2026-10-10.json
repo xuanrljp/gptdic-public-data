@@ -1,0 +1,116 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-11T15:10:08.061Z",
+  "date": "2026-10-10",
+  "expires_at": "2026-10-12T15:10:08.061Z",
+  "source": {
+    "provider": "google_trends",
+    "dataset": "bigquery-public-data.google_trends",
+    "region": "US",
+    "tables": [
+      "top_terms",
+      "top_rising_terms"
+    ],
+    "attribution": "Data source: Google Trends"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "slug": "game",
+      "word": "game",
+      "score": 92,
+      "reason": "rising_search",
+      "matched_terms": [
+        "cowboys game"
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "microphone",
+      "word": "microphone",
+      "score": 91,
+      "reason": "rising_search",
+      "matched_terms": [
+        "mike ditka"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "cowboy",
+      "word": "cowboy",
+      "score": 90,
+      "reason": "rising_search",
+      "matched_terms": [
+        "cowboys",
+        "cowboys vs buccaneers",
+        "cowboys game",
+        "dallas cowboys"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "flood",
+      "word": "flood",
+      "score": 89,
+      "reason": "rising_search",
+      "matched_terms": [
+        "flood watch"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "football",
+      "word": "football",
+      "score": 85,
+      "reason": "mixed_signal",
+      "matched_terms": [
+        "texas football",
+        "thursday night football"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "hurricane",
+      "word": "hurricane",
+      "score": 83,
+      "reason": "rising_search",
+      "matched_terms": [
+        "hurricane isaias",
+        "hurricane",
+        "hurricane isaias track",
+        "hurricane isaias 2026 path"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "track",
+      "word": "track",
+      "score": 82,
+      "reason": "rising_search",
+      "matched_terms": [
+        "hurricane isaias track"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "storm",
+      "word": "storm",
+      "score": 79,
+      "reason": "rising_search",
+      "matched_terms": [
+        "tropical storm watch"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "spur",
+      "word": "spur",
+      "score": 78,
+      "reason": "top_search",
+      "matched_terms": [
+        "man utd vs spurs"
+      ]
+    }
+  ],
+  "fallback_used": false
+}

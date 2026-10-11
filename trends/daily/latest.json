@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-10T15:10:20.097Z",
-  "date": "2026-10-09",
-  "expires_at": "2026-10-11T15:10:20.097Z",
+  "generated_at": "2026-10-11T15:10:08.061Z",
+  "date": "2026-10-10",
+  "expires_at": "2026-10-12T15:10:08.061Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,97 +16,99 @@
   "items": [
     {
       "rank": 1,
-      "slug": "hurricane",
-      "word": "hurricane",
-      "score": 91,
-      "reason": "mixed_signal",
+      "slug": "game",
+      "word": "game",
+      "score": 92,
+      "reason": "rising_search",
       "matched_terms": [
-        "isaias hurricane",
-        "hurricane tracker",
-        "hurricane",
-        "tropical storm hurricane isaias"
+        "cowboys game"
       ]
     },
     {
       "rank": 2,
-      "slug": "flood",
-      "word": "flood",
-      "score": 90,
+      "slug": "microphone",
+      "word": "microphone",
+      "score": 91,
       "reason": "rising_search",
       "matched_terms": [
-        "flood watch"
+        "mike ditka"
       ]
     },
     {
       "rank": 3,
       "slug": "cowboy",
       "word": "cowboy",
-      "score": 87,
-      "reason": "mixed_signal",
+      "score": 90,
+      "reason": "rising_search",
       "matched_terms": [
-        "buccaneers vs cowboys",
-        "tampa bay buccaneers vs dallas cowboys match player stats"
+        "cowboys",
+        "cowboys vs buccaneers",
+        "cowboys game",
+        "dallas cowboys"
       ]
     },
     {
       "rank": 4,
-      "slug": "track",
-      "word": "track",
-      "score": 87,
+      "slug": "flood",
+      "word": "flood",
+      "score": 89,
       "reason": "rising_search",
       "matched_terms": [
-        "hurricane tracker"
+        "flood watch"
       ]
     },
     {
       "rank": 5,
-      "slug": "storm",
-      "word": "storm",
-      "score": 85,
-      "reason": "mixed_signal",
-      "matched_terms": [
-        "tropical storm watch",
-        "tropical storm hurricane isaias"
-      ]
-    },
-    {
-      "rank": 6,
       "slug": "football",
       "word": "football",
       "score": 85,
-      "reason": "rising_search",
+      "reason": "mixed_signal",
       "matched_terms": [
+        "texas football",
         "thursday night football"
       ]
     },
     {
-      "rank": 7,
-      "slug": "match",
-      "word": "match",
-      "score": 85,
-      "reason": "top_search",
+      "rank": 6,
+      "slug": "hurricane",
+      "word": "hurricane",
+      "score": 83,
+      "reason": "rising_search",
       "matched_terms": [
-        "tampa bay buccaneers vs dallas cowboys match player stats"
+        "hurricane isaias",
+        "hurricane",
+        "hurricane isaias track",
+        "hurricane isaias 2026 path"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "track",
+      "word": "track",
+      "score": 82,
+      "reason": "rising_search",
+      "matched_terms": [
+        "hurricane isaias track"
       ]
     },
     {
       "rank": 8,
-      "slug": "account",
-      "word": "account",
-      "score": 80,
+      "slug": "storm",
+      "word": "storm",
+      "score": 79,
       "reason": "rising_search",
       "matched_terms": [
-        "trump accounts"
+        "tropical storm watch"
       ]
     },
     {
       "rank": 9,
-      "slug": "candy",
-      "word": "candy",
-      "score": 80,
+      "slug": "spur",
+      "word": "spur",
+      "score": 78,
       "reason": "top_search",
       "matched_terms": [
-        "mms marvel candy collection"
+        "man utd vs spurs"
       ]
     }
   ],
