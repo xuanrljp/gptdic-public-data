@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-11T15:10:08.061Z",
-  "date": "2026-10-10",
-  "expires_at": "2026-10-12T15:10:08.061Z",
+  "generated_at": "2026-10-12T15:14:12.054Z",
+  "date": "2026-10-11",
+  "expires_at": "2026-10-13T15:14:12.054Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,16 +16,6 @@
   "items": [
     {
       "rank": 1,
-      "slug": "game",
-      "word": "game",
-      "score": 92,
-      "reason": "rising_search",
-      "matched_terms": [
-        "cowboys game"
-      ]
-    },
-    {
-      "rank": 2,
       "slug": "microphone",
       "word": "microphone",
       "score": 91,
@@ -35,80 +25,83 @@
       ]
     },
     {
-      "rank": 3,
-      "slug": "cowboy",
-      "word": "cowboy",
-      "score": 90,
+      "rank": 2,
+      "slug": "oklahoma",
+      "word": "Oklahoma",
+      "score": 88,
       "reason": "rising_search",
       "matched_terms": [
-        "cowboys",
-        "cowboys vs buccaneers",
-        "cowboys game",
-        "dallas cowboys"
+        "texas vs oklahoma"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "lion",
+      "word": "lion",
+      "score": 87,
+      "reason": "top_search",
+      "matched_terms": [
+        "lions vs cardinals"
       ]
     },
     {
       "rank": 4,
-      "slug": "flood",
-      "word": "flood",
-      "score": 89,
-      "reason": "rising_search",
+      "slug": "saint",
+      "word": "saint",
+      "score": 83,
+      "reason": "top_search",
       "matched_terms": [
-        "flood watch"
+        "vikings vs saints"
       ]
     },
     {
       "rank": 5,
-      "slug": "football",
-      "word": "football",
-      "score": 85,
-      "reason": "mixed_signal",
+      "slug": "viking",
+      "word": "Viking",
+      "score": 83,
+      "reason": "top_search",
       "matched_terms": [
-        "texas football",
-        "thursday night football"
+        "vikings vs saints"
       ]
     },
     {
       "rank": 6,
-      "slug": "hurricane",
-      "word": "hurricane",
-      "score": 83,
-      "reason": "rising_search",
+      "slug": "brown",
+      "word": "brown",
+      "score": 82,
+      "reason": "top_search",
       "matched_terms": [
-        "hurricane isaias",
-        "hurricane",
-        "hurricane isaias track",
-        "hurricane isaias 2026 path"
+        "browns vs jets"
       ]
     },
     {
       "rank": 7,
-      "slug": "track",
-      "word": "track",
+      "slug": "jet",
+      "word": "jet",
       "score": 82,
-      "reason": "rising_search",
+      "reason": "top_search",
       "matched_terms": [
-        "hurricane isaias track"
+        "browns vs jets"
       ]
     },
     {
       "rank": 8,
-      "slug": "storm",
-      "word": "storm",
-      "score": 79,
-      "reason": "rising_search",
+      "slug": "bear",
+      "word": "bear",
+      "score": 80,
+      "reason": "top_search",
       "matched_terms": [
-        "tropical storm watch"
+        "bears packers"
       ]
     },
     {
       "rank": 9,
-      "slug": "spur",
-      "word": "spur",
-      "score": 78,
+      "slug": "dolphin",
+      "word": "dolphin",
+      "score": 80,
       "reason": "top_search",
       "matched_terms": [
-        "man utd vs spurs"
+        "bengals vs dolphins"
       ]
     }
   ],
