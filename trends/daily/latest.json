@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-12T15:14:12.054Z",
-  "date": "2026-10-11",
-  "expires_at": "2026-10-13T15:14:12.054Z",
+  "generated_at": "2026-10-13T15:12:12.551Z",
+  "date": "2026-10-12",
+  "expires_at": "2026-10-14T15:12:12.551Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,92 +16,92 @@
   "items": [
     {
       "rank": 1,
-      "slug": "microphone",
-      "word": "microphone",
-      "score": 91,
+      "slug": "giant",
+      "word": "giant",
+      "score": 97,
       "reason": "rising_search",
       "matched_terms": [
-        "mike ditka"
+        "giants vs commanders"
       ]
     },
     {
       "rank": 2,
+      "slug": "eagle",
+      "word": "eagle",
+      "score": 92,
+      "reason": "rising_search",
+      "matched_terms": [
+        "eagles vs jaguars"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "bear",
+      "word": "bear",
+      "score": 87,
+      "reason": "rising_search",
+      "matched_terms": [
+        "bears vs packers"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "early",
+      "word": "early",
+      "score": 86,
+      "reason": "top_search",
+      "matched_terms": [
+        "disney hollywood studios early closure october"
+      ]
+    },
+    {
+      "rank": 5,
       "slug": "oklahoma",
       "word": "Oklahoma",
-      "score": 88,
+      "score": 85,
       "reason": "rising_search",
       "matched_terms": [
         "texas vs oklahoma"
       ]
     },
     {
-      "rank": 3,
+      "rank": 6,
+      "slug": "flight",
+      "word": "flight",
+      "score": 83,
+      "reason": "top_search",
+      "matched_terms": [
+        "indigo power bank fire flight"
+      ]
+    },
+    {
+      "rank": 7,
       "slug": "lion",
       "word": "lion",
-      "score": 87,
-      "reason": "top_search",
+      "score": 83,
+      "reason": "rising_search",
       "matched_terms": [
         "lions vs cardinals"
       ]
     },
     {
-      "rank": 4,
-      "slug": "saint",
-      "word": "saint",
-      "score": 83,
-      "reason": "top_search",
-      "matched_terms": [
-        "vikings vs saints"
-      ]
-    },
-    {
-      "rank": 5,
-      "slug": "viking",
-      "word": "Viking",
-      "score": 83,
-      "reason": "top_search",
-      "matched_terms": [
-        "vikings vs saints"
-      ]
-    },
-    {
-      "rank": 6,
-      "slug": "brown",
-      "word": "brown",
-      "score": 82,
-      "reason": "top_search",
-      "matched_terms": [
-        "browns vs jets"
-      ]
-    },
-    {
-      "rank": 7,
-      "slug": "jet",
-      "word": "jet",
-      "score": 82,
-      "reason": "top_search",
-      "matched_terms": [
-        "browns vs jets"
-      ]
-    },
-    {
       "rank": 8,
-      "slug": "bear",
-      "word": "bear",
-      "score": 80,
+      "slug": "million",
+      "word": "million",
+      "score": 81,
       "reason": "top_search",
       "matched_terms": [
-        "bears packers"
+        "vip millions scratch off winner"
       ]
     },
     {
       "rank": 9,
-      "slug": "dolphin",
-      "word": "dolphin",
-      "score": 80,
+      "slug": "scratch",
+      "word": "scratch",
+      "score": 81,
       "reason": "top_search",
       "matched_terms": [
-        "bengals vs dolphins"
+        "vip millions scratch off winner"
       ]
     }
   ],
