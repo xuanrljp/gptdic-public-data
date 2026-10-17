@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-16T15:09:42.442Z",
-  "date": "2026-10-13",
-  "expires_at": "2026-10-17T15:09:42.442Z",
+  "generated_at": "2026-10-17T15:08:37.610Z",
+  "date": "2026-10-17",
+  "expires_at": "2026-10-18T15:08:37.610Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,95 +16,76 @@
   "items": [
     {
       "rank": 1,
-      "slug": "case",
-      "word": "case",
-      "score": 93,
-      "reason": "top_search",
-      "matched_terms": [
-        "sotomayor gorsuch immigration case"
-      ]
+      "slug": "family",
+      "word": "family",
+      "score": 0,
+      "reason": "fallback",
+      "matched_terms": []
     },
     {
       "rank": 2,
-      "slug": "giant",
-      "word": "giant",
-      "score": 91,
-      "reason": "rising_search",
-      "matched_terms": [
-        "giants vs commanders"
-      ]
+      "slug": "people",
+      "word": "people",
+      "score": 0,
+      "reason": "fallback",
+      "matched_terms": []
     },
     {
       "rank": 3,
-      "slug": "viking",
-      "word": "Viking",
-      "score": 90,
-      "reason": "mixed_signal",
-      "matched_terms": [
-        "viking vs bayern",
-        "vikings vs saints"
-      ]
+      "slug": "friend",
+      "word": "friend",
+      "score": 0,
+      "reason": "fallback",
+      "matched_terms": []
     },
     {
       "rank": 4,
-      "slug": "eagle",
-      "word": "eagle",
-      "score": 90,
-      "reason": "rising_search",
-      "matched_terms": [
-        "eagles vs jaguars"
-      ]
+      "slug": "home",
+      "word": "home",
+      "score": 0,
+      "reason": "fallback",
+      "matched_terms": []
     },
     {
       "rank": 5,
-      "slug": "apple",
-      "word": "apple",
-      "score": 86,
-      "reason": "top_search",
-      "matched_terms": [
-        "apple homeview"
-      ]
+      "slug": "food",
+      "word": "food",
+      "score": 0,
+      "reason": "fallback",
+      "matched_terms": []
     },
     {
       "rank": 6,
-      "slug": "bear",
-      "word": "bear",
-      "score": 84,
-      "reason": "rising_search",
-      "matched_terms": [
-        "bears vs packers"
-      ]
+      "slug": "learn",
+      "word": "learn",
+      "score": 0,
+      "reason": "fallback",
+      "matched_terms": []
     },
     {
       "rank": 7,
-      "slug": "lion",
-      "word": "lion",
-      "score": 82,
-      "reason": "rising_search",
-      "matched_terms": [
-        "lions vs cardinals"
-      ]
+      "slug": "help",
+      "word": "help",
+      "score": 0,
+      "reason": "fallback",
+      "matched_terms": []
     },
     {
       "rank": 8,
-      "slug": "club",
-      "word": "club",
-      "score": 81,
-      "reason": "top_search",
-      "matched_terms": [
-        "inter vs club brugge"
-      ]
+      "slug": "good",
+      "word": "good",
+      "score": 0,
+      "reason": "fallback",
+      "matched_terms": []
     },
     {
       "rank": 9,
-      "slug": "secretary",
-      "word": "secretary",
-      "score": 80,
-      "reason": "top_search",
-      "matched_terms": [
-        "new press secretary"
-      ]
+      "slug": "make",
+      "word": "make",
+      "score": 0,
+      "reason": "fallback",
+      "matched_terms": []
     }
   ],
-  "fallback_used": false
+  "fallback_used": true
 }

@@ -1,0 +1,91 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-17T15:08:37.610Z",
+  "date": "2026-10-17",
+  "expires_at": "2026-10-18T15:08:37.610Z",
+  "source": {
+    "provider": "google_trends",
+    "dataset": "bigquery-public-data.google_trends",
+    "region": "US",
+    "tables": [
+      "top_terms",
+      "top_rising_terms"
+    ],
+    "attribution": "Data source: Google Trends"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "slug": "family",
+      "word": "family",
+      "score": 0,
+      "reason": "fallback",
+      "matched_terms": []
+    },
+    {
+      "rank": 2,
+      "slug": "people",
+      "word": "people",
+      "score": 0,
+      "reason": "fallback",
+      "matched_terms": []
+    },
+    {
+      "rank": 3,
+      "slug": "friend",
+      "word": "friend",
+      "score": 0,
+      "reason": "fallback",
+      "matched_terms": []
+    },
+    {
+      "rank": 4,
+      "slug": "home",
+      "word": "home",
+      "score": 0,
+      "reason": "fallback",
+      "matched_terms": []
+    },
+    {
+      "rank": 5,
+      "slug": "food",
+      "word": "food",
+      "score": 0,
+      "reason": "fallback",
+      "matched_terms": []
+    },
+    {
+      "rank": 6,
+      "slug": "learn",
+      "word": "learn",
+      "score": 0,
+      "reason": "fallback",
+      "matched_terms": []
+    },
+    {
+      "rank": 7,
+      "slug": "help",
+      "word": "help",
+      "score": 0,
+      "reason": "fallback",
+      "matched_terms": []
+    },
+    {
+      "rank": 8,
+      "slug": "good",
+      "word": "good",
+      "score": 0,
+      "reason": "fallback",
+      "matched_terms": []
+    },
+    {
+      "rank": 9,
+      "slug": "make",
+      "word": "make",
+      "score": 0,
+      "reason": "fallback",
+      "matched_terms": []
+    }
+  ],
+  "fallback_used": true
+}
