@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-17T15:08:37.610Z",
+  "generated_at": "2026-10-18T15:09:07.142Z",
   "date": "2026-10-17",
-  "expires_at": "2026-10-18T15:08:37.610Z",
+  "expires_at": "2026-10-19T15:09:07.142Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,76 +16,95 @@
   "items": [
     {
       "rank": 1,
-      "slug": "family",
-      "word": "family",
-      "score": 0,
-      "reason": "fallback",
-      "matched_terms": []
+      "slug": "secretary",
+      "word": "secretary",
+      "score": 90,
+      "reason": "top_search",
+      "matched_terms": [
+        "press secretary fired"
+      ]
     },
     {
       "rank": 2,
-      "slug": "people",
-      "word": "people",
-      "score": 0,
-      "reason": "fallback",
-      "matched_terms": []
+      "slug": "fly",
+      "word": "fly",
+      "score": 88,
+      "reason": "rising_search",
+      "matched_terms": [
+        "tesla flying car",
+        "elon musk flying car"
+      ]
     },
     {
       "rank": 3,
-      "slug": "friend",
-      "word": "friend",
-      "score": 0,
-      "reason": "fallback",
-      "matched_terms": []
+      "slug": "rail",
+      "word": "rail",
+      "score": 87,
+      "reason": "rising_search",
+      "matched_terms": [
+        "silver rail elementary"
+      ]
     },
     {
       "rank": 4,
-      "slug": "home",
-      "word": "home",
-      "score": 0,
-      "reason": "fallback",
-      "matched_terms": []
+      "slug": "silver",
+      "word": "silver",
+      "score": 87,
+      "reason": "rising_search",
+      "matched_terms": [
+        "silver rail elementary"
+      ]
     },
     {
       "rank": 5,
-      "slug": "food",
-      "word": "food",
-      "score": 0,
-      "reason": "fallback",
-      "matched_terms": []
+      "slug": "pass",
+      "word": "pass",
+      "score": 86,
+      "reason": "rising_search",
+      "matched_terms": [
+        "david surkamp rock singer passes"
+      ]
     },
     {
       "rank": 6,
-      "slug": "learn",
-      "word": "learn",
-      "score": 0,
-      "reason": "fallback",
-      "matched_terms": []
+      "slug": "tomato",
+      "word": "tomato",
+      "score": 82,
+      "reason": "top_search",
+      "matched_terms": [
+        "the diplomat rotten tomatoes score"
+      ]
     },
     {
       "rank": 7,
-      "slug": "help",
-      "word": "help",
-      "score": 0,
-      "reason": "fallback",
-      "matched_terms": []
+      "slug": "rock",
+      "word": "rock",
+      "score": 80,
+      "reason": "rising_search",
+      "matched_terms": [
+        "david surkamp rock singer passes"
+      ]
     },
     {
       "rank": 8,
-      "slug": "good",
-      "word": "good",
-      "score": 0,
-      "reason": "fallback",
-      "matched_terms": []
+      "slug": "penguin",
+      "word": "penguin",
+      "score": 78,
+      "reason": "top_search",
+      "matched_terms": [
+        "penguins vs avalanche"
+      ]
     },
     {
       "rank": 9,
-      "slug": "make",
-      "word": "make",
-      "score": 0,
-      "reason": "fallback",
-      "matched_terms": []
+      "slug": "game",
+      "word": "game",
+      "score": 78,
+      "reason": "rising_search",
+      "matched_terms": [
+        "broncos game"
+      ]
     }
   ],
-  "fallback_used": true
+  "fallback_used": false
 }
