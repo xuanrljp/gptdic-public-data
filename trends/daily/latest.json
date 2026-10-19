@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-18T15:09:07.142Z",
-  "date": "2026-10-17",
-  "expires_at": "2026-10-19T15:09:07.142Z",
+  "generated_at": "2026-10-19T15:10:42.098Z",
+  "date": "2026-10-18",
+  "expires_at": "2026-10-20T15:10:42.098Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,93 +16,97 @@
   "items": [
     {
       "rank": 1,
-      "slug": "secretary",
-      "word": "secretary",
-      "score": 90,
+      "slug": "giant",
+      "word": "giant",
+      "score": 92,
       "reason": "top_search",
       "matched_terms": [
-        "press secretary fired"
+        "saints vs giants"
       ]
     },
     {
       "rank": 2,
       "slug": "fly",
       "word": "fly",
-      "score": 88,
+      "score": 91,
       "reason": "rising_search",
       "matched_terms": [
-        "tesla flying car",
-        "elon musk flying car"
+        "elon musk flying car",
+        "tesla flying car"
       ]
     },
     {
       "rank": 3,
-      "slug": "rail",
-      "word": "rail",
-      "score": 87,
-      "reason": "rising_search",
+      "slug": "eagle",
+      "word": "eagle",
+      "score": 85,
+      "reason": "top_search",
       "matched_terms": [
-        "silver rail elementary"
+        "panthers vs eagles"
       ]
     },
     {
       "rank": 4,
-      "slug": "silver",
-      "word": "silver",
-      "score": 87,
-      "reason": "rising_search",
+      "slug": "panther",
+      "word": "panther",
+      "score": 85,
+      "reason": "top_search",
       "matched_terms": [
-        "silver rail elementary"
+        "panthers vs eagles"
       ]
     },
     {
       "rank": 5,
-      "slug": "pass",
-      "word": "pass",
-      "score": 86,
-      "reason": "rising_search",
+      "slug": "saint",
+      "word": "saint",
+      "score": 84,
+      "reason": "top_search",
       "matched_terms": [
-        "david surkamp rock singer passes"
+        "saints vs giants"
       ]
     },
     {
       "rank": 6,
-      "slug": "tomato",
-      "word": "tomato",
+      "slug": "fall",
+      "word": "fall",
       "score": 82,
       "reason": "top_search",
       "matched_terms": [
-        "the diplomat rotten tomatoes score"
+        "airman falls"
       ]
     },
     {
       "rank": 7,
-      "slug": "rock",
-      "word": "rock",
+      "slug": "football",
+      "word": "football",
       "score": 80,
       "reason": "rising_search",
       "matched_terms": [
-        "david surkamp rock singer passes"
+        "indiana football",
+        "auburn football",
+        "college football scores",
+        "college football today",
+        "ohio state football"
       ]
     },
     {
       "rank": 8,
-      "slug": "penguin",
-      "word": "penguin",
-      "score": 78,
-      "reason": "top_search",
+      "slug": "tennessee",
+      "word": "Tennessee",
+      "score": 79,
+      "reason": "rising_search",
       "matched_terms": [
-        "penguins vs avalanche"
+        "alabama vs tennessee"
       ]
     },
     {
       "rank": 9,
-      "slug": "game",
-      "word": "game",
+      "slug": "brown",
+      "word": "brown",
       "score": 78,
-      "reason": "rising_search",
+      "reason": "top_search",
       "matched_terms": [
-        "broncos game"
+        "ravens vs browns"
       ]
     }
   ],

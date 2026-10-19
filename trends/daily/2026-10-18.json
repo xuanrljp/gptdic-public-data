@@ -1,0 +1,114 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-19T15:10:42.098Z",
+  "date": "2026-10-18",
+  "expires_at": "2026-10-20T15:10:42.098Z",
+  "source": {
+    "provider": "google_trends",
+    "dataset": "bigquery-public-data.google_trends",
+    "region": "US",
+    "tables": [
+      "top_terms",
+      "top_rising_terms"
+    ],
+    "attribution": "Data source: Google Trends"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "slug": "giant",
+      "word": "giant",
+      "score": 92,
+      "reason": "top_search",
+      "matched_terms": [
+        "saints vs giants"
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "fly",
+      "word": "fly",
+      "score": 91,
+      "reason": "rising_search",
+      "matched_terms": [
+        "elon musk flying car",
+        "tesla flying car"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "eagle",
+      "word": "eagle",
+      "score": 85,
+      "reason": "top_search",
+      "matched_terms": [
+        "panthers vs eagles"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "panther",
+      "word": "panther",
+      "score": 85,
+      "reason": "top_search",
+      "matched_terms": [
+        "panthers vs eagles"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "saint",
+      "word": "saint",
+      "score": 84,
+      "reason": "top_search",
+      "matched_terms": [
+        "saints vs giants"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "fall",
+      "word": "fall",
+      "score": 82,
+      "reason": "top_search",
+      "matched_terms": [
+        "airman falls"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "football",
+      "word": "football",
+      "score": 80,
+      "reason": "rising_search",
+      "matched_terms": [
+        "indiana football",
+        "auburn football",
+        "college football scores",
+        "college football today",
+        "ohio state football"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "tennessee",
+      "word": "Tennessee",
+      "score": 79,
+      "reason": "rising_search",
+      "matched_terms": [
+        "alabama vs tennessee"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "brown",
+      "word": "brown",
+      "score": 78,
+      "reason": "top_search",
+      "matched_terms": [
+        "ravens vs browns"
+      ]
+    }
+  ],
+  "fallback_used": false
+}
