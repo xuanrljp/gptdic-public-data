@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-19T15:10:42.098Z",
-  "date": "2026-10-18",
-  "expires_at": "2026-10-20T15:10:42.098Z",
+  "generated_at": "2026-10-20T15:10:44.266Z",
+  "date": "2026-10-19",
+  "expires_at": "2026-10-21T15:10:44.266Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,97 +16,92 @@
   "items": [
     {
       "rank": 1,
-      "slug": "giant",
-      "word": "giant",
-      "score": 92,
-      "reason": "top_search",
+      "slug": "bear",
+      "word": "bear",
+      "score": 93,
+      "reason": "rising_search",
       "matched_terms": [
-        "saints vs giants"
+        "bears vs falcons"
       ]
     },
     {
       "rank": 2,
-      "slug": "fly",
-      "word": "fly",
-      "score": 91,
-      "reason": "rising_search",
+      "slug": "recall",
+      "word": "recall",
+      "score": 92,
+      "reason": "top_search",
       "matched_terms": [
-        "elon musk flying car",
-        "tesla flying car"
+        "kayem foods meat recall usda"
       ]
     },
     {
       "rank": 3,
-      "slug": "eagle",
-      "word": "eagle",
-      "score": 85,
+      "slug": "spur",
+      "word": "spur",
+      "score": 91,
       "reason": "top_search",
       "matched_terms": [
-        "panthers vs eagles"
+        "spurs vs coventry"
       ]
     },
     {
       "rank": 4,
-      "slug": "panther",
-      "word": "panther",
-      "score": 85,
-      "reason": "top_search",
+      "slug": "bill",
+      "word": "bill",
+      "score": 90,
+      "reason": "rising_search",
       "matched_terms": [
-        "panthers vs eagles"
+        "bills vs raiders"
       ]
     },
     {
       "rank": 5,
-      "slug": "saint",
-      "word": "saint",
-      "score": 84,
+      "slug": "lay",
+      "word": "lay",
+      "score": 88,
       "reason": "top_search",
       "matched_terms": [
-        "saints vs giants"
+        "lay's new holiday potato chips"
       ]
     },
     {
       "rank": 6,
-      "slug": "fall",
-      "word": "fall",
-      "score": 82,
+      "slug": "crack",
+      "word": "crack",
+      "score": 88,
       "reason": "top_search",
       "matched_terms": [
-        "airman falls"
+        "gluten free ritz cracker launch"
       ]
     },
     {
       "rank": 7,
-      "slug": "football",
-      "word": "football",
-      "score": 80,
-      "reason": "rising_search",
+      "slug": "food",
+      "word": "food",
+      "score": 86,
+      "reason": "top_search",
       "matched_terms": [
-        "indiana football",
-        "auburn football",
-        "college football scores",
-        "college football today",
-        "ohio state football"
+        "kayem foods meat recall usda"
       ]
     },
     {
       "rank": 8,
-      "slug": "tennessee",
-      "word": "Tennessee",
-      "score": 79,
-      "reason": "rising_search",
+      "slug": "meat",
+      "word": "meat",
+      "score": 86,
+      "reason": "top_search",
       "matched_terms": [
-        "alabama vs tennessee"
+        "kayem foods meat recall usda"
       ]
     },
     {
       "rank": 9,
-      "slug": "brown",
-      "word": "brown",
-      "score": 78,
+      "slug": "launch",
+      "word": "launch",
+      "score": 82,
       "reason": "top_search",
       "matched_terms": [
-        "ravens vs browns"
+        "gluten free ritz cracker launch"
       ]
     }
   ],

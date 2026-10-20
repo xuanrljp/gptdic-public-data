@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-20T15:10:44.266Z",
+  "date": "2026-10-19",
+  "expires_at": "2026-10-21T15:10:44.266Z",
+  "source": {
+    "provider": "google_trends",
+    "dataset": "bigquery-public-data.google_trends",
+    "region": "US",
+    "tables": [
+      "top_terms",
+      "top_rising_terms"
+    ],
+    "attribution": "Data source: Google Trends"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "slug": "bear",
+      "word": "bear",
+      "score": 93,
+      "reason": "rising_search",
+      "matched_terms": [
+        "bears vs falcons"
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "recall",
+      "word": "recall",
+      "score": 92,
+      "reason": "top_search",
+      "matched_terms": [
+        "kayem foods meat recall usda"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "spur",
+      "word": "spur",
+      "score": 91,
+      "reason": "top_search",
+      "matched_terms": [
+        "spurs vs coventry"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "bill",
+      "word": "bill",
+      "score": 90,
+      "reason": "rising_search",
+      "matched_terms": [
+        "bills vs raiders"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "lay",
+      "word": "lay",
+      "score": 88,
+      "reason": "top_search",
+      "matched_terms": [
+        "lay's new holiday potato chips"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "crack",
+      "word": "crack",
+      "score": 88,
+      "reason": "top_search",
+      "matched_terms": [
+        "gluten free ritz cracker launch"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "food",
+      "word": "food",
+      "score": 86,
+      "reason": "top_search",
+      "matched_terms": [
+        "kayem foods meat recall usda"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "meat",
+      "word": "meat",
+      "score": 86,
+      "reason": "top_search",
+      "matched_terms": [
+        "kayem foods meat recall usda"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "launch",
+      "word": "launch",
+      "score": 82,
+      "reason": "top_search",
+      "matched_terms": [
+        "gluten free ritz cracker launch"
+      ]
+    }
+  ],
+  "fallback_used": false
+}
