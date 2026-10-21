@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-20T15:10:44.266Z",
-  "date": "2026-10-19",
-  "expires_at": "2026-10-21T15:10:44.266Z",
+  "generated_at": "2026-10-21T15:10:49.530Z",
+  "date": "2026-10-20",
+  "expires_at": "2026-10-22T15:10:49.530Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,39 +16,40 @@
   "items": [
     {
       "rank": 1,
+      "slug": "cowboy",
+      "word": "cowboy",
+      "score": 92,
+      "reason": "rising_search",
+      "matched_terms": [
+        "cowboys vs packers",
+        "cowboys game"
+      ]
+    },
+    {
+      "rank": 2,
       "slug": "bear",
       "word": "bear",
-      "score": 93,
+      "score": 92,
       "reason": "rising_search",
       "matched_terms": [
         "bears vs falcons"
       ]
     },
     {
-      "rank": 2,
-      "slug": "recall",
-      "word": "recall",
-      "score": 92,
-      "reason": "top_search",
-      "matched_terms": [
-        "kayem foods meat recall usda"
-      ]
-    },
-    {
       "rank": 3,
-      "slug": "spur",
-      "word": "spur",
-      "score": 91,
-      "reason": "top_search",
+      "slug": "giant",
+      "word": "giant",
+      "score": 90,
+      "reason": "rising_search",
       "matched_terms": [
-        "spurs vs coventry"
+        "saints vs giants"
       ]
     },
     {
       "rank": 4,
       "slug": "bill",
       "word": "bill",
-      "score": 90,
+      "score": 89,
       "reason": "rising_search",
       "matched_terms": [
         "bills vs raiders"
@@ -56,52 +57,52 @@
     },
     {
       "rank": 5,
-      "slug": "lay",
-      "word": "lay",
-      "score": 88,
+      "slug": "forecast",
+      "word": "forecast",
+      "score": 84,
       "reason": "top_search",
       "matched_terms": [
-        "lay's new holiday potato chips"
+        "thanksgiving week weather forecast"
       ]
     },
     {
       "rank": 6,
-      "slug": "crack",
-      "word": "crack",
-      "score": 88,
+      "slug": "integrity",
+      "word": "integrity",
+      "score": 82,
       "reason": "top_search",
       "matched_terms": [
-        "gluten free ritz cracker launch"
+        "social security number database integrity"
       ]
     },
     {
       "rank": 7,
-      "slug": "food",
-      "word": "food",
-      "score": 86,
-      "reason": "top_search",
+      "slug": "saint",
+      "word": "saint",
+      "score": 82,
+      "reason": "rising_search",
       "matched_terms": [
-        "kayem foods meat recall usda"
+        "saints vs giants"
       ]
     },
     {
       "rank": 8,
-      "slug": "meat",
-      "word": "meat",
-      "score": 86,
+      "slug": "expectation",
+      "word": "expectation",
+      "score": 81,
       "reason": "top_search",
       "matched_terms": [
-        "kayem foods meat recall usda"
+        "democrats midterm election expectations"
       ]
     },
     {
       "rank": 9,
-      "slug": "launch",
-      "word": "launch",
-      "score": 82,
-      "reason": "top_search",
+      "slug": "eagle",
+      "word": "eagle",
+      "score": 81,
+      "reason": "rising_search",
       "matched_terms": [
-        "gluten free ritz cracker launch"
+        "panthers vs eagles"
       ]
     }
   ],
