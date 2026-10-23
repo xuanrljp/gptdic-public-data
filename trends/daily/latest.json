@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-22T15:11:35.281Z",
-  "date": "2026-10-20",
-  "expires_at": "2026-10-23T15:11:35.281Z",
+  "generated_at": "2026-10-23T15:09:49.422Z",
+  "date": "2026-10-22",
+  "expires_at": "2026-10-24T15:09:49.422Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,93 +16,92 @@
   "items": [
     {
       "rank": 1,
-      "slug": "cowboy",
-      "word": "cowboy",
-      "score": 92,
+      "slug": "spur",
+      "word": "spur",
+      "score": 90,
       "reason": "rising_search",
       "matched_terms": [
-        "cowboys vs packers",
-        "cowboys game"
+        "thunder vs spurs"
       ]
     },
     {
       "rank": 2,
-      "slug": "bear",
-      "word": "bear",
-      "score": 92,
+      "slug": "thunder",
+      "word": "thunder",
+      "score": 90,
       "reason": "rising_search",
       "matched_terms": [
-        "bears vs falcons"
+        "thunder vs spurs"
       ]
     },
     {
       "rank": 3,
-      "slug": "giant",
-      "word": "giant",
-      "score": 90,
+      "slug": "piston",
+      "word": "piston",
+      "score": 86,
       "reason": "rising_search",
       "matched_terms": [
-        "saints vs giants"
+        "celtics vs pistons"
       ]
     },
     {
       "rank": 4,
-      "slug": "bill",
-      "word": "bill",
-      "score": 89,
-      "reason": "rising_search",
+      "slug": "bull",
+      "word": "bull",
+      "score": 85,
+      "reason": "top_search",
       "matched_terms": [
-        "bills vs raiders"
+        "bulls vs raptors"
       ]
     },
     {
       "rank": 5,
-      "slug": "forecast",
-      "word": "forecast",
-      "score": 84,
+      "slug": "rocket",
+      "word": "rocket",
+      "score": 83,
       "reason": "top_search",
       "matched_terms": [
-        "thanksgiving week weather forecast"
+        "mavericks vs rockets"
       ]
     },
     {
       "rank": 6,
-      "slug": "integrity",
-      "word": "integrity",
+      "slug": "buck",
+      "word": "buck",
       "score": 82,
       "reason": "top_search",
       "matched_terms": [
-        "social security number database integrity"
+        "bucks vs wizards"
       ]
     },
     {
       "rank": 7,
-      "slug": "saint",
-      "word": "saint",
-      "score": 82,
-      "reason": "rising_search",
+      "slug": "hawk",
+      "word": "hawk",
+      "score": 81,
+      "reason": "top_search",
       "matched_terms": [
-        "saints vs giants"
+        "hawks vs magic"
       ]
     },
     {
       "rank": 8,
-      "slug": "expectation",
-      "word": "expectation",
-      "score": 81,
+      "slug": "dream",
+      "word": "dream",
+      "score": 80,
       "reason": "top_search",
       "matched_terms": [
-        "democrats midterm election expectations"
+        "valkyries vs dream"
       ]
     },
     {
       "rank": 9,
-      "slug": "eagle",
-      "word": "eagle",
-      "score": 81,
+      "slug": "horn",
+      "word": "horn",
+      "score": 79,
       "reason": "rising_search",
       "matched_terms": [
-        "panthers vs eagles"
+        "english horn"
       ]
     }
   ],
