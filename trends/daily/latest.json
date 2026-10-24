@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-23T15:09:49.422Z",
-  "date": "2026-10-22",
-  "expires_at": "2026-10-24T15:09:49.422Z",
+  "generated_at": "2026-10-24T17:49:53.324Z",
+  "date": "2026-10-23",
+  "expires_at": "2026-10-25T17:49:53.324Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,92 +16,92 @@
   "items": [
     {
       "rank": 1,
-      "slug": "spur",
-      "word": "spur",
-      "score": 90,
-      "reason": "rising_search",
+      "slug": "drop",
+      "word": "drop",
+      "score": 91,
+      "reason": "top_search",
       "matched_terms": [
-        "thunder vs spurs"
+        "education department drops pslf challenge"
       ]
     },
     {
       "rank": 2,
-      "slug": "thunder",
-      "word": "thunder",
-      "score": 90,
+      "slug": "buck",
+      "word": "buck",
+      "score": 89,
+      "reason": "top_search",
+      "matched_terms": [
+        "bulls vs bucks"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "bull",
+      "word": "bull",
+      "score": 89,
+      "reason": "top_search",
+      "matched_terms": [
+        "bulls vs bucks"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "vulnerable",
+      "word": "vulnerable",
+      "score": 87,
+      "reason": "rising_search",
+      "matched_terms": [
+        "php vulnerability"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "horn",
+      "word": "horn",
+      "score": 85,
+      "reason": "rising_search",
+      "matched_terms": [
+        "english horn"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "department",
+      "word": "department",
+      "score": 85,
+      "reason": "top_search",
+      "matched_terms": [
+        "education department drops pslf challenge"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "spur",
+      "word": "spur",
+      "score": 84,
       "reason": "rising_search",
       "matched_terms": [
         "thunder vs spurs"
       ]
     },
     {
-      "rank": 3,
-      "slug": "piston",
-      "word": "piston",
-      "score": 86,
+      "rank": 8,
+      "slug": "thunder",
+      "word": "thunder",
+      "score": 84,
       "reason": "rising_search",
       "matched_terms": [
-        "celtics vs pistons"
-      ]
-    },
-    {
-      "rank": 4,
-      "slug": "bull",
-      "word": "bull",
-      "score": 85,
-      "reason": "top_search",
-      "matched_terms": [
-        "bulls vs raptors"
-      ]
-    },
-    {
-      "rank": 5,
-      "slug": "rocket",
-      "word": "rocket",
-      "score": 83,
-      "reason": "top_search",
-      "matched_terms": [
-        "mavericks vs rockets"
-      ]
-    },
-    {
-      "rank": 6,
-      "slug": "buck",
-      "word": "buck",
-      "score": 82,
-      "reason": "top_search",
-      "matched_terms": [
-        "bucks vs wizards"
-      ]
-    },
-    {
-      "rank": 7,
-      "slug": "hawk",
-      "word": "hawk",
-      "score": 81,
-      "reason": "top_search",
-      "matched_terms": [
-        "hawks vs magic"
-      ]
-    },
-    {
-      "rank": 8,
-      "slug": "dream",
-      "word": "dream",
-      "score": 80,
-      "reason": "top_search",
-      "matched_terms": [
-        "valkyries vs dream"
+        "thunder vs spurs"
       ]
     },
     {
       "rank": 9,
-      "slug": "horn",
-      "word": "horn",
-      "score": 79,
-      "reason": "rising_search",
+      "slug": "cat",
+      "word": "cat",
+      "score": 83,
+      "reason": "top_search",
       "matched_terms": [
-        "english horn"
+        "asbury park mesh tunnel cats"
       ]
     }
   ],
