@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-24T17:49:53.324Z",
-  "date": "2026-10-23",
-  "expires_at": "2026-10-25T17:49:53.324Z",
+  "generated_at": "2026-10-25T18:07:54.697Z",
+  "date": "2026-10-24",
+  "expires_at": "2026-10-26T18:07:54.697Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,92 +16,95 @@
   "items": [
     {
       "rank": 1,
-      "slug": "drop",
-      "word": "drop",
-      "score": 91,
-      "reason": "top_search",
+      "slug": "bear",
+      "word": "bear",
+      "score": 96,
+      "reason": "rising_search",
       "matched_terms": [
-        "education department drops pslf challenge"
+        "bears vs patriots",
+        "chicago bears",
+        "bears game",
+        "bears"
       ]
     },
     {
       "rank": 2,
-      "slug": "buck",
-      "word": "buck",
-      "score": 89,
-      "reason": "top_search",
+      "slug": "thunder",
+      "word": "thunder",
+      "score": 88,
+      "reason": "rising_search",
       "matched_terms": [
-        "bulls vs bucks"
+        "nuggets vs thunder"
       ]
     },
     {
       "rank": 3,
-      "slug": "bull",
-      "word": "bull",
-      "score": 89,
-      "reason": "top_search",
+      "slug": "game",
+      "word": "game",
+      "score": 87,
+      "reason": "rising_search",
       "matched_terms": [
-        "bulls vs bucks"
+        "bears game"
       ]
     },
     {
       "rank": 4,
-      "slug": "vulnerable",
-      "word": "vulnerable",
-      "score": 87,
-      "reason": "rising_search",
+      "slug": "oklahoma",
+      "word": "Oklahoma",
+      "score": 86,
+      "reason": "top_search",
       "matched_terms": [
-        "php vulnerability"
+        "oklahoma vs ms state"
       ]
     },
     {
       "rank": 5,
-      "slug": "horn",
-      "word": "horn",
-      "score": 85,
-      "reason": "rising_search",
+      "slug": "skin",
+      "word": "skin",
+      "score": 86,
+      "reason": "top_search",
       "matched_terms": [
-        "english horn"
+        "under the skin netflix departure"
       ]
     },
     {
       "rank": 6,
-      "slug": "department",
-      "word": "department",
-      "score": 85,
+      "slug": "under",
+      "word": "under",
+      "score": 86,
       "reason": "top_search",
       "matched_terms": [
-        "education department drops pslf challenge"
+        "under the skin netflix departure"
       ]
     },
     {
       "rank": 7,
-      "slug": "spur",
-      "word": "spur",
+      "slug": "shy",
+      "word": "shy",
       "score": 84,
       "reason": "rising_search",
       "matched_terms": [
-        "thunder vs spurs"
+        "shyness"
       ]
     },
     {
       "rank": 8,
-      "slug": "thunder",
-      "word": "thunder",
-      "score": 84,
+      "slug": "football",
+      "word": "football",
+      "score": 82,
       "reason": "rising_search",
       "matched_terms": [
-        "thunder vs spurs"
+        "thursday night football"
       ]
     },
     {
       "rank": 9,
-      "slug": "cat",
-      "word": "cat",
-      "score": 83,
-      "reason": "top_search",
+      "slug": "caribbean",
+      "word": "Caribbean",
+      "score": 80,
+      "reason": "rising_search",
       "matched_terms": [
-        "asbury park mesh tunnel cats"
+        "royal caribbean bahamas cruise rerouted"
       ]
     }
   ],
