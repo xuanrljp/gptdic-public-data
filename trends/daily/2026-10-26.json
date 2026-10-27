@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-27T19:49:07.559Z",
+  "date": "2026-10-26",
+  "expires_at": "2026-10-28T19:49:07.559Z",
+  "source": {
+    "provider": "google_trends",
+    "dataset": "bigquery-public-data.google_trends",
+    "region": "US",
+    "tables": [
+      "top_terms",
+      "top_rising_terms"
+    ],
+    "attribution": "Data source: Google Trends"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "slug": "giant",
+      "word": "giant",
+      "score": 92,
+      "reason": "rising_search",
+      "matched_terms": [
+        "giants vs texans"
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "card",
+      "word": "card",
+      "score": 92,
+      "reason": "top_search",
+      "matched_terms": [
+        "texas roadhouse steak complaint kenneth card"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "saint",
+      "word": "saint",
+      "score": 91,
+      "reason": "rising_search",
+      "matched_terms": [
+        "steelers vs saints"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "lion",
+      "word": "lion",
+      "score": 89,
+      "reason": "rising_search",
+      "matched_terms": [
+        "packers vs lions"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "steak",
+      "word": "steak",
+      "score": 86,
+      "reason": "top_search",
+      "matched_terms": [
+        "texas roadhouse steak complaint kenneth card"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "date",
+      "word": "date",
+      "score": 82,
+      "reason": "top_search",
+      "matched_terms": [
+        "at&t settlement payout dates texas"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "flight",
+      "word": "flight",
+      "score": 79,
+      "reason": "top_search",
+      "matched_terms": [
+        "united flight 1681"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "panther",
+      "word": "panther",
+      "score": 78,
+      "reason": "rising_search",
+      "matched_terms": [
+        "buccaneers vs panthers"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "spur",
+      "word": "spur",
+      "score": 76,
+      "reason": "rising_search",
+      "matched_terms": [
+        "spurs vs mavericks"
+      ]
+    }
+  ],
+  "fallback_used": false
+}

@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-26T20:17:55.192Z",
-  "date": "2026-10-25",
-  "expires_at": "2026-10-27T20:17:55.192Z",
+  "generated_at": "2026-10-27T19:49:07.559Z",
+  "date": "2026-10-26",
+  "expires_at": "2026-10-28T19:49:07.559Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -18,91 +18,90 @@
       "rank": 1,
       "slug": "giant",
       "word": "giant",
-      "score": 96,
-      "reason": "top_search",
+      "score": 92,
+      "reason": "rising_search",
       "matched_terms": [
         "giants vs texans"
       ]
     },
     {
       "rank": 2,
-      "slug": "ray",
-      "word": "ray",
-      "score": 87,
-      "reason": "rising_search",
+      "slug": "card",
+      "word": "card",
+      "score": 92,
+      "reason": "top_search",
       "matched_terms": [
-        "rays vs brewers"
+        "texas roadhouse steak complaint kenneth card"
       ]
     },
     {
       "rank": 3,
-      "slug": "brown",
-      "word": "brown",
-      "score": 84,
-      "reason": "top_search",
+      "slug": "saint",
+      "word": "saint",
+      "score": 91,
+      "reason": "rising_search",
       "matched_terms": [
-        "browns vs titans"
+        "steelers vs saints"
       ]
     },
     {
       "rank": 4,
-      "slug": "away",
-      "word": "away",
-      "score": 82,
-      "reason": "top_search",
+      "slug": "lion",
+      "word": "lion",
+      "score": 89,
+      "reason": "rising_search",
       "matched_terms": [
-        "derek hough pet passes away"
+        "packers vs lions"
       ]
     },
     {
       "rank": 5,
-      "slug": "pass",
-      "word": "pass",
-      "score": 82,
+      "slug": "steak",
+      "word": "steak",
+      "score": 86,
       "reason": "top_search",
       "matched_terms": [
-        "derek hough pet passes away"
+        "texas roadhouse steak complaint kenneth card"
       ]
     },
     {
       "rank": 6,
-      "slug": "panther",
-      "word": "panther",
-      "score": 81,
+      "slug": "date",
+      "word": "date",
+      "score": 82,
       "reason": "top_search",
       "matched_terms": [
-        "buccaneers vs panthers",
-        "panthers vs blackhawks"
+        "at&t settlement payout dates texas"
       ]
     },
     {
       "rank": 7,
-      "slug": "viking",
-      "word": "Viking",
-      "score": 80,
+      "slug": "flight",
+      "word": "flight",
+      "score": 79,
       "reason": "top_search",
       "matched_terms": [
-        "colts vs vikings"
+        "united flight 1681"
       ]
     },
     {
       "rank": 8,
-      "slug": "dolphin",
-      "word": "dolphin",
-      "score": 79,
-      "reason": "top_search",
+      "slug": "panther",
+      "word": "panther",
+      "score": 78,
+      "reason": "rising_search",
       "matched_terms": [
-        "dolphins vs jets"
+        "buccaneers vs panthers"
       ]
     },
     {
       "rank": 9,
-      "slug": "jet",
-      "word": "jet",
-      "score": 79,
-      "reason": "top_search",
+      "slug": "spur",
+      "word": "spur",
+      "score": 76,
+      "reason": "rising_search",
       "matched_terms": [
-        "dolphins vs jets"
+        "spurs vs mavericks"
       ]
     }
   ],
