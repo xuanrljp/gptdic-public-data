@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-29T20:03:38.600Z",
-  "date": "2026-10-27",
-  "expires_at": "2026-10-30T20:03:38.600Z",
+  "generated_at": "2026-10-30T19:50:48.825Z",
+  "date": "2026-10-29",
+  "expires_at": "2026-10-31T19:50:48.825Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,93 +16,93 @@
   "items": [
     {
       "rank": 1,
-      "slug": "giant",
-      "word": "giant",
-      "score": 92,
+      "slug": "result",
+      "word": "result",
+      "score": 91,
       "reason": "rising_search",
       "matched_terms": [
-        "giants vs texans"
+        "israel election results"
       ]
     },
     {
       "rank": 2,
-      "slug": "item",
-      "word": "item",
-      "score": 91,
-      "reason": "top_search",
-      "matched_terms": [
-        "mcdonalds new holiday menu items"
-      ]
-    },
-    {
-      "rank": 3,
       "slug": "saint",
       "word": "saint",
-      "score": 91,
-      "reason": "mixed_signal",
+      "score": 89,
+      "reason": "rising_search",
       "matched_terms": [
-        "steelers vs saints",
         "susan saint james"
       ]
     },
     {
-      "rank": 4,
-      "slug": "lion",
-      "word": "lion",
+      "rank": 3,
+      "slug": "jazz",
+      "word": "jazz",
       "score": 88,
-      "reason": "rising_search",
+      "reason": "top_search",
       "matched_terms": [
-        "packers vs lions"
+        "spurs vs jazz"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "spur",
+      "word": "spur",
+      "score": 88,
+      "reason": "mixed_signal",
+      "matched_terms": [
+        "kings vs spurs",
+        "spurs vs jazz"
       ]
     },
     {
       "rank": 5,
-      "slug": "tribute",
-      "word": "tribute",
-      "score": 86,
-      "reason": "rising_search",
+      "slug": "bull",
+      "word": "bull",
+      "score": 87,
+      "reason": "top_search",
       "matched_terms": [
-        "troy aikman lawrence mccutcheon tribute"
+        "knicks vs bulls"
       ]
     },
     {
       "rank": 6,
-      "slug": "holiday",
-      "word": "holiday",
-      "score": 85,
-      "reason": "top_search",
+      "slug": "dollar",
+      "word": "dollar",
+      "score": 87,
+      "reason": "rising_search",
       "matched_terms": [
-        "mcdonalds new holiday menu items"
+        "irs 5000 dollar adoption refund"
       ]
     },
     {
       "rank": 7,
-      "slug": "menu",
-      "word": "menu",
-      "score": 85,
-      "reason": "top_search",
+      "slug": "refund",
+      "word": "refund",
+      "score": 87,
+      "reason": "rising_search",
       "matched_terms": [
-        "mcdonalds new holiday menu items"
+        "irs 5000 dollar adoption refund"
       ]
     },
     {
       "rank": 8,
-      "slug": "aircraft",
-      "word": "aircraft",
-      "score": 84,
-      "reason": "top_search",
+      "slug": "trail",
+      "word": "trail",
+      "score": 87,
+      "reason": "rising_search",
       "matched_terms": [
-        "unruly aircraft passenger"
+        "trail blazers vs lakers"
       ]
     },
     {
       "rank": 9,
-      "slug": "panther",
-      "word": "panther",
-      "score": 79,
+      "slug": "king",
+      "word": "king",
+      "score": 84,
       "reason": "rising_search",
       "matched_terms": [
-        "buccaneers vs panthers"
+        "kings vs spurs"
       ]
     }
   ],

@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-30T19:50:48.825Z",
+  "date": "2026-10-29",
+  "expires_at": "2026-10-31T19:50:48.825Z",
+  "source": {
+    "provider": "google_trends",
+    "dataset": "bigquery-public-data.google_trends",
+    "region": "US",
+    "tables": [
+      "top_terms",
+      "top_rising_terms"
+    ],
+    "attribution": "Data source: Google Trends"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "slug": "result",
+      "word": "result",
+      "score": 91,
+      "reason": "rising_search",
+      "matched_terms": [
+        "israel election results"
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "saint",
+      "word": "saint",
+      "score": 89,
+      "reason": "rising_search",
+      "matched_terms": [
+        "susan saint james"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "jazz",
+      "word": "jazz",
+      "score": 88,
+      "reason": "top_search",
+      "matched_terms": [
+        "spurs vs jazz"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "spur",
+      "word": "spur",
+      "score": 88,
+      "reason": "mixed_signal",
+      "matched_terms": [
+        "kings vs spurs",
+        "spurs vs jazz"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "bull",
+      "word": "bull",
+      "score": 87,
+      "reason": "top_search",
+      "matched_terms": [
+        "knicks vs bulls"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "dollar",
+      "word": "dollar",
+      "score": 87,
+      "reason": "rising_search",
+      "matched_terms": [
+        "irs 5000 dollar adoption refund"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "refund",
+      "word": "refund",
+      "score": 87,
+      "reason": "rising_search",
+      "matched_terms": [
+        "irs 5000 dollar adoption refund"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "trail",
+      "word": "trail",
+      "score": 87,
+      "reason": "rising_search",
+      "matched_terms": [
+        "trail blazers vs lakers"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "king",
+      "word": "king",
+      "score": 84,
+      "reason": "rising_search",
+      "matched_terms": [
+        "kings vs spurs"
+      ]
+    }
+  ],
+  "fallback_used": false
+}
