@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31T19:05:46.790Z",
-  "date": "2026-10-29",
-  "expires_at": "2026-11-01T19:05:46.790Z",
+  "generated_at": "2026-11-01T19:21:51.865Z",
+  "date": "2026-10-31",
+  "expires_at": "2026-11-02T19:21:51.865Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,93 +16,93 @@
   "items": [
     {
       "rank": 1,
-      "slug": "result",
-      "word": "result",
+      "slug": "panther",
+      "word": "panther",
       "score": 91,
       "reason": "rising_search",
       "matched_terms": [
-        "israel election results"
+        "panthers",
+        "panthers vs packers"
       ]
     },
     {
       "rank": 2,
-      "slug": "saint",
-      "word": "saint",
-      "score": 89,
+      "slug": "body",
+      "word": "body",
+      "score": 84,
       "reason": "rising_search",
       "matched_terms": [
-        "susan saint james"
+        "lewy body dementia"
       ]
     },
     {
       "rank": 3,
-      "slug": "jazz",
-      "word": "jazz",
-      "score": 88,
-      "reason": "top_search",
+      "slug": "cause",
+      "word": "cause",
+      "score": 83,
+      "reason": "rising_search",
       "matched_terms": [
-        "spurs vs jazz"
+        "patrick stewart cause of death"
       ]
     },
     {
       "rank": 4,
-      "slug": "spur",
-      "word": "spur",
-      "score": 88,
-      "reason": "mixed_signal",
+      "slug": "game",
+      "word": "game",
+      "score": 82,
+      "reason": "top_search",
       "matched_terms": [
-        "kings vs spurs",
-        "spurs vs jazz"
+        "florida georgia game"
       ]
     },
     {
       "rank": 5,
-      "slug": "bull",
-      "word": "bull",
-      "score": 87,
+      "slug": "green",
+      "word": "green",
+      "score": 79,
       "reason": "top_search",
       "matched_terms": [
-        "knicks vs bulls"
+        "bowling green vs wmu"
       ]
     },
     {
       "rank": 6,
-      "slug": "dollar",
-      "word": "dollar",
-      "score": 87,
+      "slug": "meal",
+      "word": "meal",
+      "score": 78,
       "reason": "rising_search",
       "matched_terms": [
-        "irs 5000 dollar adoption refund"
+        "mcdonald's pokémon happy meal"
       ]
     },
     {
       "rank": 7,
-      "slug": "refund",
-      "word": "refund",
-      "score": 87,
-      "reason": "rising_search",
+      "slug": "duke",
+      "word": "duke",
+      "score": 78,
+      "reason": "top_search",
       "matched_terms": [
-        "irs 5000 dollar adoption refund"
+        "boston college vs duke"
       ]
     },
     {
       "rank": 8,
-      "slug": "trail",
-      "word": "trail",
-      "score": 87,
-      "reason": "rising_search",
+      "slug": "treat",
+      "word": "treat",
+      "score": 77,
+      "reason": "top_search",
       "matched_terms": [
-        "trail blazers vs lakers"
+        "what time is trick or treating"
       ]
     },
     {
       "rank": 9,
-      "slug": "king",
-      "word": "king",
-      "score": 84,
-      "reason": "rising_search",
+      "slug": "trick",
+      "word": "trick",
+      "score": 77,
+      "reason": "top_search",
       "matched_terms": [
-        "kings vs spurs"
+        "what time is trick or treating"
       ]
     }
   ],

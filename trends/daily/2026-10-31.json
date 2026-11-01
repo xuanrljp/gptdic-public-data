@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-01T19:21:51.865Z",
+  "date": "2026-10-31",
+  "expires_at": "2026-11-02T19:21:51.865Z",
+  "source": {
+    "provider": "google_trends",
+    "dataset": "bigquery-public-data.google_trends",
+    "region": "US",
+    "tables": [
+      "top_terms",
+      "top_rising_terms"
+    ],
+    "attribution": "Data source: Google Trends"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "slug": "panther",
+      "word": "panther",
+      "score": 91,
+      "reason": "rising_search",
+      "matched_terms": [
+        "panthers",
+        "panthers vs packers"
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "body",
+      "word": "body",
+      "score": 84,
+      "reason": "rising_search",
+      "matched_terms": [
+        "lewy body dementia"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "cause",
+      "word": "cause",
+      "score": 83,
+      "reason": "rising_search",
+      "matched_terms": [
+        "patrick stewart cause of death"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "game",
+      "word": "game",
+      "score": 82,
+      "reason": "top_search",
+      "matched_terms": [
+        "florida georgia game"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "green",
+      "word": "green",
+      "score": 79,
+      "reason": "top_search",
+      "matched_terms": [
+        "bowling green vs wmu"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "meal",
+      "word": "meal",
+      "score": 78,
+      "reason": "rising_search",
+      "matched_terms": [
+        "mcdonald's pokémon happy meal"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "duke",
+      "word": "duke",
+      "score": 78,
+      "reason": "top_search",
+      "matched_terms": [
+        "boston college vs duke"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "treat",
+      "word": "treat",
+      "score": 77,
+      "reason": "top_search",
+      "matched_terms": [
+        "what time is trick or treating"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "trick",
+      "word": "trick",
+      "score": 77,
+      "reason": "top_search",
+      "matched_terms": [
+        "what time is trick or treating"
+      ]
+    }
+  ],
+  "fallback_used": false
+}
