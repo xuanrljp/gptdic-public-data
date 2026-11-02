@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-01T19:21:51.865Z",
-  "date": "2026-10-31",
-  "expires_at": "2026-11-02T19:21:51.865Z",
+  "generated_at": "2026-11-02T22:58:59.678Z",
+  "date": "2026-11-01",
+  "expires_at": "2026-11-03T22:58:59.678Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,93 +16,99 @@
   "items": [
     {
       "rank": 1,
-      "slug": "panther",
-      "word": "panther",
-      "score": 91,
-      "reason": "rising_search",
+      "slug": "cowboy",
+      "word": "cowboy",
+      "score": 85,
+      "reason": "top_search",
       "matched_terms": [
-        "panthers",
-        "panthers vs packers"
+        "cardinals vs cowboys",
+        "cowboys",
+        "cowboys game"
       ]
     },
     {
       "rank": 2,
-      "slug": "body",
-      "word": "body",
-      "score": 84,
-      "reason": "rising_search",
+      "slug": "lion",
+      "word": "lion",
+      "score": 82,
+      "reason": "top_search",
       "matched_terms": [
-        "lewy body dementia"
+        "vikings vs lions",
+        "detroit lions"
       ]
     },
     {
       "rank": 3,
-      "slug": "cause",
-      "word": "cause",
-      "score": 83,
-      "reason": "rising_search",
+      "slug": "viking",
+      "word": "Viking",
+      "score": 82,
+      "reason": "top_search",
       "matched_terms": [
-        "patrick stewart cause of death"
+        "vikings vs lions"
       ]
     },
     {
       "rank": 4,
-      "slug": "game",
-      "word": "game",
+      "slug": "bill",
+      "word": "bill",
       "score": 82,
       "reason": "top_search",
       "matched_terms": [
-        "florida georgia game"
+        "buffalo bills",
+        "ravens vs bills",
+        "bills game"
       ]
     },
     {
       "rank": 5,
-      "slug": "green",
-      "word": "green",
-      "score": 79,
+      "slug": "jet",
+      "word": "jet",
+      "score": 81,
       "reason": "top_search",
       "matched_terms": [
-        "bowling green vs wmu"
+        "raiders vs jets"
       ]
     },
     {
       "rank": 6,
-      "slug": "meal",
-      "word": "meal",
+      "slug": "race",
+      "word": "race",
       "score": 78,
-      "reason": "rising_search",
+      "reason": "top_search",
       "matched_terms": [
-        "mcdonald's pokémon happy meal"
+        "racing santander vs real madrid"
       ]
     },
     {
       "rank": 7,
-      "slug": "duke",
-      "word": "duke",
-      "score": 78,
+      "slug": "game",
+      "word": "game",
+      "score": 77,
       "reason": "top_search",
       "matched_terms": [
-        "boston college vs duke"
+        "bengals game",
+        "bills game",
+        "cowboys game"
       ]
     },
     {
       "rank": 8,
-      "slug": "treat",
-      "word": "treat",
+      "slug": "brown",
+      "word": "brown",
       "score": 77,
       "reason": "top_search",
       "matched_terms": [
-        "what time is trick or treating"
+        "browns vs steelers"
       ]
     },
     {
       "rank": 9,
-      "slug": "trick",
-      "word": "trick",
+      "slug": "dolphin",
+      "word": "dolphin",
       "score": 77,
       "reason": "top_search",
       "matched_terms": [
-        "what time is trick or treating"
+        "patriots vs dolphins"
       ]
     }
   ],
