@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-02T22:58:59.678Z",
-  "date": "2026-11-01",
-  "expires_at": "2026-11-03T22:58:59.678Z",
+  "generated_at": "2026-11-03T20:46:12.453Z",
+  "date": "2026-11-02",
+  "expires_at": "2026-11-04T20:46:12.453Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,99 +16,92 @@
   "items": [
     {
       "rank": 1,
-      "slug": "cowboy",
-      "word": "cowboy",
-      "score": 85,
-      "reason": "top_search",
+      "slug": "heritage",
+      "word": "heritage",
+      "score": 92,
+      "reason": "rising_search",
       "matched_terms": [
-        "cardinals vs cowboys",
-        "cowboys",
-        "cowboys game"
+        "native american heritage month"
       ]
     },
     {
       "rank": 2,
-      "slug": "lion",
-      "word": "lion",
-      "score": 82,
-      "reason": "top_search",
+      "slug": "native",
+      "word": "native",
+      "score": 92,
+      "reason": "rising_search",
       "matched_terms": [
-        "vikings vs lions",
-        "detroit lions"
+        "native american heritage month"
       ]
     },
     {
       "rank": 3,
-      "slug": "viking",
-      "word": "Viking",
-      "score": 82,
+      "slug": "cowboy",
+      "word": "cowboy",
+      "score": 90,
+      "reason": "rising_search",
+      "matched_terms": [
+        "cardinals vs cowboys"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "card",
+      "word": "card",
+      "score": 85,
       "reason": "top_search",
+      "matched_terms": [
+        "target pokemon card lottery system"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "lion",
+      "word": "lion",
+      "score": 85,
+      "reason": "rising_search",
       "matched_terms": [
         "vikings vs lions"
       ]
     },
     {
-      "rank": 4,
-      "slug": "bill",
-      "word": "bill",
-      "score": 82,
-      "reason": "top_search",
-      "matched_terms": [
-        "buffalo bills",
-        "ravens vs bills",
-        "bills game"
-      ]
-    },
-    {
-      "rank": 5,
-      "slug": "jet",
-      "word": "jet",
-      "score": 81,
-      "reason": "top_search",
-      "matched_terms": [
-        "raiders vs jets"
-      ]
-    },
-    {
       "rank": 6,
-      "slug": "race",
-      "word": "race",
-      "score": 78,
-      "reason": "top_search",
+      "slug": "viking",
+      "word": "Viking",
+      "score": 85,
+      "reason": "rising_search",
       "matched_terms": [
-        "racing santander vs real madrid"
+        "vikings vs lions"
       ]
     },
     {
       "rank": 7,
-      "slug": "game",
-      "word": "game",
-      "score": 77,
+      "slug": "release",
+      "word": "release",
+      "score": 84,
       "reason": "top_search",
       "matched_terms": [
-        "bengals game",
-        "bills game",
-        "cowboys game"
+        "ice post release immigrant detentions"
       ]
     },
     {
       "rank": 8,
       "slug": "brown",
       "word": "brown",
-      "score": 77,
-      "reason": "top_search",
+      "score": 84,
+      "reason": "rising_search",
       "matched_terms": [
         "browns vs steelers"
       ]
     },
     {
       "rank": 9,
-      "slug": "dolphin",
-      "word": "dolphin",
-      "score": 77,
+      "slug": "apple",
+      "word": "apple",
+      "score": 84,
       "reason": "top_search",
       "matched_terms": [
-        "patriots vs dolphins"
+        "apple earnings"
       ]
     }
   ],
