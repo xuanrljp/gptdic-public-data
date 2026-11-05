@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-04T21:03:26.753Z",
-  "date": "2026-11-02",
-  "expires_at": "2026-11-05T21:03:26.753Z",
+  "generated_at": "2026-11-05T21:19:55.464Z",
+  "date": "2026-11-04",
+  "expires_at": "2026-11-06T21:19:55.464Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,92 +16,96 @@
   "items": [
     {
       "rank": 1,
-      "slug": "heritage",
-      "word": "heritage",
-      "score": 92,
+      "slug": "bear",
+      "word": "bear",
+      "score": 98,
       "reason": "rising_search",
       "matched_terms": [
-        "native american heritage month"
+        "bears vs seahawks"
       ]
     },
     {
       "rank": 2,
-      "slug": "native",
-      "word": "native",
+      "slug": "do",
+      "word": "do",
       "score": 92,
-      "reason": "rising_search",
+      "reason": "top_search",
       "matched_terms": [
-        "native american heritage month"
+        "what does habibi mean"
       ]
     },
     {
       "rank": 3,
-      "slug": "cowboy",
-      "word": "cowboy",
+      "slug": "result",
+      "word": "result",
       "score": 90,
       "reason": "rising_search",
       "matched_terms": [
-        "cardinals vs cowboys"
+        "election results so far",
+        "2026 us election results",
+        "election results",
+        "midterm elections results"
       ]
     },
     {
       "rank": 4,
-      "slug": "card",
-      "word": "card",
-      "score": 85,
-      "reason": "top_search",
+      "slug": "villa",
+      "word": "villa",
+      "score": 89,
+      "reason": "rising_search",
       "matched_terms": [
-        "target pokemon card lottery system"
+        "barcelona vs aston villa",
+        "barcelona aston villa"
       ]
     },
     {
       "rank": 5,
-      "slug": "lion",
-      "word": "lion",
-      "score": 85,
-      "reason": "rising_search",
+      "slug": "lens",
+      "word": "lens",
+      "score": 87,
+      "reason": "top_search",
       "matched_terms": [
-        "vikings vs lions"
+        "lens vs como"
       ]
     },
     {
       "rank": 6,
-      "slug": "viking",
-      "word": "Viking",
+      "slug": "eagle",
+      "word": "eagle",
       "score": 85,
       "reason": "rising_search",
       "matched_terms": [
-        "vikings vs lions"
+        "eagles vs commanders"
       ]
     },
     {
       "rank": 7,
-      "slug": "release",
-      "word": "release",
-      "score": 84,
+      "slug": "cause",
+      "word": "cause",
+      "score": 82,
       "reason": "top_search",
       "matched_terms": [
-        "ice post release immigrant detentions"
+        "princes william and harry shared cause"
       ]
     },
     {
       "rank": 8,
-      "slug": "brown",
-      "word": "brown",
-      "score": 84,
-      "reason": "rising_search",
+      "slug": "share",
+      "word": "share",
+      "score": 82,
+      "reason": "top_search",
       "matched_terms": [
-        "browns vs steelers"
+        "princes william and harry shared cause"
       ]
     },
     {
       "rank": 9,
-      "slug": "apple",
-      "word": "apple",
-      "score": 84,
+      "slug": "forecast",
+      "word": "forecast",
+      "score": 82,
       "reason": "top_search",
       "matched_terms": [
-        "apple earnings"
+        "christmas forecast"
       ]
     }
   ],

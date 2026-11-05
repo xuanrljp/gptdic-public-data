@@ -1,0 +1,113 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-05T21:19:55.464Z",
+  "date": "2026-11-04",
+  "expires_at": "2026-11-06T21:19:55.464Z",
+  "source": {
+    "provider": "google_trends",
+    "dataset": "bigquery-public-data.google_trends",
+    "region": "US",
+    "tables": [
+      "top_terms",
+      "top_rising_terms"
+    ],
+    "attribution": "Data source: Google Trends"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "slug": "bear",
+      "word": "bear",
+      "score": 98,
+      "reason": "rising_search",
+      "matched_terms": [
+        "bears vs seahawks"
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "do",
+      "word": "do",
+      "score": 92,
+      "reason": "top_search",
+      "matched_terms": [
+        "what does habibi mean"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "result",
+      "word": "result",
+      "score": 90,
+      "reason": "rising_search",
+      "matched_terms": [
+        "election results so far",
+        "2026 us election results",
+        "election results",
+        "midterm elections results"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "villa",
+      "word": "villa",
+      "score": 89,
+      "reason": "rising_search",
+      "matched_terms": [
+        "barcelona vs aston villa",
+        "barcelona aston villa"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "lens",
+      "word": "lens",
+      "score": 87,
+      "reason": "top_search",
+      "matched_terms": [
+        "lens vs como"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "eagle",
+      "word": "eagle",
+      "score": 85,
+      "reason": "rising_search",
+      "matched_terms": [
+        "eagles vs commanders"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "cause",
+      "word": "cause",
+      "score": 82,
+      "reason": "top_search",
+      "matched_terms": [
+        "princes william and harry shared cause"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "share",
+      "word": "share",
+      "score": 82,
+      "reason": "top_search",
+      "matched_terms": [
+        "princes william and harry shared cause"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "forecast",
+      "word": "forecast",
+      "score": 82,
+      "reason": "top_search",
+      "matched_terms": [
+        "christmas forecast"
+      ]
+    }
+  ],
+  "fallback_used": false
+}
