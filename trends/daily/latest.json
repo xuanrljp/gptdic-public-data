@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-05T21:19:55.464Z",
-  "date": "2026-11-04",
-  "expires_at": "2026-11-06T21:19:55.464Z",
+  "generated_at": "2026-11-06T20:41:39.211Z",
+  "date": "2026-11-05",
+  "expires_at": "2026-11-07T20:41:39.211Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,96 +16,98 @@
   "items": [
     {
       "rank": 1,
-      "slug": "bear",
-      "word": "bear",
+      "slug": "result",
+      "word": "result",
       "score": 98,
       "reason": "rising_search",
       "matched_terms": [
-        "bears vs seahawks"
+        "2026 us election results",
+        "election results so far",
+        "live election results",
+        "midterm election results",
+        "mississippi election results"
       ]
     },
     {
       "rank": 2,
-      "slug": "do",
-      "word": "do",
+      "slug": "state",
+      "word": "state",
       "score": 92,
-      "reason": "top_search",
+      "reason": "rising_search",
       "matched_terms": [
-        "what does habibi mean"
+        "2026 united states elections",
+        "2026 united states senate elections"
       ]
     },
     {
       "rank": 3,
-      "slug": "result",
-      "word": "result",
-      "score": 90,
-      "reason": "rising_search",
+      "slug": "bracket",
+      "word": "bracket",
+      "score": 81,
+      "reason": "top_search",
       "matched_terms": [
-        "election results so far",
-        "2026 us election results",
-        "election results",
-        "midterm elections results"
+        "2027 tax brackets"
       ]
     },
     {
       "rank": 4,
-      "slug": "villa",
-      "word": "villa",
-      "score": 89,
-      "reason": "rising_search",
+      "slug": "brand",
+      "word": "brand",
+      "score": 81,
+      "reason": "top_search",
       "matched_terms": [
-        "barcelona vs aston villa",
-        "barcelona aston villa"
+        "russell brand"
       ]
     },
     {
       "rank": 5,
-      "slug": "lens",
-      "word": "lens",
-      "score": 87,
+      "slug": "market",
+      "word": "market",
+      "score": 79,
       "reason": "top_search",
       "matched_terms": [
-        "lens vs como"
+        "stock market",
+        "stock market crash"
       ]
     },
     {
       "rank": 6,
-      "slug": "eagle",
-      "word": "eagle",
-      "score": 85,
-      "reason": "rising_search",
+      "slug": "million",
+      "word": "million",
+      "score": 75,
+      "reason": "top_search",
       "matched_terms": [
-        "eagles vs commanders"
+        "powerball winner new jersey 847 million"
       ]
     },
     {
       "rank": 7,
-      "slug": "cause",
-      "word": "cause",
-      "score": 82,
-      "reason": "top_search",
+      "slug": "villa",
+      "word": "villa",
+      "score": 72,
+      "reason": "rising_search",
       "matched_terms": [
-        "princes william and harry shared cause"
+        "barcelona aston villa"
       ]
     },
     {
       "rank": 8,
-      "slug": "share",
-      "word": "share",
-      "score": 82,
+      "slug": "rice",
+      "word": "rice",
+      "score": 67,
       "reason": "top_search",
       "matched_terms": [
-        "princes william and harry shared cause"
+        "rashee rice"
       ]
     },
     {
       "rank": 9,
-      "slug": "forecast",
-      "word": "forecast",
-      "score": 82,
+      "slug": "crash",
+      "word": "crash",
+      "score": 59,
       "reason": "top_search",
       "matched_terms": [
-        "christmas forecast"
+        "stock market crash"
       ]
     }
   ],
