@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-07T19:15:23.942Z",
-  "date": "2026-11-05",
-  "expires_at": "2026-11-08T19:15:23.942Z",
+  "generated_at": "2026-11-08T19:19:32.003Z",
+  "date": "2026-11-07",
+  "expires_at": "2026-11-09T19:19:32.003Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,98 +16,93 @@
   "items": [
     {
       "rank": 1,
-      "slug": "result",
-      "word": "result",
-      "score": 98,
-      "reason": "rising_search",
-      "matched_terms": [
-        "2026 us election results",
-        "election results so far",
-        "live election results",
-        "midterm election results",
-        "mississippi election results"
-      ]
-    },
-    {
-      "rank": 2,
-      "slug": "state",
-      "word": "state",
-      "score": 92,
-      "reason": "rising_search",
-      "matched_terms": [
-        "2026 united states elections",
-        "2026 united states senate elections"
-      ]
-    },
-    {
-      "rank": 3,
-      "slug": "bracket",
-      "word": "bracket",
-      "score": 81,
-      "reason": "top_search",
-      "matched_terms": [
-        "2027 tax brackets"
-      ]
-    },
-    {
-      "rank": 4,
       "slug": "brand",
       "word": "brand",
-      "score": 81,
-      "reason": "top_search",
+      "score": 91,
+      "reason": "rising_search",
       "matched_terms": [
         "russell brand"
       ]
     },
     {
-      "rank": 5,
-      "slug": "market",
-      "word": "market",
-      "score": 79,
+      "rank": 2,
+      "slug": "king",
+      "word": "king",
+      "score": 86,
       "reason": "top_search",
       "matched_terms": [
-        "stock market",
-        "stock market crash"
+        "spurs vs kings"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "spur",
+      "word": "spur",
+      "score": 86,
+      "reason": "mixed_signal",
+      "matched_terms": [
+        "mavericks vs spurs",
+        "spurs vs kings"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "climate",
+      "word": "climate",
+      "score": 86,
+      "reason": "top_search",
+      "matched_terms": [
+        "climate prediction center heavy snow map"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "saint",
+      "word": "saint",
+      "score": 85,
+      "reason": "rising_search",
+      "matched_terms": [
+        "susan saint james"
       ]
     },
     {
       "rank": 6,
-      "slug": "million",
-      "word": "million",
-      "score": 75,
+      "slug": "game",
+      "word": "game",
+      "score": 84,
       "reason": "top_search",
       "matched_terms": [
-        "powerball winner new jersey 847 million"
+        "steam free games november 2026"
       ]
     },
     {
       "rank": 7,
-      "slug": "villa",
-      "word": "villa",
-      "score": 72,
-      "reason": "rising_search",
+      "slug": "thunder",
+      "word": "thunder",
+      "score": 81,
+      "reason": "top_search",
       "matched_terms": [
-        "barcelona aston villa"
+        "thunder vs grizzlies"
       ]
     },
     {
       "rank": 8,
-      "slug": "rice",
-      "word": "rice",
-      "score": 67,
-      "reason": "top_search",
+      "slug": "hill",
+      "word": "hill",
+      "score": 79,
+      "reason": "rising_search",
       "matched_terms": [
-        "rashee rice"
+        "kimmarie johnson beverly hills 90210"
       ]
     },
     {
       "rank": 9,
-      "slug": "crash",
-      "word": "crash",
-      "score": 59,
-      "reason": "top_search",
+      "slug": "football",
+      "word": "football",
+      "score": 79,
+      "reason": "rising_search",
       "matched_terms": [
-        "stock market crash"
+        "thursday night football"
       ]
     }
   ],
