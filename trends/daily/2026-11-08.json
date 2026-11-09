@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-09T23:41:13.990Z",
+  "date": "2026-11-08",
+  "expires_at": "2026-11-10T23:41:13.990Z",
+  "source": {
+    "provider": "google_trends",
+    "dataset": "bigquery-public-data.google_trends",
+    "region": "US",
+    "tables": [
+      "top_terms",
+      "top_rising_terms"
+    ],
+    "attribution": "Data source: Google Trends"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "slug": "cowboy",
+      "word": "cowboy",
+      "score": 88,
+      "reason": "top_search",
+      "matched_terms": [
+        "cowboys vs colts"
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "giant",
+      "word": "giant",
+      "score": 88,
+      "reason": "top_search",
+      "matched_terms": [
+        "giants vs eagles"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "brown",
+      "word": "brown",
+      "score": 82,
+      "reason": "top_search",
+      "matched_terms": [
+        "browns vs saints"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "saint",
+      "word": "saint",
+      "score": 82,
+      "reason": "top_search",
+      "matched_terms": [
+        "browns vs saints"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "panther",
+      "word": "panther",
+      "score": 82,
+      "reason": "top_search",
+      "matched_terms": [
+        "broncos vs panthers"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "jet",
+      "word": "jet",
+      "score": 82,
+      "reason": "top_search",
+      "matched_terms": [
+        "jets vs chiefs"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "dolphin",
+      "word": "dolphin",
+      "score": 81,
+      "reason": "top_search",
+      "matched_terms": [
+        "lions vs dolphins"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "lion",
+      "word": "lion",
+      "score": 81,
+      "reason": "top_search",
+      "matched_terms": [
+        "lions vs dolphins"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "white",
+      "word": "white",
+      "score": 80,
+      "reason": "rising_search",
+      "matched_terms": [
+        "dana white"
+      ]
+    }
+  ],
+  "fallback_used": false
+}
