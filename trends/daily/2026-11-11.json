@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-12T21:43:16.968Z",
+  "date": "2026-11-11",
+  "expires_at": "2026-11-13T21:43:16.968Z",
+  "source": {
+    "provider": "google_trends",
+    "dataset": "bigquery-public-data.google_trends",
+    "region": "US",
+    "tables": [
+      "top_terms",
+      "top_rising_terms"
+    ],
+    "attribution": "Data source: Google Trends"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "slug": "state",
+      "word": "state",
+      "score": 96,
+      "reason": "top_search",
+      "matched_terms": [
+        "ss united states sinking"
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "bear",
+      "word": "bear",
+      "score": 96,
+      "reason": "rising_search",
+      "matched_terms": [
+        "buccaneers vs bears"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "olive",
+      "word": "olive",
+      "score": 92,
+      "reason": "top_search",
+      "matched_terms": [
+        "olive garden veterans day"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "veteran",
+      "word": "veteran",
+      "score": 92,
+      "reason": "top_search",
+      "matched_terms": [
+        "is today veterans day",
+        "olive garden veterans day"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "bill",
+      "word": "bill",
+      "score": 91,
+      "reason": "rising_search",
+      "matched_terms": [
+        "bills vs vikings"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "viking",
+      "word": "Viking",
+      "score": 91,
+      "reason": "rising_search",
+      "matched_terms": [
+        "bills vs vikings"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "sink",
+      "word": "sink",
+      "score": 88,
+      "reason": "top_search",
+      "matched_terms": [
+        "ss united states sinking"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "collapse",
+      "word": "collapse",
+      "score": 84,
+      "reason": "top_search",
+      "matched_terms": [
+        "building collapse nyc"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "pass",
+      "word": "pass",
+      "score": 84,
+      "reason": "top_search",
+      "matched_terms": [
+        "disco singer rochelle fleming passes"
+      ]
+    }
+  ],
+  "fallback_used": false
+}
