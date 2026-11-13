@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-13T21:10:30.158Z",
+  "date": "2026-11-12",
+  "expires_at": "2026-11-14T21:10:30.158Z",
+  "source": {
+    "provider": "google_trends",
+    "dataset": "bigquery-public-data.google_trends",
+    "region": "US",
+    "tables": [
+      "top_terms",
+      "top_rising_terms"
+    ],
+    "attribution": "Data source: Google Trends"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "slug": "outlook",
+      "word": "outlook",
+      "score": 97,
+      "reason": "rising_search",
+      "matched_terms": [
+        "is outlook down right now",
+        "microsoft outlook",
+        "microsoft outlook outage",
+        "outlook outage",
+        "outlook down"
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "down",
+      "word": "down",
+      "score": 96,
+      "reason": "rising_search",
+      "matched_terms": [
+        "is outlook down right now",
+        "microsoft down",
+        "outlook down",
+        "is outlook down"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "affair",
+      "word": "affair",
+      "score": 90,
+      "reason": "top_search",
+      "matched_terms": [
+        "jensen huang third affair"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "cut",
+      "word": "cut",
+      "score": 89,
+      "reason": "top_search",
+      "matched_terms": [
+        "social security cuts"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "black",
+      "word": "black",
+      "score": 85,
+      "reason": "top_search",
+      "matched_terms": [
+        "nintendo black friday"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "belgium",
+      "word": "Belgium",
+      "score": 84,
+      "reason": "top_search",
+      "matched_terms": [
+        "türkiye vs belgium"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "football",
+      "word": "football",
+      "score": 83,
+      "reason": "top_search",
+      "matched_terms": [
+        "england national football team vs croatia national football team standings"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "outage",
+      "word": "outage",
+      "score": 80,
+      "reason": "rising_search",
+      "matched_terms": [
+        "microsoft outlook outage",
+        "outlook outage",
+        "microsoft outage"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "friday",
+      "word": "Friday",
+      "score": 79,
+      "reason": "top_search",
+      "matched_terms": [
+        "nintendo black friday"
+      ]
+    }
+  ],
+  "fallback_used": false
+}

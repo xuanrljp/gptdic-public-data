@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-12T21:43:16.968Z",
-  "date": "2026-11-11",
-  "expires_at": "2026-11-13T21:43:16.968Z",
+  "generated_at": "2026-11-13T21:10:30.158Z",
+  "date": "2026-11-12",
+  "expires_at": "2026-11-14T21:10:30.158Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,93 +16,101 @@
   "items": [
     {
       "rank": 1,
-      "slug": "state",
-      "word": "state",
-      "score": 96,
-      "reason": "top_search",
+      "slug": "outlook",
+      "word": "outlook",
+      "score": 97,
+      "reason": "rising_search",
       "matched_terms": [
-        "ss united states sinking"
+        "is outlook down right now",
+        "microsoft outlook",
+        "microsoft outlook outage",
+        "outlook outage",
+        "outlook down"
       ]
     },
     {
       "rank": 2,
-      "slug": "bear",
-      "word": "bear",
+      "slug": "down",
+      "word": "down",
       "score": 96,
       "reason": "rising_search",
       "matched_terms": [
-        "buccaneers vs bears"
+        "is outlook down right now",
+        "microsoft down",
+        "outlook down",
+        "is outlook down"
       ]
     },
     {
       "rank": 3,
-      "slug": "olive",
-      "word": "olive",
-      "score": 92,
+      "slug": "affair",
+      "word": "affair",
+      "score": 90,
       "reason": "top_search",
       "matched_terms": [
-        "olive garden veterans day"
+        "jensen huang third affair"
       ]
     },
     {
       "rank": 4,
-      "slug": "veteran",
-      "word": "veteran",
-      "score": 92,
+      "slug": "cut",
+      "word": "cut",
+      "score": 89,
       "reason": "top_search",
       "matched_terms": [
-        "is today veterans day",
-        "olive garden veterans day"
+        "social security cuts"
       ]
     },
     {
       "rank": 5,
-      "slug": "bill",
-      "word": "bill",
-      "score": 91,
-      "reason": "rising_search",
+      "slug": "black",
+      "word": "black",
+      "score": 85,
+      "reason": "top_search",
       "matched_terms": [
-        "bills vs vikings"
+        "nintendo black friday"
       ]
     },
     {
       "rank": 6,
-      "slug": "viking",
-      "word": "Viking",
-      "score": 91,
-      "reason": "rising_search",
+      "slug": "belgium",
+      "word": "Belgium",
+      "score": 84,
+      "reason": "top_search",
       "matched_terms": [
-        "bills vs vikings"
+        "türkiye vs belgium"
       ]
     },
     {
       "rank": 7,
-      "slug": "sink",
-      "word": "sink",
-      "score": 88,
+      "slug": "football",
+      "word": "football",
+      "score": 83,
       "reason": "top_search",
       "matched_terms": [
-        "ss united states sinking"
+        "england national football team vs croatia national football team standings"
       ]
     },
     {
       "rank": 8,
-      "slug": "collapse",
-      "word": "collapse",
-      "score": 84,
-      "reason": "top_search",
+      "slug": "outage",
+      "word": "outage",
+      "score": 80,
+      "reason": "rising_search",
       "matched_terms": [
-        "building collapse nyc"
+        "microsoft outlook outage",
+        "outlook outage",
+        "microsoft outage"
       ]
     },
     {
       "rank": 9,
-      "slug": "pass",
-      "word": "pass",
-      "score": 84,
+      "slug": "friday",
+      "word": "Friday",
+      "score": 79,
       "reason": "top_search",
       "matched_terms": [
-        "disco singer rochelle fleming passes"
+        "nintendo black friday"
       ]
     }
   ],
