@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-14T19:41:47.892Z",
-  "date": "2026-11-12",
-  "expires_at": "2026-11-15T19:41:47.892Z",
+  "generated_at": "2026-11-15T20:08:01.929Z",
+  "date": "2026-11-14",
+  "expires_at": "2026-11-16T20:08:01.929Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,101 +16,102 @@
   "items": [
     {
       "rank": 1,
-      "slug": "outlook",
-      "word": "outlook",
-      "score": 97,
+      "slug": "ground",
+      "word": "ground",
+      "score": 98,
       "reason": "rising_search",
       "matched_terms": [
-        "is outlook down right now",
-        "microsoft outlook",
-        "microsoft outlook outage",
-        "outlook outage",
-        "outlook down"
+        "all flights grounded",
+        "are flights still grounded",
+        "flights grounded today",
+        "planes grounded",
+        "why are all flights grounded"
       ]
     },
     {
       "rank": 2,
-      "slug": "down",
-      "word": "down",
-      "score": 96,
+      "slug": "stop",
+      "word": "stop",
+      "score": 97,
       "reason": "rising_search",
       "matched_terms": [
-        "is outlook down right now",
-        "microsoft down",
-        "outlook down",
-        "is outlook down"
+        "nationwide ground stop",
+        "faa ground stop",
+        "faa ground stop today",
+        "ground stop"
       ]
     },
     {
       "rank": 3,
-      "slug": "affair",
-      "word": "affair",
-      "score": 90,
+      "slug": "haiti",
+      "word": "Haiti",
+      "score": 93,
       "reason": "top_search",
       "matched_terms": [
-        "jensen huang third affair"
+        "haiti vs usa"
       ]
     },
     {
       "rank": 4,
-      "slug": "cut",
-      "word": "cut",
+      "slug": "plane",
+      "word": "plane",
       "score": 89,
-      "reason": "top_search",
+      "reason": "rising_search",
       "matched_terms": [
-        "social security cuts"
+        "planes grounded"
       ]
     },
     {
       "rank": 5,
-      "slug": "black",
-      "word": "black",
-      "score": 85,
+      "slug": "duke",
+      "word": "duke",
+      "score": 88,
       "reason": "top_search",
       "matched_terms": [
-        "nintendo black friday"
+        "duke vs miami fl"
       ]
     },
     {
       "rank": 6,
-      "slug": "belgium",
-      "word": "Belgium",
-      "score": 84,
-      "reason": "top_search",
+      "slug": "portugal",
+      "word": "Portugal",
+      "score": 87,
+      "reason": "mixed_signal",
       "matched_terms": [
-        "türkiye vs belgium"
+        "portugal vs denmark",
+        "portugal - dinamarca",
+        "posiciones de selección de fútbol de portugal contra selección de fútbol de dinamarca",
+        "portugal national football team vs denmark national football team standings"
       ]
     },
     {
       "rank": 7,
-      "slug": "football",
-      "word": "football",
-      "score": 83,
-      "reason": "top_search",
+      "slug": "nationwide",
+      "word": "nationwide",
+      "score": 86,
+      "reason": "rising_search",
       "matched_terms": [
-        "england national football team vs croatia national football team standings"
+        "nationwide ground stop"
       ]
     },
     {
       "rank": 8,
-      "slug": "outage",
-      "word": "outage",
-      "score": 80,
-      "reason": "rising_search",
+      "slug": "wake",
+      "word": "wake",
+      "score": 85,
+      "reason": "top_search",
       "matched_terms": [
-        "microsoft outlook outage",
-        "outlook outage",
-        "microsoft outage"
+        "wake forest vs smu"
       ]
     },
     {
       "rank": 9,
-      "slug": "friday",
-      "word": "Friday",
+      "slug": "northwest",
+      "word": "northwest",
       "score": 79,
-      "reason": "top_search",
+      "reason": "rising_search",
       "matched_terms": [
-        "nintendo black friday"
+        "northwestern vs ohio state"
       ]
     }
   ],
