@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-15T20:08:01.929Z",
+  "generated_at": "2026-11-16T23:38:21.335Z",
   "date": "2026-11-14",
-  "expires_at": "2026-11-16T20:08:01.929Z",
+  "expires_at": "2026-11-17T23:38:21.335Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -21,11 +21,11 @@
       "score": 98,
       "reason": "rising_search",
       "matched_terms": [
-        "all flights grounded",
-        "are flights still grounded",
+        "flights grounded",
         "flights grounded today",
-        "planes grounded",
-        "why are all flights grounded"
+        "why are all flights grounded",
+        "are flights still grounded",
+        "all flights grounded"
       ]
     },
     {
@@ -35,10 +35,10 @@
       "score": 97,
       "reason": "rising_search",
       "matched_terms": [
-        "nationwide ground stop",
         "faa ground stop",
+        "ground stop",
         "faa ground stop today",
-        "ground stop"
+        "nationwide ground stop"
       ]
     },
     {
@@ -78,10 +78,10 @@
       "score": 87,
       "reason": "mixed_signal",
       "matched_terms": [
-        "portugal vs denmark",
         "portugal - dinamarca",
-        "posiciones de selección de fútbol de portugal contra selección de fútbol de dinamarca",
-        "portugal national football team vs denmark national football team standings"
+        "portugal vs denmark",
+        "portugal national football team vs denmark national football team standings",
+        "posiciones de selección de fútbol de portugal contra selección de fútbol de dinamarca"
       ]
     },
     {
