@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-19T22:33:49.060Z",
+  "date": "2026-11-18",
+  "expires_at": "2026-11-20T22:33:49.060Z",
+  "source": {
+    "provider": "google_trends",
+    "dataset": "bigquery-public-data.google_trends",
+    "region": "US",
+    "tables": [
+      "top_terms",
+      "top_rising_terms"
+    ],
+    "attribution": "Data source: Google Trends"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "slug": "piston",
+      "word": "piston",
+      "score": 89,
+      "reason": "rising_search",
+      "matched_terms": [
+        "pistons vs spurs"
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "spur",
+      "word": "spur",
+      "score": 89,
+      "reason": "rising_search",
+      "matched_terms": [
+        "pistons vs spurs"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "dance",
+      "word": "dance",
+      "score": 89,
+      "reason": "mixed_signal",
+      "matched_terms": [
+        "dancing with the stars",
+        "who got eliminated on dancing with the stars"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "apple",
+      "word": "apple",
+      "score": 89,
+      "reason": "top_search",
+      "matched_terms": [
+        "apple outage"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "lane",
+      "word": "lane",
+      "score": 88,
+      "reason": "rising_search",
+      "matched_terms": [
+        "penny lane"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "penny",
+      "word": "penny",
+      "score": 88,
+      "reason": "rising_search",
+      "matched_terms": [
+        "penny lane"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "trail",
+      "word": "trail",
+      "score": 86,
+      "reason": "rising_search",
+      "matched_terms": [
+        "trail blazers vs timberwolves"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "alert",
+      "word": "alert",
+      "score": 84,
+      "reason": "rising_search",
+      "matched_terms": [
+        "emergency alert system"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "star",
+      "word": "star",
+      "score": 83,
+      "reason": "mixed_signal",
+      "matched_terms": [
+        "dancing with the stars",
+        "who got eliminated on dancing with the stars"
+      ]
+    }
+  ],
+  "fallback_used": false
+}

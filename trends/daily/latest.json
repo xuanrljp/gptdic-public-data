@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-18T22:28:26.874Z",
-  "date": "2026-11-17",
-  "expires_at": "2026-11-19T22:28:26.874Z",
+  "generated_at": "2026-11-19T22:33:49.060Z",
+  "date": "2026-11-18",
+  "expires_at": "2026-11-20T22:33:49.060Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,97 +16,94 @@
   "items": [
     {
       "rank": 1,
-      "slug": "football",
-      "word": "football",
-      "score": 92,
+      "slug": "piston",
+      "word": "piston",
+      "score": 89,
       "reason": "rising_search",
       "matched_terms": [
-        "monday night football",
-        "monday night football tonight"
+        "pistons vs spurs"
       ]
     },
     {
       "rank": 2,
-      "slug": "down",
-      "word": "down",
-      "score": 91,
+      "slug": "spur",
+      "word": "spur",
+      "score": 89,
       "reason": "rising_search",
       "matched_terms": [
-        "banks down"
+        "pistons vs spurs"
       ]
     },
     {
       "rank": 3,
-      "slug": "bond",
-      "word": "bond",
-      "score": 90,
-      "reason": "rising_search",
+      "slug": "dance",
+      "word": "dance",
+      "score": 89,
+      "reason": "mixed_signal",
       "matched_terms": [
-        "robert pattinson james bond",
-        "james bond",
-        "new james bond"
+        "dancing with the stars",
+        "who got eliminated on dancing with the stars"
       ]
     },
     {
       "rank": 4,
-      "slug": "monday",
-      "word": "Monday",
-      "score": 86,
-      "reason": "rising_search",
+      "slug": "apple",
+      "word": "apple",
+      "score": 89,
+      "reason": "top_search",
       "matched_terms": [
-        "monday night football",
-        "monday night football tonight"
+        "apple outage"
       ]
     },
     {
       "rank": 5,
-      "slug": "nationwide",
-      "word": "nationwide",
-      "score": 86,
-      "reason": "top_search",
+      "slug": "lane",
+      "word": "lane",
+      "score": 88,
+      "reason": "rising_search",
       "matched_terms": [
-        "nationwide blackout"
+        "penny lane"
       ]
     },
     {
       "rank": 6,
-      "slug": "bank",
-      "word": "bank",
-      "score": 85,
+      "slug": "penny",
+      "word": "penny",
+      "score": 88,
       "reason": "rising_search",
       "matched_terms": [
-        "banks down"
+        "penny lane"
       ]
     },
     {
       "rank": 7,
       "slug": "trail",
       "word": "trail",
-      "score": 84,
-      "reason": "top_search",
+      "score": 86,
+      "reason": "rising_search",
       "matched_terms": [
         "trail blazers vs timberwolves"
       ]
     },
     {
       "rank": 8,
-      "slug": "bomb",
-      "word": "bomb",
+      "slug": "alert",
+      "word": "alert",
       "score": 84,
-      "reason": "top_search",
+      "reason": "rising_search",
       "matched_terms": [
-        "dirty bomb"
+        "emergency alert system"
       ]
     },
     {
       "rank": 9,
-      "slug": "tonight",
-      "word": "tonight",
-      "score": 82,
-      "reason": "rising_search",
+      "slug": "star",
+      "word": "star",
+      "score": 83,
+      "reason": "mixed_signal",
       "matched_terms": [
-        "mnf tonight",
-        "monday night football tonight"
+        "dancing with the stars",
+        "who got eliminated on dancing with the stars"
       ]
     }
   ],
