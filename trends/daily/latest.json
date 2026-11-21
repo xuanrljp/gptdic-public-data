@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-20T22:06:57.683Z",
-  "date": "2026-11-18",
-  "expires_at": "2026-11-21T22:06:57.683Z",
+  "generated_at": "2026-11-21T20:46:12.029Z",
+  "date": "2026-11-20",
+  "expires_at": "2026-11-22T20:46:12.029Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,94 +16,92 @@
   "items": [
     {
       "rank": 1,
-      "slug": "piston",
-      "word": "piston",
-      "score": 89,
-      "reason": "rising_search",
+      "slug": "buck",
+      "word": "buck",
+      "score": 90,
+      "reason": "top_search",
       "matched_terms": [
-        "pistons vs spurs"
+        "trail blazers vs bucks"
       ]
     },
     {
       "rank": 2,
-      "slug": "spur",
-      "word": "spur",
-      "score": 89,
-      "reason": "rising_search",
+      "slug": "trail",
+      "word": "trail",
+      "score": 90,
+      "reason": "top_search",
       "matched_terms": [
-        "pistons vs spurs"
+        "trail blazers vs bucks"
       ]
     },
     {
       "rank": 3,
-      "slug": "dance",
-      "word": "dance",
-      "score": 89,
-      "reason": "mixed_signal",
+      "slug": "spur",
+      "word": "spur",
+      "score": 84,
+      "reason": "rising_search",
       "matched_terms": [
-        "dancing with the stars",
-        "who got eliminated on dancing with the stars"
+        "clippers vs spurs"
       ]
     },
     {
       "rank": 4,
-      "slug": "apple",
-      "word": "apple",
-      "score": 89,
-      "reason": "top_search",
+      "slug": "football",
+      "word": "football",
+      "score": 84,
+      "reason": "rising_search",
       "matched_terms": [
-        "apple outage"
+        "thursday night football"
       ]
     },
     {
       "rank": 5,
-      "slug": "lane",
-      "word": "lane",
-      "score": 88,
-      "reason": "rising_search",
+      "slug": "rice",
+      "word": "rice",
+      "score": 83,
+      "reason": "top_search",
       "matched_terms": [
-        "penny lane"
+        "rice vs temple"
       ]
     },
     {
       "rank": 6,
-      "slug": "penny",
-      "word": "penny",
-      "score": 88,
-      "reason": "rising_search",
+      "slug": "temple",
+      "word": "temple",
+      "score": 83,
+      "reason": "top_search",
       "matched_terms": [
-        "penny lane"
+        "rice vs temple"
       ]
     },
     {
       "rank": 7,
-      "slug": "trail",
-      "word": "trail",
-      "score": 86,
+      "slug": "close",
+      "word": "close",
+      "score": 83,
       "reason": "rising_search",
       "matched_terms": [
-        "trail blazers vs timberwolves"
+        "kfc closing"
       ]
     },
     {
       "rank": 8,
-      "slug": "alert",
-      "word": "alert",
-      "score": 84,
-      "reason": "rising_search",
+      "slug": "duck",
+      "word": "duck",
+      "score": 79,
+      "reason": "top_search",
       "matched_terms": [
-        "emergency alert system"
+        "ducks vs avalanche"
       ]
     },
     {
       "rank": 9,
-      "slug": "star",
-      "word": "star",
-      "score": 83,
-      "reason": "mixed_signal",
+      "slug": "blue",
+      "word": "blue",
+      "score": 79,
+      "reason": "top_search",
       "matched_terms": [
-        "dancing with the stars",
-        "who got eliminated on dancing with the stars"
+        "blue jackets vs blackhawks"
       ]
     }
   ],

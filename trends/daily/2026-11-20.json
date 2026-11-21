@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-21T20:46:12.029Z",
+  "date": "2026-11-20",
+  "expires_at": "2026-11-22T20:46:12.029Z",
+  "source": {
+    "provider": "google_trends",
+    "dataset": "bigquery-public-data.google_trends",
+    "region": "US",
+    "tables": [
+      "top_terms",
+      "top_rising_terms"
+    ],
+    "attribution": "Data source: Google Trends"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "slug": "buck",
+      "word": "buck",
+      "score": 90,
+      "reason": "top_search",
+      "matched_terms": [
+        "trail blazers vs bucks"
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "trail",
+      "word": "trail",
+      "score": 90,
+      "reason": "top_search",
+      "matched_terms": [
+        "trail blazers vs bucks"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "spur",
+      "word": "spur",
+      "score": 84,
+      "reason": "rising_search",
+      "matched_terms": [
+        "clippers vs spurs"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "football",
+      "word": "football",
+      "score": 84,
+      "reason": "rising_search",
+      "matched_terms": [
+        "thursday night football"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "rice",
+      "word": "rice",
+      "score": 83,
+      "reason": "top_search",
+      "matched_terms": [
+        "rice vs temple"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "temple",
+      "word": "temple",
+      "score": 83,
+      "reason": "top_search",
+      "matched_terms": [
+        "rice vs temple"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "close",
+      "word": "close",
+      "score": 83,
+      "reason": "rising_search",
+      "matched_terms": [
+        "kfc closing"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "duck",
+      "word": "duck",
+      "score": 79,
+      "reason": "top_search",
+      "matched_terms": [
+        "ducks vs avalanche"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "blue",
+      "word": "blue",
+      "score": 79,
+      "reason": "top_search",
+      "matched_terms": [
+        "blue jackets vs blackhawks"
+      ]
+    }
+  ],
+  "fallback_used": false
+}
