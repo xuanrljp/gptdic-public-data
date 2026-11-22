@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-22T20:55:44.981Z",
+  "date": "2026-11-21",
+  "expires_at": "2026-11-23T20:55:44.981Z",
+  "source": {
+    "provider": "google_trends",
+    "dataset": "bigquery-public-data.google_trends",
+    "region": "US",
+    "tables": [
+      "top_terms",
+      "top_rising_terms"
+    ],
+    "attribution": "Data source: Google Trends"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "slug": "hypothesis",
+      "word": "hypothesis",
+      "score": 89,
+      "reason": "rising_search",
+      "matched_terms": [
+        "riemann hypothesis"
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "petty",
+      "word": "petty",
+      "score": 84,
+      "reason": "rising_search",
+      "matched_terms": [
+        "patrick petty"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "oklahoma",
+      "word": "Oklahoma",
+      "score": 82,
+      "reason": "top_search",
+      "matched_terms": [
+        "texas a&m vs oklahoma"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "buck",
+      "word": "buck",
+      "score": 81,
+      "reason": "rising_search",
+      "matched_terms": [
+        "bucks vs 76ers"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "duke",
+      "word": "duke",
+      "score": 79,
+      "reason": "rising_search",
+      "matched_terms": [
+        "clemson vs duke"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "northwest",
+      "word": "northwest",
+      "score": 78,
+      "reason": "top_search",
+      "matched_terms": [
+        "northwestern vs minnesota"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "king",
+      "word": "king",
+      "score": 76,
+      "reason": "rising_search",
+      "matched_terms": [
+        "kings vs lakers"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "football",
+      "word": "football",
+      "score": 74,
+      "reason": "rising_search",
+      "matched_terms": [
+        "nebraska football"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "circuit",
+      "word": "circuit",
+      "score": 70,
+      "reason": "rising_search",
+      "matched_terms": [
+        "5th circuit proxy voting ruling"
+      ]
+    }
+  ],
+  "fallback_used": false
+}
