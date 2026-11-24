@@ -1,0 +1,109 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-24T23:45:20.481Z",
+  "date": "2026-11-23",
+  "expires_at": "2026-11-25T23:45:20.481Z",
+  "source": {
+    "provider": "google_trends",
+    "dataset": "bigquery-public-data.google_trends",
+    "region": "US",
+    "tables": [
+      "top_terms",
+      "top_rising_terms"
+    ],
+    "attribution": "Data source: Google Trends"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "slug": "beyond",
+      "word": "beyond",
+      "score": 99,
+      "reason": "top_search",
+      "matched_terms": [
+        "planets beyond neptune"
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "vain",
+      "word": "vain",
+      "score": 94,
+      "reason": "top_search",
+      "matched_terms": [
+        "vanity fair taylor swift"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "giant",
+      "word": "giant",
+      "score": 92,
+      "reason": "rising_search",
+      "matched_terms": [
+        "jaguars vs giants"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "cowboy",
+      "word": "cowboy",
+      "score": 91,
+      "reason": "rising_search",
+      "matched_terms": [
+        "titans vs cowboys"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "eagle",
+      "word": "eagle",
+      "score": 90,
+      "reason": "rising_search",
+      "matched_terms": [
+        "steelers vs eagles"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "viking",
+      "word": "Viking",
+      "score": 89,
+      "reason": "rising_search",
+      "matched_terms": [
+        "vikings vs 49ers"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "bear",
+      "word": "bear",
+      "score": 89,
+      "reason": "rising_search",
+      "matched_terms": [
+        "saints vs bears"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "swift",
+      "word": "swift",
+      "score": 86,
+      "reason": "top_search",
+      "matched_terms": [
+        "vanity fair taylor swift"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "saint",
+      "word": "saint",
+      "score": 83,
+      "reason": "rising_search",
+      "matched_terms": [
+        "saints vs bears"
+      ]
+    }
+  ],
+  "fallback_used": false
+}

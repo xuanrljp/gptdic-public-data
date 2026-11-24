@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T01:59:40.466Z",
-  "date": "2026-11-22",
-  "expires_at": "2026-11-25T01:59:40.466Z",
+  "generated_at": "2026-11-24T23:45:20.481Z",
+  "date": "2026-11-23",
+  "expires_at": "2026-11-25T23:45:20.481Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,94 +16,92 @@
   "items": [
     {
       "rank": 1,
-      "slug": "cowboy",
-      "word": "cowboy",
-      "score": 92,
-      "reason": "mixed_signal",
+      "slug": "beyond",
+      "word": "beyond",
+      "score": 99,
+      "reason": "top_search",
       "matched_terms": [
-        "titans vs cowboys",
-        "nfl standings cowboys"
+        "planets beyond neptune"
       ]
     },
     {
       "rank": 2,
-      "slug": "eagle",
-      "word": "eagle",
-      "score": 91,
-      "reason": "mixed_signal",
+      "slug": "vain",
+      "word": "vain",
+      "score": 94,
+      "reason": "top_search",
       "matched_terms": [
-        "nfl standings eagles",
-        "steelers vs eagles"
+        "vanity fair taylor swift"
       ]
     },
     {
       "rank": 3,
-      "slug": "bear",
-      "word": "bear",
-      "score": 91,
-      "reason": "rising_search",
-      "matched_terms": [
-        "saints vs bears"
-      ]
-    },
-    {
-      "rank": 4,
       "slug": "giant",
       "word": "giant",
-      "score": 89,
-      "reason": "top_search",
+      "score": 92,
+      "reason": "rising_search",
       "matched_terms": [
         "jaguars vs giants"
       ]
     },
     {
+      "rank": 4,
+      "slug": "cowboy",
+      "word": "cowboy",
+      "score": 91,
+      "reason": "rising_search",
+      "matched_terms": [
+        "titans vs cowboys"
+      ]
+    },
+    {
       "rank": 5,
-      "slug": "saint",
-      "word": "saint",
-      "score": 85,
+      "slug": "eagle",
+      "word": "eagle",
+      "score": 90,
+      "reason": "rising_search",
+      "matched_terms": [
+        "steelers vs eagles"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "viking",
+      "word": "Viking",
+      "score": 89,
+      "reason": "rising_search",
+      "matched_terms": [
+        "vikings vs 49ers"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "bear",
+      "word": "bear",
+      "score": 89,
       "reason": "rising_search",
       "matched_terms": [
         "saints vs bears"
       ]
     },
     {
-      "rank": 6,
-      "slug": "lion",
-      "word": "lion",
-      "score": 84,
-      "reason": "rising_search",
-      "matched_terms": [
-        "buccaneers vs lions"
-      ]
-    },
-    {
-      "rank": 7,
-      "slug": "state",
-      "word": "state",
-      "score": 78,
-      "reason": "top_search",
-      "matched_terms": [
-        "united states attorney"
-      ]
-    },
-    {
       "rank": 8,
-      "slug": "jet",
-      "word": "jet",
-      "score": 77,
+      "slug": "swift",
+      "word": "swift",
+      "score": 86,
       "reason": "top_search",
       "matched_terms": [
-        "jets vs chargers"
+        "vanity fair taylor swift"
       ]
     },
     {
       "rank": 9,
-      "slug": "bill",
-      "word": "bill",
-      "score": 77,
+      "slug": "saint",
+      "word": "saint",
+      "score": 83,
       "reason": "rising_search",
       "matched_terms": [
-        "dolphins vs bills"
+        "saints vs bears"
       ]
     }
   ],
