@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T20:55:44.981Z",
-  "date": "2026-11-21",
-  "expires_at": "2026-11-23T20:55:44.981Z",
+  "generated_at": "2026-11-24T01:59:40.466Z",
+  "date": "2026-11-22",
+  "expires_at": "2026-11-25T01:59:40.466Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,92 +16,94 @@
   "items": [
     {
       "rank": 1,
-      "slug": "hypothesis",
-      "word": "hypothesis",
-      "score": 89,
-      "reason": "rising_search",
+      "slug": "cowboy",
+      "word": "cowboy",
+      "score": 92,
+      "reason": "mixed_signal",
       "matched_terms": [
-        "riemann hypothesis"
+        "titans vs cowboys",
+        "nfl standings cowboys"
       ]
     },
     {
       "rank": 2,
-      "slug": "petty",
-      "word": "petty",
-      "score": 84,
-      "reason": "rising_search",
+      "slug": "eagle",
+      "word": "eagle",
+      "score": 91,
+      "reason": "mixed_signal",
       "matched_terms": [
-        "patrick petty"
+        "nfl standings eagles",
+        "steelers vs eagles"
       ]
     },
     {
       "rank": 3,
-      "slug": "oklahoma",
-      "word": "Oklahoma",
-      "score": 82,
-      "reason": "top_search",
+      "slug": "bear",
+      "word": "bear",
+      "score": 91,
+      "reason": "rising_search",
       "matched_terms": [
-        "texas a&m vs oklahoma"
+        "saints vs bears"
       ]
     },
     {
       "rank": 4,
-      "slug": "buck",
-      "word": "buck",
-      "score": 81,
-      "reason": "rising_search",
+      "slug": "giant",
+      "word": "giant",
+      "score": 89,
+      "reason": "top_search",
       "matched_terms": [
-        "bucks vs 76ers"
+        "jaguars vs giants"
       ]
     },
     {
       "rank": 5,
-      "slug": "duke",
-      "word": "duke",
-      "score": 79,
+      "slug": "saint",
+      "word": "saint",
+      "score": 85,
       "reason": "rising_search",
       "matched_terms": [
-        "clemson vs duke"
+        "saints vs bears"
       ]
     },
     {
       "rank": 6,
-      "slug": "northwest",
-      "word": "northwest",
-      "score": 78,
-      "reason": "top_search",
+      "slug": "lion",
+      "word": "lion",
+      "score": 84,
+      "reason": "rising_search",
       "matched_terms": [
-        "northwestern vs minnesota"
+        "buccaneers vs lions"
       ]
     },
     {
       "rank": 7,
-      "slug": "king",
-      "word": "king",
-      "score": 76,
-      "reason": "rising_search",
+      "slug": "state",
+      "word": "state",
+      "score": 78,
+      "reason": "top_search",
       "matched_terms": [
-        "kings vs lakers"
+        "united states attorney"
       ]
     },
     {
       "rank": 8,
-      "slug": "football",
-      "word": "football",
-      "score": 74,
-      "reason": "rising_search",
+      "slug": "jet",
+      "word": "jet",
+      "score": 77,
+      "reason": "top_search",
       "matched_terms": [
-        "nebraska football"
+        "jets vs chargers"
       ]
     },
     {
       "rank": 9,
-      "slug": "circuit",
-      "word": "circuit",
-      "score": 70,
+      "slug": "bill",
+      "word": "bill",
+      "score": 77,
       "reason": "rising_search",
       "matched_terms": [
-        "5th circuit proxy voting ruling"
+        "dolphins vs bills"
       ]
     }
   ],
