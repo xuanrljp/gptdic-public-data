@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-24T23:45:20.481Z",
-  "date": "2026-11-23",
-  "expires_at": "2026-11-25T23:45:20.481Z",
+  "generated_at": "2026-11-25T23:27:57.263Z",
+  "date": "2026-11-24",
+  "expires_at": "2026-11-26T23:27:57.263Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,59 +16,59 @@
   "items": [
     {
       "rank": 1,
-      "slug": "beyond",
-      "word": "beyond",
-      "score": 99,
-      "reason": "top_search",
+      "slug": "football",
+      "word": "football",
+      "score": 93,
+      "reason": "rising_search",
       "matched_terms": [
-        "planets beyond neptune"
+        "monday night football"
       ]
     },
     {
       "rank": 2,
-      "slug": "vain",
-      "word": "vain",
-      "score": 94,
+      "slug": "mill",
+      "word": "mill",
+      "score": 92,
       "reason": "top_search",
       "matched_terms": [
-        "vanity fair taylor swift"
+        "christie miller"
       ]
     },
     {
       "rank": 3,
-      "slug": "giant",
-      "word": "giant",
+      "slug": "hack",
+      "word": "hack",
       "score": 92,
-      "reason": "rising_search",
+      "reason": "top_search",
       "matched_terms": [
-        "jaguars vs giants"
+        "steven hack"
       ]
     },
     {
       "rank": 4,
-      "slug": "cowboy",
-      "word": "cowboy",
-      "score": 91,
-      "reason": "rising_search",
+      "slug": "villa",
+      "word": "villa",
+      "score": 90,
+      "reason": "top_search",
       "matched_terms": [
-        "titans vs cowboys"
+        "galatasaray vs aston villa"
       ]
     },
     {
       "rank": 5,
-      "slug": "eagle",
-      "word": "eagle",
-      "score": 90,
+      "slug": "monday",
+      "word": "Monday",
+      "score": 87,
       "reason": "rising_search",
       "matched_terms": [
-        "steelers vs eagles"
+        "monday night football"
       ]
     },
     {
       "rank": 6,
       "slug": "viking",
       "word": "Viking",
-      "score": 89,
+      "score": 85,
       "reason": "rising_search",
       "matched_terms": [
         "vikings vs 49ers"
@@ -76,32 +76,32 @@
     },
     {
       "rank": 7,
-      "slug": "bear",
-      "word": "bear",
-      "score": 89,
-      "reason": "rising_search",
+      "slug": "dance",
+      "word": "dance",
+      "score": 85,
+      "reason": "top_search",
       "matched_terms": [
-        "saints vs bears"
+        "what time is dancing with the stars on tonight"
       ]
     },
     {
       "rank": 8,
-      "slug": "swift",
-      "word": "swift",
-      "score": 86,
-      "reason": "top_search",
+      "slug": "trail",
+      "word": "trail",
+      "score": 84,
+      "reason": "rising_search",
       "matched_terms": [
-        "vanity fair taylor swift"
+        "trail blazers vs 76ers"
       ]
     },
     {
       "rank": 9,
-      "slug": "saint",
-      "word": "saint",
+      "slug": "code",
+      "word": "code",
       "score": 83,
-      "reason": "rising_search",
+      "reason": "top_search",
       "matched_terms": [
-        "saints vs bears"
+        "microsoft code red"
       ]
     }
   ],
