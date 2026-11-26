@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T23:27:57.263Z",
-  "date": "2026-11-24",
-  "expires_at": "2026-11-26T23:27:57.263Z",
+  "generated_at": "2026-11-26T23:28:49.542Z",
+  "date": "2026-11-25",
+  "expires_at": "2026-11-27T23:28:49.542Z",
   "source": {
     "provider": "google_trends",
     "dataset": "bigquery-public-data.google_trends",
@@ -16,92 +16,101 @@
   "items": [
     {
       "rank": 1,
-      "slug": "football",
-      "word": "football",
-      "score": 93,
-      "reason": "rising_search",
+      "slug": "sport",
+      "word": "sport",
+      "score": 90,
+      "reason": "top_search",
       "matched_terms": [
-        "monday night football"
+        "sporting lisboa - manchester united",
+        "sporting vs man utd"
       ]
     },
     {
       "rank": 2,
-      "slug": "mill",
-      "word": "mill",
-      "score": 92,
+      "slug": "hour",
+      "word": "hour",
+      "score": 90,
       "reason": "top_search",
       "matched_terms": [
-        "christie miller"
+        "walmart thanksgiving hours"
       ]
     },
     {
       "rank": 3,
-      "slug": "hack",
-      "word": "hack",
-      "score": 92,
-      "reason": "top_search",
+      "slug": "dance",
+      "word": "dance",
+      "score": 88,
+      "reason": "rising_search",
       "matched_terms": [
-        "steven hack"
+        "dancing with the stars",
+        "dancing with the stars voting",
+        "who won dancing with the stars",
+        "who won dancing with the stars 2026"
       ]
     },
     {
       "rank": 4,
-      "slug": "villa",
-      "word": "villa",
-      "score": 90,
+      "slug": "club",
+      "word": "club",
+      "score": 88,
       "reason": "top_search",
       "matched_terms": [
-        "galatasaray vs aston villa"
+        "club brugge vs liverpool"
       ]
     },
     {
       "rank": 5,
-      "slug": "monday",
-      "word": "Monday",
+      "slug": "ground",
+      "word": "ground",
       "score": 87,
-      "reason": "rising_search",
+      "reason": "top_search",
       "matched_terms": [
-        "monday night football"
+        "macys thanksgiving 2026 grounded"
       ]
     },
     {
       "rank": 6,
-      "slug": "viking",
-      "word": "Viking",
+      "slug": "december",
+      "word": "December",
       "score": 85,
       "reason": "rising_search",
       "matched_terms": [
-        "vikings vs 49ers"
+        "ssi payments two deposits december 2026"
       ]
     },
     {
       "rank": 7,
-      "slug": "dance",
-      "word": "dance",
+      "slug": "deposit",
+      "word": "deposit",
       "score": 85,
-      "reason": "top_search",
+      "reason": "rising_search",
       "matched_terms": [
-        "what time is dancing with the stars on tonight"
+        "ssi payments two deposits december 2026"
       ]
     },
     {
       "rank": 8,
-      "slug": "trail",
-      "word": "trail",
+      "slug": "thanksgiving",
+      "word": "Thanksgiving",
       "score": 84,
-      "reason": "rising_search",
+      "reason": "mixed_signal",
       "matched_terms": [
-        "trail blazers vs 76ers"
+        "macys thanksgiving 2026 grounded",
+        "thanksgiving 2026",
+        "walmart thanksgiving hours"
       ]
     },
     {
       "rank": 9,
-      "slug": "code",
-      "word": "code",
-      "score": 83,
-      "reason": "top_search",
+      "slug": "star",
+      "word": "star",
+      "score": 82,
+      "reason": "rising_search",
       "matched_terms": [
-        "microsoft code red"
+        "dancing with the stars",
+        "dancing with the stars voting",
+        "who won dancing with the stars",
+        "who won dancing with the stars 2026"
       ]
     }
   ],
