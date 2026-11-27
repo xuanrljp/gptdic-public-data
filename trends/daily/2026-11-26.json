@@ -1,0 +1,118 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-11-27T23:13:06.063Z",
+  "date": "2026-11-26",
+  "expires_at": "2026-11-28T23:13:06.063Z",
+  "source": {
+    "provider": "google_trends",
+    "dataset": "bigquery-public-data.google_trends",
+    "region": "US",
+    "tables": [
+      "top_terms",
+      "top_rising_terms"
+    ],
+    "attribution": "Data source: Google Trends"
+  },
+  "items": [
+    {
+      "rank": 1,
+      "slug": "bear",
+      "word": "bear",
+      "score": 99,
+      "reason": "mixed_signal",
+      "matched_terms": [
+        "bears nfl standings",
+        "bears",
+        "bears vs lions"
+      ]
+    },
+    {
+      "rank": 2,
+      "slug": "lion",
+      "word": "lion",
+      "score": 90,
+      "reason": "rising_search",
+      "matched_terms": [
+        "bears vs lions"
+      ]
+    },
+    {
+      "rank": 3,
+      "slug": "game",
+      "word": "game",
+      "score": 89,
+      "reason": "top_search",
+      "matched_terms": [
+        "what football games are on today",
+        "cowboys game",
+        "games today"
+      ]
+    },
+    {
+      "rank": 4,
+      "slug": "microphone",
+      "word": "microphone",
+      "score": 88,
+      "reason": "rising_search",
+      "matched_terms": [
+        "mike mccarthy"
+      ]
+    },
+    {
+      "rank": 5,
+      "slug": "hour",
+      "word": "hour",
+      "score": 87,
+      "reason": "rising_search",
+      "matched_terms": [
+        "walmart thanksgiving hours"
+      ]
+    },
+    {
+      "rank": 6,
+      "slug": "cowboy",
+      "word": "cowboy",
+      "score": 85,
+      "reason": "mixed_signal",
+      "matched_terms": [
+        "eagles vs cowboys",
+        "cowboys game"
+      ]
+    },
+    {
+      "rank": 7,
+      "slug": "eagle",
+      "word": "eagle",
+      "score": 85,
+      "reason": "rising_search",
+      "matched_terms": [
+        "eagles vs cowboys"
+      ]
+    },
+    {
+      "rank": 8,
+      "slug": "football",
+      "word": "football",
+      "score": 82,
+      "reason": "top_search",
+      "matched_terms": [
+        "what football games are on today"
+      ]
+    },
+    {
+      "rank": 9,
+      "slug": "thanksgiving",
+      "word": "Thanksgiving",
+      "score": 81,
+      "reason": "rising_search",
+      "matched_terms": [
+        "happy thanksgiving images",
+        "is walmart open on thanksgiving",
+        "thanksgiving 2026",
+        "what stores are open on thanksgiving",
+        "happy thanksgiving gif"
+      ]
+    }
+  ],
+  "fallback_used": false
+}
